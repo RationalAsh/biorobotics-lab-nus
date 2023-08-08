@@ -1,6 +1,6 @@
 ---
-title: A Cable-Driven Exoskeleton With Personalized Assistance Improves the Gait
-  Metrics of People in Subacute Stroke
+draft: false
+url_pdf: ./publication/pdf/A_Cable-Driven_Exoskeleton_With_Personalized_Assistance_Improves_the_Gait_Metrics_of_People_in_Subacute_Stroke.pdf
 publication_types:
   - "2"
 authors:
@@ -11,7 +11,7 @@ authors:
   - Qiuyang Qian
   - Wei Wang
   - Haoyong Yu
-  - Minging Zhang
+  - and Minging Zhang
 doi: 10.1109/TNSRE.2023.3281409
 publication: "*IEEE Transactions on Neural Systems and Rehabilitation
   Engineering, vol. 31, pp. 2560-2569, May 2023*"
@@ -33,8 +33,8 @@ abstract: Most stroke survivors have mobility deficits and show a pathological
   activities of ankle flexor muscles. These results demonstrate that SEAExo with
   personalized assistance has the potential to enhance post-stroke gait
   rehabilitation in real-world clinical settings.
-draft: false
-url_pdf: ./publication/pdf/A_Cable-Driven_Exoskeleton_With_Personalized_Assistance_Improves_the_Gait_Metrics_of_People_in_Subacute_Stroke
+title: A Cable-Driven Exoskeleton With Personalized Assistance Improves the Gait
+  Metrics of People in Subacute Stroke
 featured: false
 image:
   filename: featured
