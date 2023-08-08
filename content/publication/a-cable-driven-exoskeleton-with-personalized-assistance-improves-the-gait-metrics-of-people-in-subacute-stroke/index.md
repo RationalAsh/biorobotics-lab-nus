@@ -34,6 +34,7 @@ abstract: Most stroke survivors have mobility deficits and show a pathological
   personalized assistance has the potential to enhance post-stroke gait
   rehabilitation in real-world clinical settings.
 draft: false
+url_pdf: ./publication/pdf/A_Cable-Driven_Exoskeleton_With_Personalized_Assistance_Improves_the_Gait_Metrics_of_People_in_Subacute_Stroke
 featured: false
 image:
   filename: featured
