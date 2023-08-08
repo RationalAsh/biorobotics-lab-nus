@@ -28,7 +28,7 @@ education:
   courses:
     - course: B.E. in Biomedical Engineering
       institution: National University of Singapore
-      year: 1988
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
