@@ -8,7 +8,7 @@ authors:
   - Shuaishuai Han
   - Yining Wang
   - Haoyong Yu
-  - and C. Fu
+  - and Chenglong Fu
 url_dataset: ""
 url_project: ""
 url_source: ""
