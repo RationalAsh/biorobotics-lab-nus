@@ -22,7 +22,7 @@ date: 2023-08-08T07:01:07.065Z
 # links:
 # - name: ""
 #   url: ""
-url_pdf: /assets/PDF/Toward_Improving_Actuation_Transparency_and_Safety_of_a_Hip_Exoskeleton_With_a_Novel_Nonlinear_Series_Elastic_Actuator.pdf
+url_pdf: ./publication/pdf/Toward_Improving_Actuation_Transparency_and_Safety_of_a_Hip_Exoskeleton_With_a_Novel_Nonlinear_Series_Elastic_Actuator.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
