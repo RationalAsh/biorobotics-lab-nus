@@ -8,7 +8,7 @@ authors:
   - Ding Shuo
   - and Haoyong Yu
 doi: 10.1109/TMRB.2023.3275761
-publication: IEEE Transactions on Medical Robotics and Bionics
+publication: "*IEEE Transactions on Medical Robotics and Bionics*"
 abstract: Working overhead for long periods of time is a difficult task that
   often places a high workload on the shoulder and leads to injury. Occupational
   exoskeletons are an emerging technology that is gaining momentum in the
