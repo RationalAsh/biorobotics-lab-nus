@@ -11,11 +11,11 @@ sections:
         NUS
         Biorobotics Lab
       image:
-        filename: welcome.jpg
+        filename: back-exo.jpg
       text: |
         <br>
         
-        The **NUS Biorobotics Lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **NUS Biorobotics Lab** , directed by Professor Yu Haoyong, is developing novel robotic systems, devices, and enabling technologies to address the healthcare and manpower challenges in societies with increasing aging population. Our multidisciplinary team of biomechanics, neuroscience, and robotics adopt a biorobotics approach with insights and inspiration for nature to develop novel technologies in actuation, sensing, and control for the next generation Rehabilitation Robotics, Surgical Robotics, Assistive and Service Robotics, and Bio-inspired Robotics.
   
   - block: collection
     content:
@@ -34,25 +34,21 @@ sections:
       page_type: post
     design:
       view: card
-      columns: '1'
-  
-  - block: markdown
+      columns: '2'
+  - block: collection
     content:
-      title:
-      subtitle: ''
+      title: Focus Areas
+      subtitle:
       text:
+      count: 5
+      filters:
+        folders:
+          - project
+        author: ''
+      offset: 0
+      order: desc
+      page_type: project
     design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      view: card
+      columns: '2'
 ---

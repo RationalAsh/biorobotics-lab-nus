@@ -1,9 +1,9 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Announcing phase 1 clinical trial results robotic ankle exoskeleton.
+date: 2015-09-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Early research on healthy subjects showed promising results.
 
 <!--more-->
 
