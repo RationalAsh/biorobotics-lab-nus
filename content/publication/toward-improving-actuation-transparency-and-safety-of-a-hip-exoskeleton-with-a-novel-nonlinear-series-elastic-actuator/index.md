@@ -10,7 +10,7 @@ authors:
   - Haoyong Yu
   - and C. Fu
 doi: 10.1109/TMECH.2022.3201255
-publication: IEEE/ASME Transactions on Mechatronics, vol. 28, no. 1, pp. 417-428, Feb. 2023
+publication: '*IEEE/ASME Transactions on Mechatronics, vol. 28, no. 1, pp. 417-428, Feb. 2023*'
 draft: false
 featured: false
 image:
