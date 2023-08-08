@@ -8,7 +8,7 @@ authors:
   - Haoyong Yu
   - C. L. Philip Chen and Yun Zhang
 doi: 10.1109/TNNLS.2023.3243084
-publication: "*IEEE Transactions on Neural Networks and Learning Systems*"
+publication: "*IEEE Transactions on Neural Networks and Learning Systems, Feb 2023*"
 abstract: Optimizing a performance objective during control operation while also
   ensuring constraint satisfactions at all times is important in practical
   applications. Existing works on solving this problem usually require a
