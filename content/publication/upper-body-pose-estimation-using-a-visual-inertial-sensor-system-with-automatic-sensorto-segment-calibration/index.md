@@ -4,7 +4,7 @@ title: Upper-Body Pose Estimation Using a Visual-Inertial Sensor System with
 publication_types:
   - "2"
 authors:
-  - Li Tong and Haoyong Yu
+  - Tong Li and Haoyong Yu
 doi: 10.1109/JSEN.2023.3241084
 publication: "*IEEE Sensors Journal, vol. 23, no. 6, pp. 6292-6302, Mar 2023*"
 abstract: Upper body kinematics is essential for motor function assessment and
