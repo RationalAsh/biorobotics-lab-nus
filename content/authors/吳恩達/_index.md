@@ -6,6 +6,8 @@ title: Alice Wu 吳恩達
 first_name: Alice
 last_name: Wu
 
+draft: true
+
 # Username (this should match the folder name)
 authors:
   - 吳恩達

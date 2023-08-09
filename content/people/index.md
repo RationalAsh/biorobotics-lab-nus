@@ -14,6 +14,7 @@ sections:
           - Principal Investigator
           - Research Fellows
           - Research Engineers
+          - Students
           - Visiting Professors
           - Alumni
       sort_by: Params.last_name

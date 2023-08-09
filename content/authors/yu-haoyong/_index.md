@@ -6,6 +6,10 @@ title: Haoyong Yu
 first_name: Haoyong
 last_name: Yu
 
+# Username (this should match the folder name)
+authors:
+  - yu-haoyong
+
 # Is this the primary user of the site?
 superuser: true
 
