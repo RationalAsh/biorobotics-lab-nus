@@ -2,6 +2,10 @@
 # Display name
 title: "Ding Shuo"
 
+# Full Name (for SEO)
+first_name: Ding
+last_name: Shuo
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "ding-shuo"
@@ -10,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:

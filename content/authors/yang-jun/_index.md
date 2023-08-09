@@ -2,6 +2,10 @@
 # Display name
 title: "Yang Jun"
 
+# Full Name (for SEO)
+first_name: Jun
+last_name: Yang
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "yang-jun"
@@ -10,28 +14,27 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: National University of Singapore
+  url: "https://www.nus.edu.sg/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Adaptive control
+- Estimator design for unknown system dynamics
+- Continuum robot design and control
+- Human-robot interaction control
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
+  - course: PhD in Mechatronic Engineering
+    institution: Kunming University of Science and Technology
     year: 2012
 
 # Social/Academic Networking
@@ -66,6 +69,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Group 1
-- Group 2
+- Research Fellows
 ---
+
+Jun Yang is currently a Research Fellow at National University of Singapore with a focus on continuum robot design and control. He pursued a Ph.D. degree in Mechatronic Engineering at Kunming University of Science and Technology (KUST), Kunming, China. He was a visiting Ph.D. student at National University of Singapore under supervision of Dr Yu Haoyong.
+
+His current research interests include adaptive control, estimator design of unknown system dynamics, continuum robot design and control, human-robot interaction control.
