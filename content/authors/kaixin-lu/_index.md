@@ -2,6 +2,9 @@
 # Display name
 title: "Kaixin Lu"
 
+first_name: Kaixin
+last_name: Lu
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "kaixin-lu"
@@ -10,29 +13,33 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: National University of Singapore
+  url: "https://www.nus.edu.sg/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Actuator Nonlinearities
+- Adaptive Fuzzy/Neural Control
+- Fixed-time Control
+- Inverse Optimal Control
+- Multi-agent Systems
+- Robotics
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: Ph.D, School of Automation
+    institution: Guangdong University of Technology
+    year: 2022
+  - course: B.E, School of Automation
+    institution: Guangdong University of Technology
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -66,6 +73,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Group 1
-- Group 2
+- Research Fellows
 ---
+Lu Kaixin received the B.E. and Ph.D. degrees from the School of Automation, Guangdong University of Technology, Guangzhou, China, in 2017 and 2022, respectively. She was a visiting student in The University of Adelaide and in National University of Singapore under the supervision of Dr. Yu Haoyong. 
+
+Her current research interests include actuator nonlinearities, adaptive fuzzy/neural control, fixed-time control, inverse optimal control, multi-agent systems and robotics.
