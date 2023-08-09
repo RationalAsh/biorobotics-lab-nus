@@ -9,3 +9,6 @@ assets/jsconfig.json
 go.sum
 
 hugo.exe
+
+# Don't track DS_Store files
+**/.DS_Store
