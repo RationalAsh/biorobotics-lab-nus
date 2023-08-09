@@ -15,7 +15,7 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
   - name: National University of Singapore
-    url: ''
+    url: "https://www.nus.edu.sg/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
