@@ -70,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- Alumni
 ---
 
 Zhong Bin received the B.E. and the M.E. degrees in Mechanical Engineering and Automation and Instrument Science and Technology from the Department of Precision Machinery and Precision Instrumentation (PMPI), University of Science and Technology of China (USTC), Hefei, China, in 2015 and 2018. He was a research assistance in the Neurorehabilitation Lab of Southern University of Science and Technology (SUSTech) in 2019.
