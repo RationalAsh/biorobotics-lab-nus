@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Francisco Anaya Reyes
   - Ding Shuo
-  - and Haoyong Yu
+  - yu-haoyong
 doi: 10.1109/TMRB.2023.3275761
 publication: "*IEEE Transactions on Medical Robotics and Bionics*"
 abstract: Working overhead for long periods of time is a difficult task that

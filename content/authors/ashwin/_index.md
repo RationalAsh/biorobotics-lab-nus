@@ -6,6 +6,10 @@ title: Ashwin Narayan
 first_name: Ashwin
 last_name: Narayan
 
+# Username (this should match the folder name and the name on publications)
+authors:
+- "ashwin-narayan"
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -15,7 +19,7 @@ role: Research Fellow
 # Organizations/Affiliations
 organizations:
   - name: National University of Singapore
-    url: ''
+    url: 'https://www.nus.edu.sg/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Rehabiliation robotics, embedded hardware and deep learning.
@@ -63,6 +67,6 @@ user_groups:
   - Research Fellows
 ---
 
-Ashwin Narayan completed his Bachelor's degree in Electronics and Communication Engineering at National Institute of Technology, Tiruchirappalli, India in 2016. During his degree, he worked on bio-inspired robots and developed a stable gait pattern for quadruped locomotion as a part of his final year project. He was a Ph.D. candidate under Dr. Yu Haoyong that graduated in the early of 2021.
+Ashwin Narayan completed his Bachelor's degree in Electronics and Communication Engineering at National Institute of Technology, Tiruchirappalli, India in 2016. During his degree, he worked on bio-inspired robots and developed a stable gait pattern for quadruped locomotion as a part of his final year project. He was a Ph.D. candidate under Dr. Yu Haoyong that graduated in 2021.
 
 He is currently a Research Fellow in NUS Biorobotics Lab. He works on using wearable embedded hardware and sensors for real-time control of exoskeleton robots.
