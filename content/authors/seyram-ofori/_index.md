@@ -1,19 +1,19 @@
 ---
 # Display name
-title: "Lu Zeyu"
+title: "Seyram Ofori"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "lu-zeyu"
+- "seyram-ofori"
+
+first_name: Seyram
+last_name: Ofori
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: PhD Candidate
-
-first_name: Zeyu
-last_name: Lu
 
 # Organizations/Affiliations
 organizations:
@@ -25,16 +25,15 @@ bio:
 
 # List each interest with a dash
 interests:
-- Human-Robot Interaction
-- Robotic Tactile Sensing
-- Robotic Grasping
+- Interest 1
+- Interest 2
 
 education:
   courses:
-  - course: B.E, Department of Mechanical and Energy Engineering
-    institution: Southern University of Science and Technology
-    year: 2019
-
+  - course: BSc in Biomedical Engineering
+    institution: University of Ghana
+    year: 2018
+    
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -51,7 +50,7 @@ social:
   link: https://scholar.google.com/citations?user=PERSON-ID
 - icon: github
   icon_pack: fab
-  link: https://roobooot.github.io/
+  link: https://github.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +69,6 @@ user_groups:
 - Students
 ---
 
-Lu Zeyu received his B.E. degree in Department of Mechanical and Energy Engineering at Southern University of Science and Technology (SUSTech), Shenzhen, China in 2019. His work at SUSTech focused on lower-limb exoskeleton and prothesis applying machine learning algorithms to recognize human locomotion. 
-
-Currently, he is a Ph.D. student supervised by Dr. Yu Haoyong in Department of Biomedical Engineering at National University of Singapore. His current research interests focus on human-robot interaction (HRI), robotic tactile sensing and robotic grasping. 
+Seyram Ofori completed his BSc degree in Biomedical Engineering at the University of Ghana in 2018. He served as a Teaching Assistant for one year and as a Research Assistant for another year in the biomechanics laboratory at the University of Ghana.
+ 
+He is currently a PhD student at NUS Department of Biomedical Engineering under the supervision of Dr. Yu Haoyong. His research focus is on the biomechanics impacts of wearable robotics.
