@@ -8,7 +8,7 @@ authors:
   - Li Tong
   - and Haoyong Yu
 doi: DOI:10.1017/wtc.2023.1
-publication: "*Wearable Technologies; Cambridge Vol. 4, 2023*"
+publication: "*Wearable Technologies*; Cambridge Vol. 4"
 abstract: Shoulder exoskeletons (SEs) can assist the shoulder joint of workers
   during overhead work and are usually passive for good portability. However,
   current passive SEs face the challenge that their torque generators are often

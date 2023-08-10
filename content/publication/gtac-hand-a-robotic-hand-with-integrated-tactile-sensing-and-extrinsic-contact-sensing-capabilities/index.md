@@ -7,7 +7,7 @@ authors:
   - Zeyu Lu
   - and Haoyong Yu
 doi: 10.1109/TMECH.2023.3264650
-publication: "*IEEE/ASME Transactions on Mechatronics, April 2023*"
+publication: "*IEEE/ASME Transactions on Mechatronics*, Apr"
 abstract: In many interaction and manipulation tasks, robots need to estimate
   the state or properties, such as extrinsic contact states (ECSs), on the
   object being manipulated. Tactile sensing is an essential sensor modality for

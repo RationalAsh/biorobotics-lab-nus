@@ -14,7 +14,7 @@ authors:
   - and Minging Zhang
 doi: 10.1109/TNSRE.2023.3281409
 publication: "*IEEE Transactions on Neural Systems and Rehabilitation
-  Engineering, vol. 31, pp. 2560-2569, May 2023*"
+  Engineering*, vol. 31, pp. 2560-2569, May"
 abstract: Most stroke survivors have mobility deficits and show a pathological
   gait pattern. Seeking to enhance the gait performance among this population,
   we have developed a hybrid cable-driven lower limb exoskeleton (called SEAExo

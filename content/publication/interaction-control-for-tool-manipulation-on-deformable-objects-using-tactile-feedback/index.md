@@ -11,7 +11,7 @@ authors:
   - Yao Mao
   - and Yan Wu
 doi: 10.1109/LRA.2023.3257680
-publication: "*IEEE Robotics and Automation Letters, vol. 8, no. 5, pp. 2700–2707*"
+publication: "*IEEE Robotics and Automation Letters*, vol. 8, no. 5, pp. 2700–2707"
 abstract: The human sense of touch enables us to perform delicate tasks on
   deformable objects and/or in a vision-denied environment. To achieve similar
   desirable interactions for robots, such as administering a swab test, tactile

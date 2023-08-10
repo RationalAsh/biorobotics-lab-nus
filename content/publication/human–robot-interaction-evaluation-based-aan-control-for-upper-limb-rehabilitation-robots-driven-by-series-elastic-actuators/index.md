@@ -6,9 +6,9 @@ publication_types:
 authors:
   - Shuaishuai Han
   - Haoping Wang
-  - and Haoyong Yu
+  - Haoyong Yu
 doi: 10.1109/TRO.2023.3286073
-publication: "*IEEE Transactions on Robotics, June 2023*"
+publication: "*IEEE Transactions on Robotics*, Jun"
 abstract: Series elastic actuators (SEAs) have been the most popular compliant
   actuators as they possess a variety of advantages, such as high compliance,
   good backdrivability, and tolerance to shocks. They have been adopted by

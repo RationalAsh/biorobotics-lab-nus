@@ -9,7 +9,7 @@ authors:
   - Jun Yang
   - Haoyong Yu
 doi: 10.1109/TIE.2023.3296831
-publication: "*IEEE Transactions on Industrial Electronics, Jul 2023*"
+publication: "*IEEE Transactions on Industrial Electronics*, Jul"
 abstract: Compliant actuator has considerable merits for safe robot control.
   Although the control problem of robotic manipulators with compliant actuators
   has been extensively investigated in recent years, limited result is presented

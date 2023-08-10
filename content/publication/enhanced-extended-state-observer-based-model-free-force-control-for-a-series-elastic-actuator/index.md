@@ -9,7 +9,7 @@ authors:
   - Yang Tian
   - and Haoyong Yu
 doi: 10.1016/j.ymssp.2022.109584
-publication: "*Mechanical Systems and Signal Processing, vol. 183, 2023, Art no. 109584*"
+publication: "*Mechanical Systems and Signal Processing*, vol. 183, 2023, Art no. 109584"
 abstract: With inherent mechanical compliance and programmable force
   controllability, the Series Elastic Actuator (SEA) has been a popular choice
   for modern mechanical systems. It is crucial to realize accurate and robust
