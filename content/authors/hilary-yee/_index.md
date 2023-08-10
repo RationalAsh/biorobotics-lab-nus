@@ -1,19 +1,19 @@
 ---
 # Display name
-title: "Ling Jingyan"
+title: "Cheng Hiu Yee Hilary"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "ling-jingyan"
+- "hilary-yee"
 
-first_name: "Jingyan"
-last_name: "Ling"
+first_name: "Hilary"
+last_name: "Yee"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -25,20 +25,16 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Stroke Rehabilitation with Robotic Devices
 
 education:
   courses:
-  - course: Bachelor of Engineering in Mechanical Engineering
-    institution: Purdue University
-    year: 2015
-  - course: Master of Science in Project Management
-    institution: Northwestern University
+  - course: B.Eng. in Biomedical Engineering
+    institution: The Chinese University of Hong Kong
     year: 2017
-  - course: Master of Science in Robotics
-    institution: Northwestern University
-    year: 2019
+  - course: M.Phil. in Mechanical and Automation Engineering
+    institution: The Chinese University of Hong Kong
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -74,6 +70,9 @@ highlight_name: false
 user_groups:
 - Students
 ---
-Jingyan did his bachelor's degree in Mechanical Engineering at Purdue University in 2015 and received two master's degrees (Project Management and Robotics) at Northwestern University in 2017 and 2019, respectively. He had previous research experience in the HRI field, including haptic feedback, visual feedback, brain-computer interface, and human-centered design.
 
-Jingyan has his research interest in the human-robot interaction field regarding the novel communication between humans and agents. He is currently working with Dr. Yu Haoyong in the Department of Biomedical Engineering at the National University of Singapore on haptic feedback for immersive feelings.
+Hilary received her B.Eng. in Biomedical Engineering (BME) from The Chinese University of Hong Kong (CUHK) in 2017. Afterward, she joined the Mechanical and Automation Engineering Department (MAE), CUHK as a Research Assistant and then an M.Phil. student. Hilary received her M.Phil. in MAE from CUHK in 2020. During her time in the two Engineering departments, she worked on EMG-driven prosthetic finger, shoulder rehabilitation device for stroke, and human shoulder workspace analysis through an anthropomorphic robot model.
+
+With Hilary’s strong interest in medical-related researches, in 2020, she joined the Department of Orthopaedics & Traumatology (ORT), CUHK as a Research Assistant to gain her clinical experiences at Prince of Wales Hospital, Hong Kong. She worked on various elderly and sports rehabilitation projects when she worked in ORT.
+
+Hilary is currently a Ph.D. student in the Department of Biomedical Engineering, NUS under the supervision of Dr. Yu Haoyong. Her research focuses on stroke rehabilitation with robotic devices.
