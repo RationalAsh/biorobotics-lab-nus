@@ -1,38 +1,39 @@
 ---
 # Display name
-title: "Zhanhao Zhang"
+title: "Liang Jiale"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "zhanhao-zhang"
+- "liang-jiale"
 
-first_name: "Zhanhao"
-last_name: "Zhang"
+first_name: "Jiale"
+last_name: "Liang"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Masters Student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: National University of Singapore
+  url: "https://www.nus.edu.sg/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
 interests:
-- Auxilary Device
-- Intention Detection
+- Compliant Control of Collaborative Robots
+- Physical Human-Robot-Interaction
+- Perception and Intelligent Control of Exoskeleton Robots
 
 education:
   courses:
-  - course: BEng in Intelligent Medical Engineering
-    institution: Shandong University
-    year: 2024
+  - course: M.E. in Mechanical Engineering
+    institution: Harbin Institute of Technology, Shenzhen, China
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -41,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:e1120871@u.nus.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/USERNAME
@@ -68,5 +69,6 @@ highlight_name: false
 user_groups:
 - Students
 ---
-
-Zhang Zhanhao, currently in his senior year, spent the first three years of his undergraduate studies in the Intelligent Medical Engineering major at Shandong University.
+Liang Jiale received the M.E. degree in mechanical engineering with the Department of Mechanical Engineering and Automation, Harbin Institute of Technology, Shenzhen, China, in 2020.
+ 
+He is currently pursuing the Ph.D. degree in Department of Biomedical Engineering, advised by Dr. Yu Haoyong. His research interests include compliant control of collaborative robots, physical human-robot-interaction, perception and intelligent control of exoskeleton robots.
