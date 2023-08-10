@@ -13,19 +13,18 @@ sections:
       email: test@example.org
       phone: 888 888 88 88
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 15 Kent Ridge Crescent
+        city: Singapore
+        region: SG
+        postcode: '119276'
+        country: Singapore
+        country_code: SG
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '1.298481'
+        longitude: ' 103.773591'
+      directions: Level 6, Block E7
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday - Friday 9:30 to 18:00'
       appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
