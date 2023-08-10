@@ -3,10 +3,10 @@ title: A novel passive shoulder exoskeleton for assisting overhead work
 publication_types:
   - "2"
 authors:
-  - Ding Shuo
+  - ding-shuo
   - Francisco Anaya Reyes
   - Li Tong
-  - and Haoyong Yu
+  - yu-haoyong
 doi: DOI:10.1017/wtc.2023.1
 publication: "*Wearable Technologies*; Cambridge Vol. 4"
 abstract: Shoulder exoskeletons (SEs) can assist the shoulder joint of workers

@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Francisco Anaya Reyes
-  - Ding Shuo
+  - ding-shuo
   - yu-haoyong
 doi: 10.1109/TMRB.2023.3275761
 publication: "*IEEE Transactions on Medical Robotics and Bionics*"

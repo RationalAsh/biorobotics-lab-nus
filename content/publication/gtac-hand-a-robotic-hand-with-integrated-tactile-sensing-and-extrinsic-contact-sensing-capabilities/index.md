@@ -4,8 +4,8 @@ title: "GTac-Hand: A Robotic Hand With Integrated Tactile Sensing and Extrinsic
 publication_types:
   - "2"
 authors:
-  - Zeyu Lu
-  - and Haoyong Yu
+  - lu-zeyu
+  - yu-haoyong
 doi: 10.1109/TMECH.2023.3264650
 publication: "*IEEE/ASME Transactions on Mechatronics*, Apr"
 abstract: In many interaction and manipulation tasks, robots need to estimate

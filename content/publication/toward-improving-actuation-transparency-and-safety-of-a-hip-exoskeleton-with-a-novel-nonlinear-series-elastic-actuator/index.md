@@ -4,10 +4,10 @@ title: Toward Improving Actuation Transparency and Safety of a Hip Exoskeleton
 publication_types:
   - "2"
 authors:
-  - Yuepeng Qian
-  - Shuaishuai Han
+  - qian-yuepeng
+  - shuaishuai-han
   - Yining Wang
-  - Haoyong Yu
+  - yu-haoyong
   - and Chenglong Fu
 doi: 10.1109/TMECH.2022.3201255
 publication: "*IEEE/ASME Transactions on Mechatronics*, vol. 28, no. 1, pp.

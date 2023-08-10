@@ -3,9 +3,9 @@ title: Inverse Optimal Adaptive Neural Control for State-Constrained Nonlinear S
 publication_types:
   - "2"
 authors:
-  - Kaixin Lu
+  - kaixin-lu
   - Zhi Liu
-  - Haoyong Yu
+  - yu-haoyong
   - C. L. Philip Chen and Yun Zhang
 doi: 10.1109/TNNLS.2023.3243084
 publication: "*IEEE Transactions on Neural Networks and Learning Systems*, Feb"

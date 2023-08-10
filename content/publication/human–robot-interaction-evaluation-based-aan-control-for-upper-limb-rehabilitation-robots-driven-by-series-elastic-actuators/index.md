@@ -4,9 +4,9 @@ title: Human–Robot Interaction Evaluation-Based AAN Control for Upper Limb
 publication_types:
   - "2"
 authors:
-  - Shuaishuai Han
+  - shuaishuai-han
   - Haoping Wang
-  - Haoyong Yu
+  - yu-haoyong
 doi: 10.1109/TRO.2023.3286073
 publication: "*IEEE Transactions on Robotics*, Jun"
 abstract: Series elastic actuators (SEAs) have been the most popular compliant

@@ -4,14 +4,14 @@ url_pdf: ./publication/pdf/A_Cable-Driven_Exoskeleton_With_Personalized_Assistan
 publication_types:
   - "2"
 authors:
-  - Bin Zhong
+  - zhong-bin
   - Mei Shen
   - Haowen Liu
   - Yijun Zhao
   - Qiuyang Qian
   - Wei Wang
-  - Haoyong Yu
-  - and Minging Zhang
+  - yu-haoyong
+  - Minging Zhang
 doi: 10.1109/TNSRE.2023.3281409
 publication: "*IEEE Transactions on Neural Systems and Rehabilitation
   Engineering*, vol. 31, pp. 2560-2569, May"

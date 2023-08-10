@@ -5,9 +5,9 @@ publication_types:
   - "3"
 authors:
   - Xinyu Jia
-  - Jun Yang
-  - Kaixin Lu
-  - and Haoyong Yu
+  - yang-jun
+  - kaixin-lu
+  - yu-haoyong
 doi: 10.48550/arXiv.2306.02742
 publication: "*arXiv.org, Computer Science, Jun 2023*"
 abstract: To achieve high-accuracy manipulation in the presence of unknown

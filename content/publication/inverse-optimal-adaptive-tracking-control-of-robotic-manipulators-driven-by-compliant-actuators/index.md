@@ -4,10 +4,10 @@ title: Inverse Optimal Adaptive Tracking Control of Robotic Manipulators Driven
 publication_types:
   - "2"
 authors:
-  - Kaixin Lu
-  - Shuaishuai Han
-  - Jun Yang
-  - Haoyong Yu
+  - kaixin-lu
+  - shuaishuai-han
+  - yang-jun
+  - yu-haoyong
 doi: 10.1109/TIE.2023.3296831
 publication: "*IEEE Transactions on Industrial Electronics*, Jul"
 abstract: Compliant actuator has considerable merits for safe robot control.

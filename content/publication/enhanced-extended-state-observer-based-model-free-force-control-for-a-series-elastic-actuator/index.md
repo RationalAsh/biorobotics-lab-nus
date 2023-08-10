@@ -4,10 +4,10 @@ title: Enhanced extended state observer-based model-free force control for a
 publication_types:
   - "2"
 authors:
-  - Shuaishuai Han
+  - shuaishuai-han
   - Haoping Wang
   - Yang Tian
-  - and Haoyong Yu
+  - yu-haoyong
 doi: 10.1016/j.ymssp.2022.109584
 publication: "*Mechanical Systems and Signal Processing*, vol. 183, 2023, Art no. 109584"
 abstract: With inherent mechanical compliance and programmable force

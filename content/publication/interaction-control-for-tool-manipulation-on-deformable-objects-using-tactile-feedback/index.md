@@ -5,11 +5,11 @@ publication_types:
   - "2"
 authors:
   - Hanwen Zhang
-  - Zeyu Lu
+  - lu-zeyu
   - Wenyu Liang
-  - Haoyong Yu
+  - yu-haoyong
   - Yao Mao
-  - and Yan Wu
+  - Yan Wu
 doi: 10.1109/LRA.2023.3257680
 publication: "*IEEE Robotics and Automation Letters*, vol. 8, no. 5, pp. 2700–2707"
 abstract: The human sense of touch enables us to perform delicate tasks on

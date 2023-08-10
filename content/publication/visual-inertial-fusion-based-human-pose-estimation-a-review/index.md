@@ -3,10 +3,11 @@ title: "Visual-Inertial Fusion-Based Human Pose Estimation: A Review"
 publication_types:
   - "2"
 authors:
-  - Tong Li and Haoyong Yu
+  - Tong Li
+  - yu-haoyong
 doi: 10.1109/TIM.2023.3286000
-publication: "*IEEE Transactions on Instrumentation and Measurement, vol. 72,
-  Art. no. 4007816*"
+publication: "*IEEE Transactions on Instrumentation and Measurement*, vol. 72,
+  Art. no. 4007816"
 abstract: Human pose estimation provides valuable information for biomedical
   research on human movement and applications, such as entertainment and
   physical exercise. The fusion of visual and inertial data has been
