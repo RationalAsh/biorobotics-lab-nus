@@ -1,10 +1,13 @@
 ---
 # Display name
-title: "Guo Zhao"
+title: "Li Zheng"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "guo-zhao"
+- "li-zheng"
+
+first_name: "Zheng"
+last_name: "Li"
 
 # Is this the primary user of the site?
 superuser: false
