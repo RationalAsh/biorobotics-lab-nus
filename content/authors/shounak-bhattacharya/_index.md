@@ -30,7 +30,7 @@ education:
     - course: M.Sc. in Mechanical Engineering
       institution: Indian Institute of Science, Bangalore, India
       year: 2017
-    - Bachelor of Engineering in Mechanical Engineering
+    - course: Bachelor of Engineering in Mechanical Engineering
       institution: IIEST Shibpur, India
       year: 2014
 
