@@ -8,12 +8,12 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the NUS Biorobotics Lab!
-        content: Take a look at what we're working on...
+      - title: Welcome to the NUS Biorobotics Lab!
+        content: 
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: techconnect/TechConnect2.jpg
             filters:
               brightness: 0.7
           position: right
