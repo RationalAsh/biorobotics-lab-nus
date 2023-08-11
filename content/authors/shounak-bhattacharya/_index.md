@@ -21,14 +21,18 @@ organizations:
 bio: ""
 
 interests:
-  - Wearable devices for stroke rehabilitation.
-  - Robot-assisted therapy in rehabilitation.
+  - Exoskeleton design
+  - Mechanical design
+  - Actuator design
 
 education:
   courses:
     - course: M.Sc. in Mechanical Engineering
-      institution: Indian Institute of Science, India
+      institution: Indian Institute of Science, Bangalore, India
       year: 2017
+    - Bachelor of Engineering in Mechanical Engineering
+      institution: IIEST Shibpur, India
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -59,6 +63,6 @@ user_groups:
   - Research Engineers
 ---
 
-Shounak graduated in 2017 with the M.Sc.(Engg) in Mechanical Engineering from Indian Institute of Science, India. A robotics enthusiast, he is passionate about building robotic systems with real world applications. His forte lies in Mechanical design. Shounak has previously worked on a Quadruped locomotion and has extensive experience in developing hardware for robotic systems. His research interests include legged locomotion(ground and Mobile manipulator.
+Shounak is a Research Engineer at the National University of Singapore (NUS), Singapore. He is affiliated with the BioRobotics Lab in the Biomedical Engineering Department at NUS. Shounak completed his masters in Mechanical Engineering at IISc, with a thesis titled "Design, analysis, simulation, and experimentation of a flexible spine quadruped."
 
-Currently, he is working on the development of a mobile platform. He has also worked on mechanical design for various manipulator and robotic devices currently being developed at the Biorobotics Lab under Dr. Yu Haoyong.
+Shounak's contribution to the lab involves the design and development of back exo-skeletons, knee exo-skeletons, ankle exo-skeletons, and Linear Series actuator design. Apart from this, quadruped robots, dual arm systems, and a stroke rehabilitation platform are also part of Shounak's contribution.
