@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Li Xiang"
+title: "Zhang Hualong"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "li-xiang"
+- "zhang-hualong"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Post Doctoral Researcher
+role: Research Engineer
 
 # Organizations/Affiliations
 organizations:
