@@ -13,7 +13,7 @@ last_name: "Zhou"
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: Visiting Student
 
 # Organizations/Affiliations
 organizations:
@@ -25,17 +25,19 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Nonlinear Control
+- Disturbance Estimation and Compensation
+- Constrained-system Control
+- Formal Methods-based Control
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: B.S in Mathematics
+    institution: Liaocheng University
+    year: 2017
+  - course: M.S in Mathematics
+    institution: Qufu Normal University, Jinan, China
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -69,6 +71,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Group 1
-- Group 2
+- Students
 ---
+
+Zhou Chengqian received the B.S. degree in mathematics from Liaocheng University, Liaocheng, China, in 2017, and the M.S. degree in mathematics from Qufu Normal University, Jining, China, in 2020, and is currently working toward the Ph.D. degree in control theory and control engineering from the School of Automation, Southeast University, Nanjing, China. He is also a visiting student supervised by Dr. Yu Haoyong in Department of Biomedical Engineering at National University of Singapore.
+
+His main research interests include nonlinear control, disturbance estimation and compensation, constrained-system control, and formal methods-based control.
