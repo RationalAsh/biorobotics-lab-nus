@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year}. All rights reserved.'
+    notice: '© NUS Biorobotics Lab {year}. All rights reserved.'
     license:
       enable: false
       allow_derivatives: false

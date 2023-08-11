@@ -42,9 +42,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:test@example.org'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: home
     icon_pack: fas
     link: https://sites.google.com/view/shounakoffice/home
