@@ -13,7 +13,7 @@ last_name: "Ling"
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:

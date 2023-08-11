@@ -1,37 +1,41 @@
 ---
 # Display name
-title: "Joshua Leong Wei Ren"
+title: "Zhou Chengqian"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "joshua-leong"
+- "zhou-chengqian"
 
-first_name: "Joshua"
-last_name: "Leong"
+first_name: "Chengqian"
+last_name: "Zhou"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Masters Student
+role:
 
 # Organizations/Affiliations
 organizations:
-- name: National University of Singapore
-  url: "https://www.nus.edu.sg/"
+- name: 
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
 interests:
-- Biomechanical Impacts of Wearable Robotics
+- Interest 1
+- Interest 2
 
 education:
   courses:
-  - course: Bachelor of Engineering Bioengineering
-    institution: Nanyang Technological University
-    year: 2021
+  - course: Title course 1
+    institution: Name of Institution
+    year: 2012
+  - course: Title course 1
+    institution: Name of Institution
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -65,9 +69,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- Group 1
+- Group 2
 ---
-
-Joshua completed his bachelor’s degree in Bioengineering at Nanyang Technological University in 2021. 
-
-He is currently a Master student in the Department of Biomedical Engineering at National University Singapore. His research focus is on the biomechanics impacts of wearable robotics.

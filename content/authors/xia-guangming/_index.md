@@ -1,37 +1,41 @@
 ---
 # Display name
-title: "Joshua Leong Wei Ren"
+title: "Xia Guangming"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "joshua-leong"
+- "xia-guangming"
 
-first_name: "Joshua"
-last_name: "Leong"
+first_name: "Guangming"
+last_name: "Xia"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Masters Student
+role: Visiting Student
 
 # Organizations/Affiliations
 organizations:
-- name: National University of Singapore
-  url: "https://www.nus.edu.sg/"
+- name: 
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
 interests:
-- Biomechanical Impacts of Wearable Robotics
+- Medical Robotics
+- Orthopedic Robotic System
+- Signal Processing
+- Intelligent Perception Strategy
+- Precise Motion Control
 
 education:
   courses:
-  - course: Bachelor of Engineering Bioengineering
-    institution: Nanyang Technological University
-    year: 2021
+  - course: Bachelor of Engineering in Electrical Engineering and Automation
+    institution: Harbin Engineering University
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -68,6 +72,5 @@ user_groups:
 - Students
 ---
 
-Joshua completed his bachelor’s degree in Bioengineering at Nanyang Technological University in 2021. 
-
-He is currently a Master student in the Department of Biomedical Engineering at National University Singapore. His research focus is on the biomechanics impacts of wearable robotics.
+Xia Guangming did his bachelor's degree in Electrical Engineering and Automation at Harbin Engineering University in 2019. He is currently a Ph. D. candidate at the College Of Artificial Intelligence, Nankai University and working with Dr. Zhang Jianxun and Dr. Dai Yu. Xia Guangming has his research interest in the medical robot field, including orthopedic robotic system, complex signal processing, intelligent perception strategy, and precise motion control.
+He is currently a visiting student and working with Dr. Yu Haoyong in the Department of Biomedical Engineering at the National University of Singapore on the exoskeleton for upper limb rehabilitation.

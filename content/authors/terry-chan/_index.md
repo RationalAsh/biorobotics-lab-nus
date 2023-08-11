@@ -1,13 +1,13 @@
 ---
 # Display name
-title: "Joshua Leong Wei Ren"
+title: "Terry Cavan Chan"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "joshua-leong"
+- "terry-chan"
 
-first_name: "Joshua"
-last_name: "Leong"
+first_name: "Terry"
+last_name: "Chan"
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,12 +25,13 @@ bio:
 
 # List each interest with a dash
 interests:
-- Biomechanical Impacts of Wearable Robotics
+- Mechanical Design
+- Control Systems for Robotics
 
 education:
   courses:
-  - course: Bachelor of Engineering Bioengineering
-    institution: Nanyang Technological University
+  - course: Bachelor of Engineering in Mechanical Engineering
+    institution: Singapore University of Technology and Design
     year: 2021
 
 # Social/Academic Networking
@@ -67,7 +68,3 @@ highlight_name: false
 user_groups:
 - Students
 ---
-
-Joshua completed his bachelor’s degree in Bioengineering at Nanyang Technological University in 2021. 
-
-He is currently a Master student in the Department of Biomedical Engineering at National University Singapore. His research focus is on the biomechanics impacts of wearable robotics.
