@@ -1,9 +1,9 @@
 ---
 # Display name
-title: "Shi Ke"
+title: "Ke Shi"
 
-first_name: Shi
-last_name: Ke
+first_name: Ke
+last_name: Shi
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -26,7 +26,7 @@ bio:
 # List each interest with a dash
 interests:
 - Rehabilitation Robotics
-- Human-Robot Interaction
+- Mechanical Design
 
 education:
   courses:
@@ -73,4 +73,5 @@ user_groups:
 ---
 
 Shi Ke received the B.S. degree and Ph.D. degree both in Instrument Science and Engineering from Southeast University, Nanjing, China, in 2016 and 2022, respectively.
+
 He is currently a research fellow at the Biorobotics Lab of the National University of Singapore, Singapore. His current research interests include rehabilitation robotics and human-robot interaction.

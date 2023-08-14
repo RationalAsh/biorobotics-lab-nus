@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Yang Jun"
+title: "Jun Yang"
 
 # Full Name (for SEO)
 first_name: Jun
@@ -26,16 +26,14 @@ bio:
 
 # List each interest with a dash
 interests:
-- Adaptive control
-- Estimator design for unknown system dynamics
-- Continuum robot design and control
-- Human-robot interaction control
+- Modeling and control of soft/rigid robots
+- Safe physical human-robot interaction
 
 education:
   courses:
   - course: PhD in Mechatronic Engineering
     institution: Kunming University of Science and Technology
-    year: 2012
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -44,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:bieyang@nus.edu.sg'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/USERNAME
@@ -72,6 +70,6 @@ user_groups:
 - Research Fellows
 ---
 
-Jun Yang is currently a Research Fellow at National University of Singapore with a focus on continuum robot design and control. He pursued a Ph.D. degree in Mechatronic Engineering at Kunming University of Science and Technology (KUST), Kunming, China. He was a visiting Ph.D. student at National University of Singapore under supervision of Dr Yu Haoyong.
+Jun Yang is currently a Research Fellow at the National University of Singapore. He received the Ph.D. degree in mechanical engineering from Kunming University of Science and Technology, Kunming, China, in 2020. 
 
 His current research interests include adaptive control, estimator design of unknown system dynamics, continuum robot design and control, human-robot interaction control.

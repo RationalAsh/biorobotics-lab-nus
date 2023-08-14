@@ -26,16 +26,17 @@ bio:
 
 # List each interest with a dash
 interests:
-- Rehabilitation Strategy Design
-- Exoskeleton Control
+- Rehabilitation Robotics
 - Human-Robot Interaction Control
-- Disturbance Observer-based Control
 
 education:
   courses:
   - course: Ph.D. in Control Science and Engineering
-    institution: Nanjing University of Science and Technology (NJUST)
+    institution: Nanjing University of Science and Technology, Nanjing, China 
     year: 2021
+  - course: B.E. in Automation
+    institution: Nanjing University of Science and Technology, Nanjing, China 
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -44,7 +45,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:hanshuai0128@sina.cn"
+  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/USERNAME
@@ -72,6 +74,6 @@ user_groups:
 - Research Fellows
 ---
 
-Shuaishuai Han is currently a Research Fellow at the National University of Singapore (NUS). He was pursuing a Ph.D.degree in control science and engineering with the Nanjing University of Science and Technology (NJUST), Nanjing, China, with a focus on lower limb exoskeleton control and design. He was also a visiting Ph.D. student in NUS in 2021.
+HAN Shuaishuai received the Ph.D. degree in control science and engineering from the Nanjing University of Science and Technology, Nanjing, China, in 2021. He is currently a Postdoctoral Researcher in the Biorobotics Lab. He is working on system design and control of robots for rehabilitation. 
 
 His current research interests include rehabilitation strategy design, exoskeleton control, human-robot interaction control, and disturbance observer-based control.

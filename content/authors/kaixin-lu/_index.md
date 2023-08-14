@@ -25,20 +25,17 @@ bio:
 
 # List each interest with a dash
 interests:
-- Actuator Nonlinearities
-- Adaptive Fuzzy/Neural Control
-- Fixed-time Control
+- Control theory
 - Inverse Optimal Control
-- Multi-agent Systems
-- Robotics
+- Robotics systems
 
 education:
   courses:
-  - course: Ph.D, School of Automation
-    institution: Guangdong University of Technology
+  - course: Ph.D in Control Science and Engineering
+    institution: Guangdong University of Technology, Guangzhou, China
     year: 2022
-  - course: B.E, School of Automation
-    institution: Guangdong University of Technology
+  - course: B.E in School of Automation
+    institution: Guangdong University of Technology, Guangzhou, China
     year: 2017
 
 # Social/Academic Networking
@@ -51,7 +48,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=HUd6-ogAAAAJ
+  link: https://scholar.google.com.hk/citations?user=HUd6-ogAAAAJ&hl=zh-CN&oi=ao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +66,6 @@ highlight_name: false
 user_groups:
 - Research Fellows
 ---
-Lu Kaixin received the B.E. and Ph.D. degrees from the School of Automation, Guangdong University of Technology, Guangzhou, China, in 2017 and 2022, respectively. She was a visiting student in The University of Adelaide and in National University of Singapore under the supervision of Dr. Yu Haoyong. 
+Kaixin Lu received the B.E. degree in automation and Ph.D. degree in control science and engineering from Guangdong University of Technology, Guangzhou, China, in 2017 and 2022, respectively. She is currently a Research Fellow with the Department of Biomedical Engineering, National University of Singapore.
 
 Her current research interests include actuator nonlinearities, adaptive fuzzy/neural control, fixed-time control, inverse optimal control, multi-agent systems and robotics.

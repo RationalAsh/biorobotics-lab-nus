@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Ding Shuo"
+title: "Shuo Ding"
 
 # Full Name (for SEO)
-first_name: Ding
-last_name: Shuo
+first_name: Shuo
+last_name: Ding
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -26,15 +26,19 @@ bio:
 
 # List each interest with a dash
 interests:
-- Robotic Exoskeletons
-- Wearable Devices
-- Robotics
+- Intention Detection
+- Mechanical Design
+- Industry Exoskeleton System Design
 
 education:
   courses:
-  - course: PhD in Mechanical Engineering
+  - course: Ph.D in Mechanical Engineering
     institution: Zhejiang University
     year: 2019
+  - course: B.E in Mechanical Engineering
+    institution: Zhejiang University
+    year: 2013
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
