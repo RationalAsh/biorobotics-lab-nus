@@ -8,11 +8,11 @@ sections:
   - block: collection
     id: assistive-robotics
     content:
-      title: Projects in Assistive Robotics
-      subtitle: ''
+      title: Assistive Robotics
+      subtitle: 'Projects in Assistive Robotics'
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
       filters:
         # The folders to display content from
