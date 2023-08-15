@@ -3,7 +3,7 @@
 title: Cindy Sia Ching Li 
 
 # Full Name (for SEO)
-first_name: Cindy
+first_name: Cindy Ching Li
 last_name: Sia
 
 # Is this the primary user of the site?
@@ -21,14 +21,15 @@ organizations:
 bio: ""
 
 interests:
-  - Wearable devices for stroke rehabilitation.
-  - Robot-assisted therapy in rehabilitation.
+  - Usage of equipment for biomechanics data collection
+  - Gait analysis
+  - Basic background and operation of both medical and industrial devices
 
 education:
   courses:
     - course: B.E. in Biomedical Engineering
       institution: National University of Singapore
-      year: 2018
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -37,7 +38,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:bieccls@nus.edu.sg'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/cindy-sia-329979157/
@@ -59,6 +60,4 @@ user_groups:
   - Research Engineers
 ---
 
-Cindy received her B.E. degree in Biomedical Engineering from National University of Singapore in 2020. Her research interests include wearable devices for stroke rehabilitation and robot-assisted therapy in rehabilitation. 
-
-Currently, she is working as a Research Engineer in the Biorobotics Lab under the supervision of Dr. Yu Haoyong.
+Cindy received her B.E. degree in Biomedical Engineering from National University of Singapore in 2020. Currently, she is working as a Research Engineer in the Biorobotics Lab under the supervision of Dr. Yu Haoyong. Her main jobscope includes biomechanics data collection in labolatory and field study.

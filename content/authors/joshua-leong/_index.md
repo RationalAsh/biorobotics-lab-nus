@@ -6,8 +6,8 @@ title: "Joshua Leong Wei Ren"
 authors:
 - "joshua-leong"
 
-first_name: "Joshua"
-last_name: "Leong"
+first_name: Joshua Wei Ren
+last_name: Leong
 
 # Is this the primary user of the site?
 superuser: false
@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:e0919671@u.nus.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/USERNAME

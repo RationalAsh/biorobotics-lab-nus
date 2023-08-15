@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Biomedical Engineering
+    - course: Ph.D. in Biomedical Engineering
       institution: National University of Singapore
       year: 2021
     - course: B. Tech in Electronics and Communication Engineering

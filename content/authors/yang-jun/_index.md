@@ -31,9 +31,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Mechatronic Engineering
+  - course: Ph.D. in Mechatronic Engineering
     institution: Kunming University of Science and Technology
     year: 2020
+  - course: B.E. in Mechanical Design and Manufacturing & Automation
+    institution: Shandong University of Science and Technology, Zibo, China
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons

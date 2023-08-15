@@ -31,10 +31,10 @@ interests:
 
 education:
   courses:
-  - course: Ph.D in Control Science and Engineering
+  - course: Ph.D. in Control Science and Engineering
     institution: Guangdong University of Technology, Guangzhou, China
     year: 2022
-  - course: B.E in School of Automation
+  - course: B.E. in Automation
     institution: Guangdong University of Technology, Guangzhou, China
     year: 2017
 

@@ -32,10 +32,10 @@ interests:
 
 education:
   courses:
-  - course: Ph.D in Mechanical Engineering
+  - course: Ph.D. in Mechanical Engineering
     institution: Zhejiang University
     year: 2019
-  - course: B.E in Mechanical Engineering
+  - course: B.E. in Mechanical Engineering
     institution: Zhejiang University
     year: 2013
 
