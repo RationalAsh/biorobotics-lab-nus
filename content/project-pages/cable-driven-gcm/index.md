@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Cable Driven Gcm"
+title: "Cable Driven Gravity Compensation Mechanism"
 summary: ""
 authors: ["shi-ke"]
 tags: []
