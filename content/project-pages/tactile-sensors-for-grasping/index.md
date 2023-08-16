@@ -3,7 +3,7 @@
 
 title: "Tactile Sensors and Robotic Hand for Grasping and Manipulation"
 summary: ""
-authors: []
+authors: ["lu-zeyu", "Xingyu Gao", "yu-haoyong"]
 tags: []
 categories: ["bioinspired-robotics"]
 date: 2023-08-16T14:35:07+08:00
@@ -45,3 +45,9 @@ The tactile sensing capabilities of human hands play a crucial role in performin
 ![Tactile Sensor](gtac-families.png "Tactile Sensor")
 
 {{< youtube TYx27OUeEPc >}}
+
+
+## Publications
+1. Z. Lu, X. Gao and H. Yu, "GTac: A Biomimetic Tactile Sensor With Skin-Like Heterogeneous Force Feedback for Robots," in IEEE Sensors Journal, vol. 22, no. 14, pp. 14491-14500, 15 July15, 2022, doi: 10.1109/JSEN.2022.3181128.
+2. Z. Lu, H. Guo, W. Zhang and H. Yu, "GTac-Gripper: A Reconfigurable Under-Actuated Four-Fingered Robotic Gripper With Tactile Sensing," in IEEE Robotics and Automation Letters, vol. 7, no. 3, pp. 7232-7239, July 2022, doi: 10.1109/LRA.2022.3181370.
+
