@@ -6,7 +6,7 @@ title: "Terry Cavan Chan"
 authors:
 - "terry-chan"
 
-first_name: "Terry"
+first_name: "Terry Cavan"
 last_name: "Chan"
 
 # Is this the primary user of the site?
@@ -26,11 +26,12 @@ bio:
 # List each interest with a dash
 interests:
 - Mechanical Design
-- Control Systems for Robotics
+- Legged Robots
+- Medical/Rehab Devices
 
 education:
   courses:
-  - course: Bachelor of Engineering in Mechanical Engineering
+  - course: B.E. in Engineering Product Development
     institution: Singapore University of Technology and Design
     year: 2021
 
@@ -41,16 +42,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+  link: 'mailto:terrycavanchan@gmail.com' 
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,3 +61,5 @@ highlight_name: false
 user_groups:
 - Students
 ---
+
+Terry is a Masters student at the NUS Biorobotics Lab specializing in mechanical design with a wide range of interests in the biomedical field. He has helped to develop the hardware of several robotic platforms at the lab including manipulator arms and a bimanual manipulator. He is currently working on the mechanical design of a quadrupedal mobile manipulator as a research platform for control-based experiments.

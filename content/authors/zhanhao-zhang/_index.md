@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-  - course: BEng in Intelligent Medical Engineering
+  - course: B.E. in Intelligent Medical Engineering
     institution: Shandong University
     year: 2024
 
@@ -41,16 +41,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:e1120871@u.nus.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+  link: 'mailto:e1120871@u.nus.edu' 
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,3 +62,5 @@ user_groups:
 ---
 
 Zhang Zhanhao, currently in his senior year, spent the first three years of his undergraduate studies in the Intelligent Medical Engineering major at Shandong University.
+
+Zhang Zhanhao's research interest lies in rehabilitation robotics and intention detection, under the guidance of Dr. Yu Haoyong from the Department of Biomedical Engineering at the National University of Singapore.

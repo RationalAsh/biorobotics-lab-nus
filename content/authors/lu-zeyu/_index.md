@@ -25,13 +25,16 @@ bio:
 
 # List each interest with a dash
 interests:
-- Human-Robot Interaction
-- Robotic Tactile Sensing
-- Robotic Grasping
+- Multi-fingered dexterous hand for grasping and manipulation
+- Tactile Sensing
+- Robotic Learning
 
 education:
   courses:
-  - course: B.E, Department of Mechanical and Energy Engineering
+  - course: Ph.D. in Biomedical Engineering
+    institution: National University of Singapore
+    year: 2023
+  - course: B.E. in Mechanical Engineering
     institution: Southern University of Science and Technology
     year: 2019
 
@@ -72,4 +75,4 @@ user_groups:
 
 Lu Zeyu received his B.E. degree in Department of Mechanical and Energy Engineering at Southern University of Science and Technology (SUSTech), Shenzhen, China in 2019. His work at SUSTech focused on lower-limb exoskeleton and prothesis applying machine learning algorithms to recognize human locomotion. 
 
-Currently, he is a Ph.D. student supervised by Dr. Yu Haoyong in Department of Biomedical Engineering at National University of Singapore. His current research interests focus on human-robot interaction (HRI), robotic tactile sensing and robotic grasping. 
+Currently, he is a Ph.D. student supervised by Dr. Yu Haoyong in Department of Biomedical Engineering at National University of Singapore. His research goals in the lab include giving robots the human sense of touch and developing intelligent robots assisting humans.
