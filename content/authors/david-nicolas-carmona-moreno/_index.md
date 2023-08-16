@@ -31,9 +31,9 @@ interests:
 
 education:
    courses:
-  - course: Ph.D. in Biomedical Engineering
-    institution: National University of Singapore
-    year: 2023
+   - course: Ph.D. in Biomedical Engineering
+     institution: National University of Singapore
+     year: 2023
 
 
 # Social/Academic Networking

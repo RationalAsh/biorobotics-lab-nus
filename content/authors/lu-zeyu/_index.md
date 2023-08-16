@@ -46,12 +46,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: https://www.linkedin.com/in/zeyu-l-19b8241ba/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: https://scholar.google.com/citations?user=1TXnPsYAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://roobooot.github.io/
