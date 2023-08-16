@@ -39,4 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+![quadruped trot](trot.gif)
+
 A quadruped mobile manipulator consisting of a quadruped robot with mounted 6 degree-of-freedom manipulator arm, designed for applications in hardware and control research. A novel combination of aluminum, carbon fiber and PLA materials reduces the weight of the robot to an approximate 23 kg, which is lighter than commercial alternatives of the same scale. The platform has also been designed with several novel assembly systems for facilitating rapid maintenance and modification as required by incoming research projects. A radial mounting assembly allows for ease of access for each of the four 3 degree-of-freedom legs. The chassis of the robot is constructed using a series of carbon fiber plates mounted parallel and normal to a setup of four carbon fiber tubes to create an enclosure for the hardware. The plates are mounted using adjustable aluminum clamps to allow for quick disassembly and replacement with differently designed subunits as necessary.
