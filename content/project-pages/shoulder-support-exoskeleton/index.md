@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-![Shoulder Support Exoskeleton (Active)](featured.jpg "Shoulder Support Exoskeleton (Active)") ![Shoulder Support Exoskeleton (Active)](passive-shoulder.jpg "Shoulder Support Exoskeleton (Active)")
+![Shoulder Support Exoskeletons](shoulder-collage.jpg "Shoulder Support Exoskeletons Active (left) and Passive (right)")
 
 
 A novel shoulder support exoskeleton with a single actuator for industrial workers performing overhead / elevated tasks. It assists the shoulder muscles to reduce muscle fatigue and improve endurance during these tasks. Our novel design uses a single actuator with a cable driven differential mechanism to deliver equal assistive forces to both shoulder joints. The exoskeleton may also disengage one side if assistance is needed only on one shoulder. At just 3.5 kg, the device is lightweight - improving comfort for the workers and our cable driven design lets the heaviest parts of the device sit close to the core while a lightweight structure delivers assistive forces to the targeted joints.
