@@ -55,6 +55,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://roobooot.github.io/
+# Link to the author's own website/blog
+- icon: link
+  icon_pack: fas
+  link: https://www.zeyulu.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
