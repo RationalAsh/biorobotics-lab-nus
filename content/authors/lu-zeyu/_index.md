@@ -55,7 +55,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://roobooot.github.io/
-# Link to the author's own website/blog
 - icon: link
   icon_pack: fas
   link: https://www.zeyulu.com/
