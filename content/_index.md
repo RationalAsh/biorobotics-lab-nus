@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: Welcome to the NUS Biorobotics Lab!
-        content: 
+        content: 'TechConnect 2022'
         align: center
         background:
           image:
@@ -18,12 +18,12 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: ATxSG 2022
+        content: 'Exoskeleton technologies exhibit'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: atxsg.jpg
             filters:
               brightness: 0.7
           position: center
