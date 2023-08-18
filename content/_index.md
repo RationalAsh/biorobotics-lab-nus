@@ -28,6 +28,16 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+      - title: sNRP6 2023 @ SUTD
+        content: 'Exoskeleton technologies exhibit'
+        align: left
+        background:
+          image:
+            filename: sNRP6.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
       - title: World-Class Robotics Lab
         content: '!'
         align: right
