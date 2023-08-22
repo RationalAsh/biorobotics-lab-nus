@@ -16,7 +16,7 @@ publishDate: 2004-01-01T00:00:00+08:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Mechanical Design, 126(5): 822-829."
+publication: "Journal of Mechanical Design, 126(5): 822-829. Sep"
 publication_short: ""
 
 abstract: ""
