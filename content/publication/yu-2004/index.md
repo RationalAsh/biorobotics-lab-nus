@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "An adaptive shared control system for an intelligent mobility aid for the elderly"
+title: "Omni-directional mobility using active split offset castors"
 authors: ["yu-haoyong", "Matthew Spenko", "Steven Dubowsky"]
-date: 2003-00-00T16:24:14+08:00
-doi: "10.1023/A:1024488717009"
+date: 2004-01-01T00:00:00+08:00
+doi: "10.1115/1.1767181"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2003-01-01T00:00:00+08:00
+publishDate: 2004-01-01T00:00:00+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2003-01-01T00:00:00+08:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Autonomous Robots, 15(1): 53-66."
+publication: "Journal of Mechanical Design, 126(5): 822-829."
 publication_short: ""
 
 abstract: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: publication/pdf/An_Adaptive_Shared_Control_System_for_an_Intellige.pdf
+url_pdf: publication/pdf/Omni-Directional Mobility Using Active Split Offset Castors.pdf
 url_code:
 url_dataset:
 url_poster:
