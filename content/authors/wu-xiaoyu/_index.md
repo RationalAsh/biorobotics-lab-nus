@@ -25,9 +25,9 @@ bio:
 
 # List each interest with a dash
 interests:
-- Physical Human-Robot Interaction
-- Motion Control Design
-- Exoskeleton Robotics
+- Intention Detection
+- Mechanical Design
+- Rehab Robotics
 
 education:
   courses:
@@ -72,4 +72,4 @@ user_groups:
 
 Wu Xiaoyu received the M.E. degree in Control Engineering with the Department of Automation, School of Information Science and Technology, University of Science and Technology of China, Hefei, China in 2020.
 
-She is currently pursuing the Ph.D. degree in Department of Biomedical Engineering, advised by Dr. Yu Haoyong. Her current research interests include physical human–robot interaction, motion control design, and exoskeleton robotics.
+She is currently pursuing the Ph.D. degree in Department of Biomedical Engineering, advised by Dr. Yu Haoyong. She is currently working on the bilateral interaction control methods on upper-limb exoskeletons.
