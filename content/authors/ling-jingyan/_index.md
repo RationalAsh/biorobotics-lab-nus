@@ -25,20 +25,20 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Huamn-robot interaction
+- Haptoc feedback
 
 education:
   courses:
-  - course: Bachelor of Engineering in Mechanical Engineering
-    institution: Purdue University
-    year: 2015
-  - course: Master of Science in Project Management
-    institution: Northwestern University
-    year: 2017
-  - course: Master of Science in Robotics
-    institution: Northwestern University
+  - course: M.Sc. in Robotics
+    institution: Northwestern University, Evanston, Illinois, United States
     year: 2019
+  - course: M.Sc in Project Management
+    institution: Northwestern University, Evanston, Illinois, United States
+    year: 2017
+  - course: B.E. in Mechanical Engineering
+    institution: Purdue University, West Lafayette, Indiana
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -47,16 +47,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:jingyan_ling@u.nus.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://www.linkedin.com/in/jingyanling813/
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=PERSON-ID
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

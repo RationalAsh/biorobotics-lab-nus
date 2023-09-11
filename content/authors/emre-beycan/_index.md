@@ -26,11 +26,12 @@ bio:
 # List each interest with a dash
 interests:
 - Rehabilitation Robotics
-- Exergames
+- Stroke
+- Biomechanics
 
 education:
   courses:
-  - course: Bachelors in Physiotherapy and Rehabilitation
+  - course: B.Sc. in Physiotherapy and Rehabilitation
     institution: Marmara University, Istanbul, Turkey
     year: 2018
 
@@ -41,16 +42,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:emre.beycan@u.nus.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://www.linkedin.com/in/emre-beycan-bb3178195/
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=PERSON-ID
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,4 +71,4 @@ user_groups:
 ---
 Emre Beycan received the Bachelor degree in Department of Physiotherapy and Rehabilitation at Marmara University, Istanbul, Turkey in 2018. He did an internship via Erasmus+ Program at the neurology clinic in Milan/Italy in 2018. His background mainly focused on clinical trials for neurologic especially stroke patients.
 
-He is currently pursuing the Ph.D. degree in Department of Biomedical Engineering, advised by Dr. Yu Haoyong.  He is currently working on development and validation of the lower-limb rehabilitation robot with exercise-specific-games (exerGame) for post-stroke patients.
+He is currently pursuing the Ph.D. degree in Department of Biomedical Engineering, advised by Dr. Yu Haoyong. He is currently working on development and validation of the lower-limb rehabilitation robot with exercise-specific-games (exerGame) for post-stroke patients.

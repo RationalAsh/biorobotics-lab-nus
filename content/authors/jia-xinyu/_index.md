@@ -24,13 +24,14 @@ organizations:
 bio: 
 
 # List each interest with a dash
-# interests:
-# - Interest 1
-# - Interest 2
+interests:
+  - Motion planning
+  - Motion control
+  - Mechatronics
 
 education:
   courses:
-  - course: BE in Vehicle Engineering
+  - course: B.E. in Vehicle Engineering
     institution: Jilin University, Changchun, China
     year: 2018
 

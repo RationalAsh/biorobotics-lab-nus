@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: Bachelor of Engineering Bioengineering
+  - course: B.E. in Bioengineering
     institution: Nanyang Technological University
     year: 2021
 

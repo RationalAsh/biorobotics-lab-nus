@@ -25,15 +25,21 @@ bio:
 
 # List each interest with a dash
 interests:
-- Compliant Control of Collaborative Robots
+- Adaptive control
 - Physical Human-Robot-Interaction
-- Perception and Intelligent Control of Exoskeleton Robots
+- Serial elastic actuator
 
 education:
   courses:
-  - course: M.E. in Mechanical Engineering
+  - course: Ph.D in Biomedical Engineering
+    institution: National University of Singapore
+    year: 2024
+  - course: M.Sc. in Mechanical Engineering
     institution: Harbin Institute of Technology, Shenzhen, China
     year: 2020
+  - course: B.Sc. in Mechanical Engineering
+    institution: Fuzhou University, Fujian, China
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -42,16 +48,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:e0669590@u.nus.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://www.linkedin.com/in/%E5%AE%B6%E4%B9%90-%E6%A2%81-80804513a/
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=PERSON-ID
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +75,4 @@ highlight_name: false
 user_groups:
 - Students
 ---
-Liang Jiale received the M.E. degree in mechanical engineering with the Department of Mechanical Engineering and Automation, Harbin Institute of Technology, Shenzhen, China, in 2020.
- 
-He is currently pursuing the Ph.D. degree in Department of Biomedical Engineering, advised by Dr. Yu Haoyong. His research interests include compliant control of collaborative robots, physical human-robot-interaction, perception and intelligent control of exoskeleton robots.
+Jiale Liang is from Henan province, China. He received the M.Sc degree in mechanical engineering from Harbin Institute of Technology. He was a software engineer at the 2012 laboratory of Huawei Ltd. He is currently working on the development of a lower limb rehabilitation device including the mechanical design, system integration, pHRI controller design and implementation, biomechanical effect evaluation, and data-driven rehabilitation strategy formulation.

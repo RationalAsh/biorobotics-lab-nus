@@ -2,9 +2,6 @@
 # Display name
 title: "Qian Yuepeng"
 
-first_name: "Yuepeng"
-last_name: "Qian"
-
 # Username (this should match the folder name and the name on publications)
 authors:
 - "qian-yuepeng"
@@ -13,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: PhD Candidate (2023)
 
 # Organizations/Affiliations
 organizations:
@@ -32,7 +29,7 @@ interests:
 education:
   courses:
   - course: B.E. in Mechanical Engineering
-    institution: Tsinghua University
+    institution: Tsinghua University, Beijing, China
     year: 2018
 
 # Social/Academic Networking
@@ -40,18 +37,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://www.linkedin.com/in/yuepeng-qian/
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=PERSON-ID
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,9 +64,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- Alumni
 ---
 
 Qian Yuepeng received the B.E. degree from the Department of Mechanical Engineering, Tsinghua University, Beijing, China, in 2018.
 
-Currently, he is a Ph.D. student in the Department of Biomedical Engineering, advised by Dr. Yu Haoyong. His research interests include lower limb exoskeleton systems, series elastic actuator (SEA), and human-robot interaction (HRI) control.
+He was a Ph.D. student in the Department of Biomedical Engineering, advised by Dr. Yu Haoyong. His research interests included lower limb exoskeleton systems, series elastic actuator (SEA), and human-robot interaction (HRI) control.

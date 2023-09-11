@@ -34,7 +34,12 @@ education:
    - course: Ph.D. in Biomedical Engineering
      institution: National University of Singapore
      year: 2023
-
+   - course: Diploma in Computer Science Engineering (Diplôme d’Ingénieur contrôlé par l’État)
+     institution: Grande École - École Nationale Supérieure d’Ingénieurs de Sud-Alsace (Groupe Institut National des Sciences Appliquées), Mulhouse, France
+     year: 2016
+   - course: Classes Préparatoires aux Grandes Écoles
+     institution: Centre International de Valbonne, Valbonne, France
+     year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -63,6 +68,6 @@ user_groups:
 - Students
 ---
 
-David Carmona completed his Bachelor and Master’s studies in Computer Science in France and Switzerland. He worked as a Research Engineer from 2016 to 2018 at National University of Singapore.
-
-He is currently a Ph.D. student in the Department of Biomedical Engineering at National University of Singapore.  His research interests include Machine Learning and Computer Vision applied to robotics.
+David Carmona completed his Classes Préparatoires aux Grandes Écoles at the Centre International de Valbonne in 2013 to prepare the concours aux 
+Grandes Écoles. Then, he continued his education at the Grande École: École Nationale Supérieure d’Ingénieurs de Sud-Alsace (Groupe Institut National des Sciences Appliquées), where he graduated in 2016 with a Diploma in Computer Science Engineering (Diplôme d’Ingénieur contrôlé par l’État), which is equivalent to a Master Degree. He spent part of his Engineering studies at the Ecole Polytechnique Fédérale de Lausanne where he completed and defended his Master Thesis.
+He moved to Singapore in 2016, where he worked as a Research Engineer in Computer Vision and Machine Learning applied to robotics. He is currently a PhD student under the supervision of Prof. Haoyong Yu. His research interests include Machine Learning, and Computer Vision applied to robotics.
