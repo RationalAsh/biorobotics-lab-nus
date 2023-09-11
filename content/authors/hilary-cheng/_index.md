@@ -49,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#mailto:hiuyeehilarycheng@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:hiuyeehilarycheng@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/hilary-h-y-cheng-ab157b121/

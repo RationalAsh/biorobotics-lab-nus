@@ -24,18 +24,19 @@ organizations:
 bio: 
 
 # List each interest with a dash
-# interests:
-# - Interest 1
-# - Interest 2
+ interests:
+ - Rehab Robotics
+ - Intention Detection
 
 education:
   courses:
+  - course: M.Sc. in Navigation Guidance and Control
+    institution: Beihang University, Beijing, China
+    year: 2020
   - course: B.E. in Navigation guidance and control
     institution: Beihang University, Beijing, China
     year: 2017
-  - course: M.S. in Navigation Guidance and Control
-    institution: Beihang University, Beijing, China
-    year: 2020
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -44,16 +45,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+  link: 'mailto:teng.ma@u.nus.edu'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/USERNAME
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=PERSON-ID
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,4 +75,4 @@ user_groups:
 
 Ma Teng received the B.E. degree in Navigation guidance and control from Beihang University, Beijing, China, in 2017 and MS degree in Navigation Guidance and Control from Beihang University in 2020.
 
-Currently, he is a Ph.D. candidate in Department of Biomedical Engineering, advised by Dr. Yu Haoyong.
+Currently, he is a Ph.D. candidate in Department of Biomedical Engineering, advised by Dr. Yu Haoyong. My research interest is bio-inspired control of a powered transfemoral prosthesis.

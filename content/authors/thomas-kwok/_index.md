@@ -1,12 +1,12 @@
 ---
 # Display name
-title: "Thomas Kwok"
+title: "Kwok Ming Fung Thomas"
 
 # Username (this should match the folder name and the name on publications)
 authors:
 - "thomas-kwok"
 
-first_name: "Thomas"
+first_name: "Ming Fung Thomas"
 last_name: "Kwok"
 
 # Is this the primary user of the site?
@@ -25,11 +25,18 @@ bio:
 
 # List each interest with a dash
 interests:
-- Upper-limb Exoskeleton for Stroke Rehabilitation
-- Virtual Reality Rehabilitation Training
+- Rehab Robotics
+- Robot and Mechanism Design
+- Human-robot Interaction
 
 education:
   courses:
+  - course: Ph. D. in Integrative Sciences and Engineering (Biomedical Engineering)
+    institution: National University of Singapore
+    year: 2023
+  - course: M. Phil. in Mechanical and Automation Engineering
+    institution: The Chinese University of Hong Kong
+    year: 2019
   - course: B.E. in Mechanical and Automation Engineering
     institution: The Chinese University of Hong Kong
     year: 2016
@@ -41,16 +48,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:thomasm.kwok@u.nus.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/USERNAME
+  link: https://www.linkedin.com/in/thomasm-kwok/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://scholar.google.com/citations?user=9i3xYHUAAAAJ&hl=en&oi=sra
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
