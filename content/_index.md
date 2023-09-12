@@ -38,7 +38,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Field study at CRODA Singapore
+      - title: Field study @ CRODA Singapore
         content: '!'
         align: right
         background:
