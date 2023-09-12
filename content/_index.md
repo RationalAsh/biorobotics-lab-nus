@@ -38,12 +38,12 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Robotics Lab
+      - title: Field study at CRODA Singapore
         content: '!'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: groupphoto.jpg
             filters:
               brightness: 0.5
           position: center
@@ -93,7 +93,7 @@ sections:
       columns: '2'
   - block: collection
     content:
-      title: Focus Areas
+      title: Sponsors and Collaborators
       subtitle:
       text:
       count: 5
