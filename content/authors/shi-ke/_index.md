@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Ke Shi"
+title: "Shi Ke"
 
 first_name: Ke
 last_name: Shi

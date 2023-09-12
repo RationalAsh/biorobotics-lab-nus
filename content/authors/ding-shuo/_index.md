@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Shuo Ding"
+title: "Ding Shuo"
 
 # Full Name (for SEO)
 first_name: Shuo

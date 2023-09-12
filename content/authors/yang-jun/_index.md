@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Jun Yang"
+title: "Yang Jun"
 
 # Full Name (for SEO)
 first_name: Jun

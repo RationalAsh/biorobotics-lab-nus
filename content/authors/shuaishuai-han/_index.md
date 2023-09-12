@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Shuaishuai Han"
+title: "Han Shuaishuai"
 
 # Full Name (for SEO)
 first_name: Shuaishuai
