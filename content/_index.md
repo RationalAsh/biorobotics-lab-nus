@@ -38,12 +38,12 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Field study @ CRODA Singapore
+      - title: 
         content: '!'
         align: right
         background:
           image:
-            filename: groupphoto.jpg
+            filename: 
             filters:
               brightness: 0.5
           position: center
