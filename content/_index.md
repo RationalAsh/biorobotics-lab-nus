@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: atxsg.jpg
+            filename: atxsg.JPG
             filters:
               brightness: 0.7
           position: center
@@ -33,7 +33,7 @@ sections:
         align: left
         background:
           image:
-            filename: sNRP6.jpg
+            filename: sNRP6.JPG
             filters:
               brightness: 0.7
           position: center
