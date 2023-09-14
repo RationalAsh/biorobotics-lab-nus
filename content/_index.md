@@ -38,21 +38,21 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: 
-        content: '!'
+      - title: "Robotics Open Day 2023"
+        content: '@ NUS'
         align: right
         background:
           image:
-            filename: 
+            filename: robotics_open_day_2023.jpg
             filters:
               brightness: 0.5
           position: center
           color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+        # link:
+        #   icon: graduation-cap
+        #   icon_pack: fas
+        #   text: Join Us
+        #   url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
@@ -76,8 +76,10 @@ sections:
     content:
       title: Sponsors and Collaborators
       text: |
-        <br>
-        {{< gallery album="sponsors" resize_options="250x250" >}} 
+        ## Sponsors
+        {{< figure src="/Sponsors.jpg" class="img-lg" width="100%">}}
+        ## Collaborators
+        {{< figure src="/Collaborators.jpg" class="img-lg" width="100%">}}
     design:
       columns: '1'
   - block: collection
