@@ -77,7 +77,7 @@ sections:
       title: Sponsors and Collaborators
       text: |
         <br>
-        {{< gallery album="sponsors" resize_options="250x250" >}}
+        {{< gallery album="sponsors" resize_options="250x250" >}} 
     design:
       columns: '1'
   - block: collection
