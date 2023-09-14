@@ -3,7 +3,7 @@
 
 title: "Design and Control of the Portable Upper-limb Elbow-forearm Exoskeleton for ADL Assistance"
 summary: ""
-authors: ["hou-zhimin","tong-yao"]
+authors: ["hou-zhimin","tong-yao","cheng-xiao"]
 tags: []
 categories: ["rehabilitation-robotics"]
 date: 2023-08-20T16:22:09+08:00
