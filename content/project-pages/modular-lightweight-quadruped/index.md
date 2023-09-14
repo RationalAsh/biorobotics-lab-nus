@@ -3,7 +3,7 @@
 
 title: "Design of a modular and lightweight quadruped mobile manipulator research platform"
 summary: ""
-authors: ["jia-xinyu"]
+authors: ["jia-xinyu","terry-chan"]
 tags: []
 categories: ["bioinspired-robotics"]
 date: 2023-08-14T16:42:13+08:00

@@ -3,7 +3,7 @@
 
 title: "Design and Control of the Portable Upper-limb Elbow-forearm Exoskeleton for ADL Assistance"
 summary: ""
-authors: [hilary-cheng, thomas-kwok]
+authors: ["hilary-cheng", "thomas-kwok"]
 tags: []
 categories: ["rehabilitation-robotics"]
 date: 2023-08-20T16:22:09+08:00
