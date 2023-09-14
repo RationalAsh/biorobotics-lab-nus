@@ -35,7 +35,7 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
     design:
-      columns: '1'
+      columns: '2'
   - block: contact
     content:
       title: Lab Address 1
@@ -65,7 +65,7 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
     design:
-      columns: '1'
+      columns: '2'
   - block: contact
     content:
       title: Lab Address 2
@@ -73,16 +73,16 @@ sections:
       # email: bieyhy@nus.edu.sg
       # phone: 888 888 88 88
       address:
-        street: 15 Kent Ridge Crescent
+        street: 5 Engineering Drive 1
         city: Singapore
         region: SG
-        postcode: '119276'
+        postcode: '117608'
         country: Singapore
         country_code: SG
       # coordinates:
       #   latitude: '1.298481'
       #   longitude: ' 103.773591'
-      directions: Level 6, Block E7
+      directions: Level 7, Block E6
       office_hours:
         - 'Monday - Friday 9:30 to 18:00'
       #appointment_url: 'https://calendly.com'
@@ -95,5 +95,35 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
     design:
-      columns: '1'
+      columns: '2'
+  - block: contact
+    content:
+      title: Mailing Address
+      text: ""
+      # email: bieyhy@nus.edu.sg
+      # phone: 888 888 88 88
+      address:
+        street: 4 Engineering Drive 3
+        city: Singapore
+        region: SG
+        postcode: '117583'
+        country: Singapore
+        country_code: SG
+      # coordinates:
+      #   latitude: '1.298481'
+      #   longitude: ' 103.773591'
+      directions: Dept of Biomedical Engineering (FoE), National University of Singapore
+      office_hours:
+        - 'Monday - Friday 9:30 to 18:00'
+      #appointment_url: 'https://calendly.com'
+      #contact_links:
+      #  - icon: comments
+      #    icon_pack: fas
+      #    name: Discuss on Forum
+      #    link: 'https://discourse.gohugo.io'
+    
+      # Automatically link email and phone or display as text?
+      autolink: true
+    design:
+      columns: '2'
 ---
