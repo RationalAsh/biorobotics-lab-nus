@@ -20,7 +20,7 @@ main:
     url: post
     weight: 40
   - name: Careers
-    url: event
+    url: careers
     weight: 50
   - name: Contact
     url: contact

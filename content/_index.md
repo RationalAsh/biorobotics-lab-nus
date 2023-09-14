@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: atxsg.jpg
+            filename: atxsg.JPG
             filters:
               brightness: 0.7
           position: center
@@ -33,7 +33,7 @@ sections:
         align: left
         background:
           image:
-            filename: sNRP6.jpg
+            filename: sNRP6.JPG
             filters:
               brightness: 0.7
           position: center
@@ -77,7 +77,7 @@ sections:
       title: Sponsors and Collaborators
       text: |
         <br>
-        {{< gallery album="sponsors" resize_options="250x250" >}}
+        {{< gallery album="sponsors" resize_options="250x250" >}} 
     design:
       columns: '1'
   - block: collection
