@@ -25,9 +25,9 @@ bio:
 
 # List each interest with a dash
 interests:
-- Rehabilitation in Robotics
-- Deep Learning
-- Neuroscience
+  - Rehabilitation in Robotics
+  - Deep Learning
+  - Neuroscience
 
 education:
   courses:
