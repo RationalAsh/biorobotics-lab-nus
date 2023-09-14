@@ -27,17 +27,17 @@ authors:
 - Yuling Yan
 - Feng Duan
 categories: []
-date: 2018-December-1
+date: '2018-12-01'
 doi: 10.3390/bioengineering6010002
 featured: false
 image:
     caption: ''
     focal_point: ''
     preview_only: false
-publication: Bioengineering,December
+publication: '*Bioengineering,December*'
 publication_types:
 - '2'
-publishDate: '2023-09-15T00:51:05+08:00'
+publishDate: '2018-12-01T00:00:00+08:00'
 slides: ''
 tags: []
 title: Feature Extraction of Shoulder Joint's Voluntary Flexion-Extension Movement
