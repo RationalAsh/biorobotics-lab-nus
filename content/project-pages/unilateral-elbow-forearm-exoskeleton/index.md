@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Unilateral Elbow Forearm Exoskeleton"
+title: "Design and Control of the Portable Upper-limb Elbow-forearm Exoskeleton for ADL Assistance"
 summary: ""
-authors: [thomas-kwok]
+authors: [hilary-cheng, thomas-kwok]
 tags: []
 categories: ["rehabilitation-robotics"]
 date: 2023-08-20T16:22:09+08:00
@@ -40,8 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-The aim of this research is to develop an Elbow-forearm Exoskeleton that assists post-stroke patients to perform their intended Activities of Daily Living (ADL) tasks. The specific objectives of the study are as follows:
-1. Forearm rotation intention sensing for patients with weak arm: A novel sensing brace, incorporating shear-force sensors, is used for forearm rotation sensing.
-2. Integration of forearm rotation intention sensing to Upper-limb Unilateral Elbow-forearm exoskeleton for ADL: This chapter aims to integrate the forearm rotation intention sensing technology into an Upper-limb Unilateral Elbow-forearm exoskeleton. By doing so, the exoskeleton can estimate user's intention, and at the same time provide assistance.
-3. Assisting in ADL object reaching based on target identification via visual and motion feedback: The chapter seeks to incorporate visual and motion feedback into the exoskeleton system. This will enable the identification of user’s targets in ADL environment, facilitating their reaching movements. 
-By achieving these objectives, the developed Elbow-forearm Exoskeleton aims to enhance the functional abilities of post-stroke patients, enabling them to perform ADL tasks more independently and effectively.
+This study introduces a portable Unilateral Elbow-Forearm Exoskeleton (UEFE) for aiding chronic stroke patients in daily tasks. With essential degrees of freedom (eF/E and eR), UEFE facilitates elbow flexion/extension and forearm pronation/supination. A distinguishing feature is its emphasis on forearm rotation assistance, an overlooked aspect in Activities of Daily Living (ADLs) support. UEFE's lightweight design employs Series Elastic Actuators (SEA) and Bowden cables for safety and efficiency. Notably, an artificial intelligence-based intention recognition system enhances control. 
