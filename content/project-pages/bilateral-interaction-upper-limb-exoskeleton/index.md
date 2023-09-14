@@ -3,7 +3,7 @@
 
 title: "Bilateral Interaction Upper Limb Exoskeleton"
 summary: ""
-authors: ["wu-xiaoyu"]
+authors: ["wu-xiaoyu","thomas-kwok"]
 tags: []
 categories: ["rehabilitation-robotics"]
 date: 2023-08-14T16:50:19+08:00
