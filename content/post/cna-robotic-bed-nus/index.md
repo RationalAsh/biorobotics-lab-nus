@@ -1,18 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "New robotic walker to reduce healthcare manpower crunch"
-subtitle: "Today Online, Published November 22, 2014"
-summary: "Today Online, Published November 22, 2014"
+title: "Robot hospital bed among National Research Foundation grant winners"
+subtitle: ""
+summary: "The Straits Times, Published July 8, 2014"
 authors: []
 tags: []
 categories: []
-date: 2014-11-22T12:31:08+08:00
-lastmod: 2014-11-22T12:31:08+08:00
+date: 2014-07-08T13:00:21+08:00
+lastmod: 2014-07-08T13:00:21+08:00
 featured: false
 draft: false
-
-external_link: "http://www.todayonline.com/singapore/new-robotic-walker-reduce-healthcare-manpower-crunch"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

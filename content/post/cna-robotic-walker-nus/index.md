@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "New robotic walker to reduce healthcare manpower crunch"
-subtitle: "Today Online, Published November 22, 2014"
-summary: "Today Online, Published November 22, 2014"
+title: "Robotic walker from NUS to help stroke patients move better"
+subtitle: ""
+summary: "Channel News Asia, Published November 21, 2014"
 authors: []
 tags: []
 categories: []
-date: 2014-11-22T12:31:08+08:00
-lastmod: 2014-11-22T12:31:08+08:00
+date: 2014-11-21T12:55:53+08:00
+lastmod: 2014-11-21T12:55:53+08:00
 featured: false
 draft: false
 
-external_link: "http://www.todayonline.com/singapore/new-robotic-walker-reduce-healthcare-manpower-crunch"
+external_link: "https://www.youtube.com/watch?v=AXe-euYJ7-4"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

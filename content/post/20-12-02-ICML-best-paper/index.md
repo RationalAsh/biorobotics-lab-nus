@@ -3,6 +3,7 @@ title: Ankle Exoskeleton featured in NUS 110 Science & Tech Exhibition, 2015/09,
 date: 2015-09-01
 image:
   focal_point: 'top'
+draft: true
 ---
 
 Ankle Exoskeleton featured in NUS 110 Science & Tech Exhibition, 2015/09, "Knee Ankle Foot Robot for Stroke Rehabilitation".
