@@ -1,6 +1,7 @@
 ---
 title: Announcing phase 1 clinical trial results robotic ankle exoskeleton.
 date: 2015-09-01
+draft: true
 ---
 
 Early research on healthy subjects showed promising results.
