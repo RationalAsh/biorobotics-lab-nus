@@ -33,7 +33,7 @@ tags: []
 title: An adaptive shared control system for an intelligent mobility aid for the elderly
 url_code: ''
 url_dataset: ''
-url_pdf: ''
+url_pdf: 'pdf/An_Adaptive_Shared_Control_System_for_an_Intellige.pdf'
 url_poster: ''
 url_project: ''
 url_slides: ''

@@ -5,6 +5,7 @@
 
 title: NUS Biorobotics Lab # Website name
 baseURL: 'https://example.com/' # Website URL
+#baseURL: 'https://cde.nus.edu.sg/bme/biorobotics+lab/' # Website URL
 
 ############################
 ## LANGUAGE
