@@ -10,7 +10,7 @@ categories: []
 date: 2023-09-15T12:27:40+08:00
 lastmod: 2023-09-15T12:27:40+08:00
 featured: false
-draft: false
+draft: true
 external_link: "https://www.google.com"
 
 # Featured image
