@@ -3,7 +3,7 @@
 
 title: "Tactile Sensors and Robotic Hand for Grasping and Manipulation"
 summary: ""
-authors: ["lu-zeyu", "guo-haotian", "yu-haoyong"]
+authors: ["lu-zeyu", "jia-xinyu","terry-chan","shounak-b"]
 tags: []
 categories: ["bioinspired-robotics"]
 date: 2023-08-16T14:35:07+08:00

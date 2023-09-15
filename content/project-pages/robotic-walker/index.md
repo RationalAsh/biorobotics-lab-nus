@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Robotic Walker for Overground Gait Training"
+title: "Robotic Walker"
 summary: ""
 authors: ["liang-jiale","shuaishuai-han","shounak-b","cindy-sia","seyram-ofori","joshua-leong"]
 tags: []

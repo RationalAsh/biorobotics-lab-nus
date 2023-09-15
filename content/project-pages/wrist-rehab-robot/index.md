@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Design and Control of the Portable Upper-limb Elbow-forearm Exoskeleton for ADL Assistance"
+title: "Bilateral Wrist Robotic System"
 summary: ""
 authors: ["hou-zhimin","tong-yao","cheng-xiao"]
 tags: []

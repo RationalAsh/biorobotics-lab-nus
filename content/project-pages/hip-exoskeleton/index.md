@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Hip Exoskeleton for Walking Assistance"
+title: "Hip Exoskeleton"
 summary: ""
 authors: ["zhao-weihao","shounak-b"]
 tags: []
