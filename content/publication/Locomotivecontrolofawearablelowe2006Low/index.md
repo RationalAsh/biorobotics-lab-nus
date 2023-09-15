@@ -35,7 +35,7 @@ tags: []
 title: Locomotive control of a wearable lower exoskeleton for walking enhancement
 url_code: ''
 url_dataset: ''
-url_pdf: ''
+url_pdf: 'pdf/Locomotive Control of a Wearable Lower Exoskeleton for Walking Enhancement.pdf'
 url_poster: ''
 url_project: ''
 url_slides: ''
