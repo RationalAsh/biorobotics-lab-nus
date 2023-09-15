@@ -16,10 +16,10 @@ appearance:
 marketing:
   seo:
     site_type: Organization
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    local_business_type: 'Research Lab'
+    org_name: 'Biorobotics Lab'
+    description: 'The NUS Biorobotics lab, associated the the College of Design and Engineering (CDE) in the National University of Singapore.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -68,9 +68,9 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
