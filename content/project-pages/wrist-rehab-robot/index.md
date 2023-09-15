@@ -40,4 +40,8 @@ url_video: ""
 slides: ""
 ---
 
-This study introduces a portable Unilateral Elbow-Forearm Exoskeleton (UEFE) for aiding chronic stroke patients in daily tasks. With essential degrees of freedom (eF/E and eR), UEFE facilitates elbow flexion/extension and forearm pronation/supination. A distinguishing feature is its emphasis on forearm rotation assistance, an overlooked aspect in Activities of Daily Living (ADLs) support. UEFE's lightweight design employs Series Elastic Actuators (SEA) and Bowden cables for safety and efficiency. Notably, an artificial intelligence-based intention recognition system enhances control. 
+We present a bilateral wrist robotic system for rehabilitation training, which can extract subject-adaptive reference movement from the functional limb by a passive module and apply the desired assistance to the impaired limb safely by an active module.
+
+The hardware design has two critical features for wrist bilateral training, a parallel mechanism is adopted to design the wrist robots of the passive module and active module, which can support three-DoF human wrist motion with reduced inertia; the active module is actuated by three linear series elastic actuators (SEAs) to achieve low mechanical impedance and safe training.
+
+To complete various bilateral tasks for active training and passive training, the force tracking and motion tracking control are developed in the end-effector space of the robot. Furthermore, the dynamic model of a multi-DoF SEA-driven parallel robot has been presented for the first time. The feedforward terms are designed to achieve stable force-tracking and motion-tracking performance by accurately compensating for the unmodelled dynamic nonlinearities. 
