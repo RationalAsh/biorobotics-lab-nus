@@ -1,15 +1,15 @@
 ---
-title: Huamn-Robot Interaction
+title: Human-Robot Interaction Robotics
 type: landing
-summary: "Biologically inspired actuation, sensing, and control technologies for high performance robots for search and rescue missions"
+summary: "Human-robot interaction Robotics for home usage to perform activities of daily living (ADLs)"
 date: 2023-08-08T03:24:28+08:00
 
 sections:
   - block: collection
-    id: human-robot-interaction
+    id: human-robot-interaction-robotics
     content:
-      title: Human-Robot Interaction
-      subtitle: 'Projects in Human-Robot Interaction'
+      title: Human-Robot Interaction Robotics
+      subtitle: 'Projects in Human-Robot Interaction Robotics'
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
@@ -19,7 +19,7 @@ sections:
         folders:
           - project-pages
         author: ""
-        category: "human-robot-interaction"
+        category: "human-robot-interaction-robotics"
         tag: ""
         publication_type: ""
         featured_only: false
