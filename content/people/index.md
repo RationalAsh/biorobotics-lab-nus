@@ -26,8 +26,8 @@ sections:
     content:
       title: Others
       text: |
-        ## Undergraduate Student
-        ## Visiting Student
+        ## Undergraduate Students
+        ## Visiting Students
         ## Alumni
     design:
       columns: '1'
