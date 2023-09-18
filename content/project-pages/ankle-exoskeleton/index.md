@@ -3,7 +3,7 @@
 
 title: "Ankle Exoskeleton"
 summary: ""
-authors: []
+authors: [shuaishuai-han]
 tags: []
 categories: ["rehabilitation-robotics"]
 date: 2023-08-16T12:51:22+08:00

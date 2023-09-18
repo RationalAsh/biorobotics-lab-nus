@@ -3,7 +3,7 @@
 
 title: "Shoulder Support Exoskeleton"
 summary: ""
-authors: []
+authors: ["ding-shuo"]
 tags: []
 categories: ["assistive-robotics"]
 date: 2023-08-15T15:36:29+08:00

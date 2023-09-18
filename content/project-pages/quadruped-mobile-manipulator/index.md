@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Design of a modular and lightweight quadruped mobile manipulator research platform"
+title: "Quadruped Mobile Manipulator"
 summary: ""
 authors: ["jia-xinyu","terry-chan"]
 tags: []
