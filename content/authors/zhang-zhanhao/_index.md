@@ -4,7 +4,7 @@ title: "Zhanhao Zhang"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "zhanhao-zhang"
+- "zhang-zhanhao"
 
 first_name: "Zhanhao"
 last_name: "Zhang"

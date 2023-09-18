@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Student
+- Undergraduate Students
 ---
 
 Tyrus is currently a Year 3 Computer Science undergraduate at NUS. Having previously completed a summer internship at the NUS Biorobotics Lab. He currently serves as a student researcher working on industrial exoskeletons. He has a keen interest in prosthetic robotics and exoskeletons.
