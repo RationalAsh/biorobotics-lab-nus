@@ -73,7 +73,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- Visiting Student
 ---
 Wang Guodong is studying the finite-time optimal control for multi-mobile robot systems with collision avoidance. He enjoys movies and traveling in his spare time.
 Currently he is a visiting student in NUS Biorobotics Lab under Dr Yu Haoyong's supervision.

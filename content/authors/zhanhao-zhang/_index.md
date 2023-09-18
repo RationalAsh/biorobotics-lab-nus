@@ -13,7 +13,7 @@ last_name: "Zhang"
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Masters Student
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- Undergraduate Students
 ---
 
 Zhang Zhanhao, currently in his senior year, spent the first three years of his undergraduate studies in the Intelligent Medical Engineering major at Shandong University.

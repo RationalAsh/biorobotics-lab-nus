@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- Visiting Student
 ---
 
 Xia Guangming did his bachelor's degree in Electrical Engineering and Automation at Harbin Engineering University in 2019. He is currently a Ph. D. candidate at the College Of Artificial Intelligence, Nankai University and working with Dr. Zhang Jianxun and Dr. Dai Yu. Xia Guangming has his research interest in the medical robot field, including orthopedic robotic system, complex signal processing, intelligent perception strategy, and precise motion control.

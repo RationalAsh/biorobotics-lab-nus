@@ -72,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- Visiting Student
 ---
 
 Zhou Chengqian received the B.S. degree in mathematics from Liaocheng University, Liaocheng, China, in 2017, and the M.S. degree in mathematics from Qufu Normal University, Jining, China, in 2020, and is currently working toward the Ph.D. degree in control theory and control engineering from the School of Automation, Southeast University, Nanjing, China. He is also a visiting student supervised by Dr. Yu Haoyong in Department of Biomedical Engineering at National University of Singapore.

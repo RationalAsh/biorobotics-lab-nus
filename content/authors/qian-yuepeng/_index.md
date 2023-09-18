@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate (2023)
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Students
 ---
 
 Qian Yuepeng received the B.E. degree from the Department of Mechanical Engineering, Tsinghua University, Beijing, China, in 2018.
