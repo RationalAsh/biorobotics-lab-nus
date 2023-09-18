@@ -15,12 +15,21 @@ sections:
           - Research Fellows
           - Research Engineers
           - Students
-          - Visiting Professors
-          - Alumni
       sort_by: Params.role
       sort_ascending: true
     design:
       show_interests: false
       show_role: true
       show_social: true
+      columns: '2'
+  - block: markdown
+    content:
+      title: Others
+      text: |
+        ## Visiting Student
+
+        ## Alumni
+
+    design:
+      columns: '1'
 ---
