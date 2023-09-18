@@ -3,6 +3,7 @@ title: Human-Robot Interaction Robotics
 type: landing
 summary: "Human-robot interaction Robotics for home usage to perform activities of daily living (ADLs)"
 date: 2023-08-08T03:24:28+08:00
+weight: 3
 
 sections:
   - block: collection

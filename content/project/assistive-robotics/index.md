@@ -3,6 +3,7 @@ title: Assistive Robotics
 type: landing
 summary: "Intelligent mobility aids and health monitoring devices; intelligent robots for productivity enhancement in healthcare, logistics and industries"
 date: 2023-08-08T03:24:28+08:00
+weight: 2
 
 sections:
   - block: collection

@@ -3,6 +3,7 @@ title: Rehabilitation Robotics
 type: landing
 summary: "Robotic systems, devices, and technologies that can improve the motor functions of individuals with neurological disorders"
 date: 2023-08-08T03:24:28+08:00
+weight: 1
 
 sections:
   - block: collection

@@ -3,6 +3,7 @@ title: Bioinspired Robotics
 type: landing
 summary: "Biologically inspired actuation, sensing, and control technologies for high performance robots for search and rescue missions"
 date: 2023-08-08T03:24:28+08:00
+weight: 4
 
 sections:
   - block: collection
