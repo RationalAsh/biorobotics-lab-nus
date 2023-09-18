@@ -54,7 +54,7 @@ social:
   link: https://scholar.google.com/citations?user=1TXnPsYAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://roobooot.github.io/
+  link: https://github.com/roobooot
 - icon: link
   icon_pack: fas
   link: https://www.zeyulu.com/

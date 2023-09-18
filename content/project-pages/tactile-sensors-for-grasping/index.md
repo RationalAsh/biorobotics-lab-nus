@@ -9,7 +9,7 @@ categories: ["bioinspired-robotics"]
 date: 2023-08-16T14:35:07+08:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/roobooot/GTac_"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -20,12 +20,12 @@ image:
   preview_only: false
 
 # Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
+# Uncomment and edit lines below to show custom links.
+#links:
 # - name: Follow
-#   url: https://twitter.com
+#   url: ...
 #   icon_pack: fab
-#   icon: twitter
+#  icon: github
 
 url_code: ""
 url_pdf: ""

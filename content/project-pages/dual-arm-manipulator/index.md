@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A Novel Efficient Learning-based Task Planner using a Bio-inspired Action Context-free Grammar for Dual-Arm Manipulation"
+title: "Dual-Arm Manipulation"
 summary: ""
-authors: ["david-nicolas-carmona-moreno"]
+authors: ["david-nicolas-carmona-moreno","shounak-b"]
 tags: []
-categories: ["bioinspired-robotics"]
+categories: ["human-robot-interaction-robotics"]
 date: 2023-08-14T16:04:19+08:00
 
 # Optional external URL for project (replaces project detail page).
