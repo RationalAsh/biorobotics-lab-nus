@@ -69,6 +69,12 @@ sections:
         Video
       text: |
         {{< youtube CuHjfLlwIzg>}}
+  - block: markdown
+    content:
+      title: |
+        Publications
+      text: |
+        Publication list goes here
 ---
 
 {{< youtube CuHjfLlwIzg>}}
