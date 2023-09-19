@@ -1,17 +1,22 @@
 ---
-title: Human-Robot Interaction Robotics
+title: Human-Robot Interaction
 type: landing
-summary: "Human-robot interaction Robotics for home usage to perform activities of daily living (ADLs)"
+summary: "Human-robot interaction for home usage to perform activities of daily living (ADLs)"
 date: 2023-08-08T03:24:28+08:00
 weight: 3
 
 sections:
   - block: collection
-    id: human-robot-interaction-robotics
+    id: human-robot-interaction
     content:
-      title: Human-Robot Interaction Robotics
-      subtitle: 'Projects in Human-Robot Interaction Robotics'
-      text: ''
+      title: Human-Robot Interaction
+      subtitle: 'Projects in Human-Robot Interaction'
+      text:  |
+        <br>
+
+        Human-robot interaction (HRI) has been developed in order to engage with human to perform tasks such as activities of daily living (ADLs) at home.
+        
+        <br>
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
       # Filter on criteria
@@ -20,7 +25,7 @@ sections:
         folders:
           - project-pages
         author: ""
-        category: "human-robot-interaction-robotics"
+        category: "human-robot-interaction"
         tag: ""
         publication_type: ""
         featured_only: false
