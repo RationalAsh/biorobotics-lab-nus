@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Journal Publications
 type: landing
 
 # Optional banner image (relative to `assets/media/` folder).
@@ -8,15 +8,13 @@ banner:
   image: ''
 ---
 
-# Journal Papers
-
-A list of our journal publications each year are listed below. Please follow the links below to view
- * [Conference Papers](conference-papers/)
- * [PhD Theses](theses/)
- * [Patents](patents/)
+A list of our journal publications each year are listed below. Please follow these links to view
+ * [Conference Papers](../conference-papers/)
+ * [PhD Theses](../theses/)
+ * [Patents](../patents/)
  * [Full List of Publications](../publication)
 
-## 2023
+### 2023
 1. Kaixin Lu, Shuaishuai Han, Jun Yang, and Haoyong Yu, "Inverse Optimal Adaptive Tracking Control of Robotic Manipulators Driven by Compliant Actuators," _IEEE Transactions on Industrial Electronics_, pp. 1--11, 2023, doi:[10.1109/tie.2023.3296831](https://doi.org/10.1109/tie.2023.3296831)
 2. Francisco Anaya Reyes, Ding Shuo, and Haoyong Yu, "Shoulder-Support Exoskeletons for Overhead Work: Current State,  Challenges and Future Directions," _IEEE Transactions on Medical Robotics and Bionics_, vol. 5, pp. 516--527, August  2023, doi:[10.1109/tmrb.2023.3275761](https://doi.org/10.1109/tmrb.2023.3275761)
 3. Shuaishuai Han, Haoping Wang, and Haoyong Yu, "Human-Robot Interaction Evaluation-Based AAN Control for Upper Limb Rehabilitation Robots Driven by Series Elastic Actuators," _IEEE Transactions on Robotics_, pp. 1--15, 2023, doi:[10.1109/tro.2023.3286073](https://doi.org/10.1109/tro.2023.3286073)
@@ -31,7 +29,7 @@ A list of our journal publications each year are listed below. Please follow the
 12. Shuo Ding, Anaya Reyes Francisco, Tong Li, and Haoyong Yu, "A novel passive shoulder exoskeleton for assisting overhead work," _Wearable Technologies_, vol. 4, 2023, doi:[10.1017/wtc.2023.1](https://doi.org/10.1017/wtc.2023.1)
 13. Weiming Li, Chuannen Wei, Shuibiao Chen, Xingyu Gao, and Haoyong Yu, "Narrow Weld Joint Recognition Method Based on Laser Profile Sensor," _IEEE Sensors Journal_, vol. 23, pp. 1295--1307, January  2023, doi:[10.1109/jsen.2022.3223778](https://doi.org/10.1109/jsen.2022.3223778)
 14. Yuepeng Qian, Shuaishuai Han, Yining Wang, Haoyong Yu, and Chenglong Fu, "Toward Improving Actuation Transparency and Safety of a Hip Exoskeleton With a Novel Nonlinear Series Elastic Actuator," _IEEE/ASME Transactions on Mechatronics_, vol. 28, pp. 417--428, February  2023, doi:[10.1109/tmech.2022.3201255](https://doi.org/10.1109/tmech.2022.3201255)
-## 2022
+### 2022
 1. Huixu Dong, Haitao Yang, Shuo Ding, Tong Li, and Haoyong Yu, "Bioinspired Amphibious Origami Robot with Body Sensing for Multimodal Locomotion," _Soft Robotics_, vol. 9, pp. 1198--1209, December  2022, doi:[10.1089/soro.2021.0118](https://doi.org/10.1089/soro.2021.0118)
 2. Bangchu Yang, Li Jiang, Guanjun Bao, Haoyong Yu, and Xuanyi Zhou, "Co-optimization of robotic design and skill inspired by human hand evolution," _Bioinspiration \& Biomimetics_, vol. 18, pp. 016002, November  2022, doi:[10.1088/1748-3190/ac884e](https://doi.org/10.1088/1748-3190/ac884e)
 3. Weiming Li, Feng Mei, Zeng Hu, Xingyu Gao, Haoyong Yu, Alaa Aldeen Housein, and Chuannen Wei, "Multiple weld seam laser vision recognition method based on the IPCE algorithm," _Optics \& Laser Technology_, vol. 155, pp. 108388, November  2022, doi:[10.1016/j.optlastec.2022.108388](https://doi.org/10.1016/j.optlastec.2022.108388)
@@ -54,7 +52,7 @@ A list of our journal publications each year are listed below. Please follow the
 20. Guanbao Zeng, Yang Xiangyu, Yu Haoyong, Yiyang Jing, Shiwei Zhao, Jianghua Cao, Qing Chen, Mengzhen Gao, and Zifan Zhang, "Sensorless Control for Unsymmetrical Bistable Multimagnetic Circuit Permanent Magnet Actuator Based on High-Frequency Signal Injection and High-Pass Filter Circuit," _IEEE Transactions on Industrial Electronics_, vol. 69, pp. 10859--10869, November  2022, doi:[10.1109/tie.2021.3123670](https://doi.org/10.1109/tie.2021.3123670)
 21. Ashwin Narayan, Francisco Anaya Reyes, Meifeng Ren, and Yu Haoyong, "Real-Time Hierarchical Classification of Time Series Data for Locomotion Mode Detection," _IEEE Journal of Biomedical and Health Informatics_, vol. 26, pp. 1749--1760, April  2022, doi:[10.1109/jbhi.2021.3106110](https://doi.org/10.1109/jbhi.2021.3106110)
 22. Dongyu Li, Haoyong Yu, Keng Peng Tee, Yan Wu, Shuzhi Sam Ge, and Tong Heng Lee, "On Time-Synchronized Stability and Control," _IEEE Transactions on Systems,  Man,  and Cybernetics: Systems_, vol. 52, pp. 2450--2463, April  2022, doi:[10.1109/tsmc.2021.3050183](https://doi.org/10.1109/tsmc.2021.3050183)
-## 2021
+### 2021
 1. Libo Zhou, Weihai Chen, Wenjie Chen, Shaoping Bai, Zheng Zhao, Jianhua Wang, and Haoyong Yu, "Hysteresis modeling and compensation of a rotary series elastic actuator with nonlinear stiffness," _Review of Scientific Instruments_, vol. 92, September  2021, doi:[10.1063/5.0053074](https://doi.org/10.1063/5.0053074)
 2. 李伟明 Li Weiming, 梅枫 Mei Feng, 胡增 Hu Zeng, 高兴宇 Gao Xingyu, and 喻豪勇 Yu Haoyong, "线激光光条中心内部推进提取算法," _Chinese Journal of Lasers_, vol. 48, pp. 1104002, 2021, doi:[10.3788/cjl202148.1104002](https://doi.org/10.3788/cjl202148.1104002)
 3. Hsiao-Ju Cheng, Kwun Kei Ng, Xing Qian, Fang Ji, Zhong Kang Lu, Wei Peng Teo, Xin Hong, Fatima Ali Nasrallah, Kai Keng Ang, Kai-Hsiang Chuang, Cuntai Guan, Haoyong Yu, Effie Chew, and Juan Helen Zhou, "Task-related brain functional network reconfigurations relate to motor recovery in chronic subcortical stroke," _Scientific Reports_, vol. 11, April  2021, doi:[10.1038/s41598-021-87789-5](https://doi.org/10.1038/s41598-021-87789-5)
@@ -66,7 +64,7 @@ A list of our journal publications each year are listed below. Please follow the
 9. Gabriel Aguirre-Ollinger and Haoyong Yu "Lower-Limb Exoskeleton With Variable-Structure Series Elastic Actuators: Phase-Synchronized Force Control for Gait Asymmetry Correction," _IEEE Transactions on Robotics_, vol. 37, pp. 763--779, June  2021, doi:[10.1109/tro.2020.3034017](https://doi.org/10.1109/tro.2020.3034017)
 10. Huixu Dong, Ching-Yen Weng, Chuangqiang Guo, Haoyong Yu, and I-Ming Chen, "Real-Time Avoidance Strategy of Dynamic Obstacles via Half Model-Free Detection and Tracking With 2D Lidar for Mobile Robots," _IEEE/ASME Transactions on Mechatronics_, vol. 26, pp. 2215--2225, August  2021, doi:[10.1109/tmech.2020.3034982](https://doi.org/10.1109/tmech.2020.3034982)
 11. Qian Wang, Haoyong Yu, Zheng-Guang Wu, and Guoda Chen, "Stability Analysis for Input Saturated Discrete-Time Switched Systems With Average Dwell-Time," _IEEE Transactions on Systems,  Man,  and Cybernetics: Systems_, vol. 51, pp. 412--419, January  2021, doi:[10.1109/tsmc.2018.2874660](https://doi.org/10.1109/tsmc.2018.2874660)
-## 2020
+### 2020
 1. Xi Kang, Huijuan Feng, Jian S Dai, and Haoyong Yu, "High-order based revelation of bifurcation of novel Schatz-inspired metamorphic mechanisms using screw theory," _Mechanism and Machine Theory_, vol. 152, pp. 103931, October  2020, doi:[10.1016/j.mechmachtheory.2020.103931](https://doi.org/10.1016/j.mechmachtheory.2020.103931)
 2. Yangkun Zhang, Yuxin Peng, Yang Cheng, and Haoyong Yu, "A novel piezo-actuated flapping mechanism based on inertia drive," _Journal of Intelligent Material Systems and Structures_, vol. 31, pp. 1782--1792, June  2020, doi:[10.1177/1045389x20935624](https://doi.org/10.1177/1045389x20935624)
 3. Hwan Ing Hee, Kiang Loong Ng, Manolo STA Cruz, Aloysius Tan, and Haoyong Yu, "IMOVE-An Intuitive Concept Mobility Systems for Perioperative Transfer and Induction of Anaesthesia for Special Needs Children," _Sensors_, vol. 20, pp. 4901, August  2020, doi:[10.3390/s20174901](https://doi.org/10.3390/s20174901)
@@ -76,7 +74,7 @@ A list of our journal publications each year are listed below. Please follow the
 7. Michele Veldsman, Hsiao-Ju Cheng, Fang Ji, Emilio Werden, Mohamed Salah Khlif, Kwun Kei Ng, Joseph K W Lim, Xing Qian, Haoyong Yu, Juan Helen Zhou, and Amy Brodtmann, "Degeneration of structural brain networks is associated with cognitive decline after ischaemic stroke," _Brain Communications_, September  2020, doi:[10.1093/braincomms/fcaa155](https://doi.org/10.1093/braincomms/fcaa155)
 8. Kai Guo, Yongping Pan, Dongdong Zheng, and Haoyong Yu, "Composite learning control of robotic systems: A least squares modulated approach," _Automatica_, vol. 111, pp. 108612, January  2020, doi:[10.1016/j.automatica.2019.108612](https://doi.org/10.1016/j.automatica.2019.108612)
 9. Yunda Yan, Jun Yang, Zhenxing Sun, Shihua Li, and Haoyong Yu, "Non-linear-disturbance-observer-enhanced MPC for motion control systems with multiple disturbances," _IET Control Theory \& Applications_, vol. 14, pp. 63--72, January  2020, doi:[10.1049/iet-cta.2018.5821](https://doi.org/10.1049/iet-cta.2018.5821)
-## 2019
+### 2019
 1. Yongping Pan, Tairen Sun, Young Hoon Joo, and Haoyong Yu, "Enhanced parameter estimation in adaptive control via online historical data," _IET Control Theory \& Applications_, vol. 13, pp. 2710--2716, September  2019, doi:[10.1049/iet-cta.2018.5836](https://doi.org/10.1049/iet-cta.2018.5836)
 2. Guanjun Bao, Lufeng Pan, Hui Fang, Xinyu Wu, Haoyong Yu, Shibo Cai, Bingqing Yu, and Yuehua Wan, "Academic Review and Perspectives on Robotic Exoskeletons," _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, vol. 27, pp. 2294--2304, November  2019, doi:[10.1109/tnsre.2019.2944655](https://doi.org/10.1109/tnsre.2019.2944655)
 3. Guanjun Bao, Lufeng Pan, Hui Fang, Xinyu Wu, Haoyong Yu, Shibo Cai, Bingqing Yu, and Yuehua Wan, "Academic Review and Perspectives on Robotic Exoskeletons," _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, vol. 27, pp. 2294--2304, November  2019, doi:[10.1109/tnsre.2019.2944655](https://doi.org/10.1109/tnsre.2019.2944655)
@@ -96,7 +94,7 @@ A list of our journal publications each year are listed below. Please follow the
 17. Chuanlin Zhang, Yunda Yan, and Haoyong Yu, "Global Dynamic Nonrecursive Realization of Decentralized Nonsmooth Exact Tracking for Large-Scale Interconnected Nonlinear Systems," _IEEE Transactions on Cybernetics_, vol. 49, pp. 3521--3531, September  2019, doi:[10.1109/tcyb.2018.2846243](https://doi.org/10.1109/tcyb.2018.2846243)
 18. Huiming Wang, Yongping Pan, Shihua Li, and Haoyong Yu, "Robust Sliding Mode Control for Robots Driven by Compliant Actuators," _IEEE Transactions on Control Systems Technology_, vol. 27, pp. 1259--1266, May  2019, doi:[10.1109/tcst.2018.2799587](https://doi.org/10.1109/tcst.2018.2799587)
 19. Yongping Pan, Xiang Li, and Haoyong Yu, "Efficient PID Tracking Control of Robotic Manipulators Driven by Compliant Actuators," _IEEE Transactions on Control Systems Technology_, vol. 27, pp. 915--922, March  2019, doi:[10.1109/tcst.2017.2783339](https://doi.org/10.1109/tcst.2017.2783339)
-## 2018
+### 2018
 1. Hongbo Liang, Chi Zhu, Yu Iwata, Shota Maedono, Mika Mochita, Chang Liu, Naoya Ueda, Peirang Li, Haoyong Yu, Yuling Yan, and Feng Duan, "Feature Extraction of Shoulder Joint's Voluntary Flexion-Extension Movement Based on Electroencephalography Signals for Power Assistance," _Bioengineering_, vol. 6, pp. 2, December  2018, doi:[10.3390/bioengineering6010002](https://doi.org/10.3390/bioengineering6010002)
 2. Libo Zhou, Weihai Chen, Jianhua Wang, Shaoping Bai, Haoyong Yu, and Yinping Zhang, "A Novel Precision Measuring Parallel Mechanism for the Closed-Loop Control of a Biologically Inspired Lower Limb Exoskeleton," _IEEE/ASME Transactions on Mechatronics_, vol. 23, pp. 2693--2703, December  2018, doi:[10.1109/tmech.2018.2872011](https://doi.org/10.1109/tmech.2018.2872011)
 3. Yong Zhong, Jialei Song, Haoyong Yu, and Ruxu Du, "A Study on Kinematic Pattern of Fish Undulatory Locomotion Using a Robot Fish," _Journal of Mechanisms and Robotics_, vol. 10, June  2018, doi:[10.1115/1.4040434](https://doi.org/10.1115/1.4040434)
@@ -115,7 +113,7 @@ A list of our journal publications each year are listed below. Please follow the
 16. Yongping Pan, Chenguang Yang, Lin Pan, and Haoyong Yu, "Integral Sliding Mode Control: Performance,  Modification,  and Improvement," _IEEE Transactions on Industrial Informatics_, vol. 14, pp. 3087--3096, July  2018, doi:[10.1109/tii.2017.2761389](https://doi.org/10.1109/tii.2017.2761389)
 17. Yongping Pan, Huiming Wang, Xiang Li, and Haoyong Yu, "Adaptive Command-Filtered Backstepping Control of Robot Arms With Compliant Actuators," _IEEE Transactions on Control Systems Technology_, vol. 26, pp. 1149--1156, May  2018, doi:[10.1109/tcst.2017.2695600](https://doi.org/10.1109/tcst.2017.2695600)
 18. Xiang Li, Yongping Pan, Gong Chen, and Haoyong Yu, "Continuous Tracking Control for a Compliant Actuator With Two-Stage Stiffness," _IEEE Transactions on Automation Science and Engineering_, vol. 15, pp. 57--66, January  2018, doi:[10.1109/tase.2016.2574741](https://doi.org/10.1109/tase.2016.2574741)
-## 2017
+### 2017
 1. Tairen Sun, Yongping Pan, Jun Zhang, and Haoyong Yu, "Robust model predictive control for constrained continuous-time nonlinear systems," _International Journal of Control_, vol. 91, pp. 359--368, February  2017, doi:[10.1080/00207179.2017.1282177](https://doi.org/10.1080/00207179.2017.1282177)
 2. Yongping Pan, Tairen Sun, Yiqi Liu, and Haoyong Yu, "Composite learning from adaptive backstepping neural network control," _Neural Networks_, vol. 95, pp. 134--142, November  2017, doi:[10.1016/j.neunet.2017.08.005](https://doi.org/10.1016/j.neunet.2017.08.005)
 3. Zhao Guo, Rachael Bei Yee, Kyung-Ryoul Mun, and Haoyong Yu, "Experimental evaluation of a novel robotic hospital bed mover with omni-directional mobility," _Applied Ergonomics_, vol. 65, pp. 389--397, November  2017, doi:[10.1016/j.apergo.2017.04.010](https://doi.org/10.1016/j.apergo.2017.04.010)
@@ -133,7 +131,7 @@ A list of our journal publications each year are listed below. Please follow the
 15. Xiang Li, Yongping Pan, Gong Chen, and Haoyong Yu, "Adaptive Human-Robot Interaction Control for Robots Driven by Series Elastic Actuators," _IEEE Transactions on Robotics_, vol. 33, pp. 169--182, February  2017, doi:[10.1109/tro.2016.2626479](https://doi.org/10.1109/tro.2016.2626479)
 16. Gong Chen, Peng Qi, Zhao Guo, and Haoyong Yu, "Gait-Event-Based Synchronization Method for Gait Rehabilitation Robots via a Bioinspired Adaptive Oscillator," _IEEE Transactions on Biomedical Engineering_, vol. 64, pp. 1345--1356, June  2017, doi:[10.1109/tbme.2016.2604340](https://doi.org/10.1109/tbme.2016.2604340)
 17. Yongping Pan and Haoyong Yu "Biomimetic Hybrid Feedback Feedforward Neural-Network Learning Control," _IEEE Transactions on Neural Networks and Learning Systems_, vol. 28, pp. 1481--1487, June  2017, doi:[10.1109/tnnls.2016.2527501](https://doi.org/10.1109/tnnls.2016.2527501)
-## 2016
+### 2016
 1. Cheng Li, Jiaze Wu, Apoorva Gogna, Bien Soo Tan, Jin Yao Teo, London Lucien Ooi, Jimin Liu, and Haoyong Yu, "Subject-specific and respiration-corrected 4D liver model from real-time ultrasound image sequences," _Computer Methods in Biomechanics and Biomedical Engineering: Imaging \& Visualization_, vol. 6, pp. 7--16, July  2016, doi:[10.1080/21681163.2016.1147985](https://doi.org/10.1080/21681163.2016.1147985)
 2. Yuxin Peng, Huiying Wang, Shu Wang, Jian Wang, Jie Cao, and Haoyong Yu, "Design and experimental validation of a linear piezoelectric micromotor for dual-slider positioning," _Microsystem Technologies_, vol. 23, pp. 2363--2370, July  2016, doi:[10.1007/s00542-016-3088-8](https://doi.org/10.1007/s00542-016-3088-8)
 3. Yuxin Peng, Jie Cao, Li Liu, and Haoyong Yu, "A piezo-driven flapping wing mechanism for micro air vehicles," _Microsystem Technologies_, vol. 23, pp. 967--973, January  2016, doi:[10.1007/s00542-015-2762-6](https://doi.org/10.1007/s00542-015-2762-6)
@@ -154,7 +152,7 @@ A list of our journal publications each year are listed below. Please follow the
 18. Zheng Li, Hongliang Ren, Philip Wai Yan Chiu, Ruxu Du, and Haoyong Yu, "A novel constrained wire-driven flexible mechanism and its kinematic analysis," _Mechanism and Machine Theory_, vol. 95, pp. 59--75, January  2016, doi:[10.1016/j.mechmachtheory.2015.08.019](https://doi.org/10.1016/j.mechmachtheory.2015.08.019)
 19. Emre Sariyildiz, Gong Chen, and Haoyong Yu, "An Acceleration-Based Robust Motion Controller Design for a Novel Series Elastic Actuator," _IEEE Transactions on Industrial Electronics_, vol. 63, pp. 1900--1910, March  2016, doi:[10.1109/tie.2015.2512228](https://doi.org/10.1109/tie.2015.2512228)
 20. Yongping Pan and Haoyong Yu "Composite Learning From Adaptive Dynamic Surface Control," _IEEE Transactions on Automatic Control_, vol. 61, pp. 2603--2609, September  2016, doi:[10.1109/tac.2015.2495232](https://doi.org/10.1109/tac.2015.2495232)
-## 2015
+### 2015
 1. Yongping Pan, Yiqi Liu, and Haoyong Yu, "Online data-driven composite adaptive backstepping control with exact differentiators," _International Journal of Adaptive Control and Signal Processing_, vol. 30, pp. 779--789, October  2015, doi:[10.1002/acs.2639](https://doi.org/10.1002/acs.2639)
 2. Yuxin Peng, Jie Cao, Zhao Guo, and Haoyong Yu, "A linear actuator for precision positioning of dual objects," _Smart Materials and Structures_, vol. 24, pp. 125039, November  2015, doi:[10.1088/0964-1726/24/12/125039](https://doi.org/10.1088/0964-1726/24/12/125039)
 3. F. Reyes, R. Mun Kyung, H. Yu, and V. Pasqui, "D\'etermination d'un indice du risque imminent de chute pour la compensation active des instabilit\'es posturales avec un robot d'assistance \`a la marche," _Neurophysiologie Clinique/Clinical Neurophysiology_, vol. 45, pp. 406--407, November  2015, doi:[10.1016/j.neucli.2015.10.049](https://doi.org/10.1016/j.neucli.2015.10.049)
@@ -171,7 +169,7 @@ A list of our journal publications each year are listed below. Please follow the
 14. Yongping Pan, Tairen Sun, and Haoyong Yu, "Peaking-Free Output-Feedback Adaptive Neural Control Under a Nonseparation Principle," _IEEE Transactions on Neural Networks and Learning Systems_, vol. 26, pp. 3097--3108, December  2015, doi:[10.1109/tnnls.2015.2403712](https://doi.org/10.1109/tnnls.2015.2403712)
 15. Zheng Li, Jan Feiling, Hongliang Ren, and Haoyong Yu, "A Novel Tele-Operated Flexible Robot Targeted for Minimally Invasive Robotic Surgery," _Engineering_, vol. 1, pp. 073--078, March  2015, doi:[10.15302/j-eng-2015011](https://doi.org/10.15302/j-eng-2015011)
 16. Yongping Pan,  Haoyong Yu, and  Tairen Sun, "Global Asymptotic Stabilization Using Adaptive Fuzzy PD Control," _IEEE Transactions on Cybernetics_, vol. 45, pp. 574--582, March  2015, doi:[10.1109/tcyb.2014.2331460](https://doi.org/10.1109/tcyb.2014.2331460)
-## 2014
+### 2014
 1. Cheng Li, Jiaze Wu, Yanling Chi, Jimin Liu, Qi Tian, and Haoyong Yu, "A quantitative evaluation function for 3D tree-like structure segmentations in liver images," _Computer Methods in Biomechanics and Biomedical Engineering: Imaging \& Visualization_, vol. 5, pp. 45--53, October  2014, doi:[10.1080/21681163.2014.969449](https://doi.org/10.1080/21681163.2014.969449)
 2. Yongping Pan, Meng Joo Er, Rongjun Chen, and Haoyong Yu, "Output Feedback Adaptive Neural Control Without Seeking SPR Condition," _Asian Journal of Control_, vol. 17, pp. 1620--1630, September  2014, doi:[10.1002/asjc.966](https://doi.org/10.1002/asjc.966)
 3. Zhao Guo, Haoyong Yu, and Yue H. Yin, "Developing a Mobile Lower Limb Robotic Exoskeleton for Gait Rehabilitation," _Journal of Medical Devices_, vol. 8, August  2014, doi:[10.1115/1.4026900](https://doi.org/10.1115/1.4026900)
@@ -185,21 +183,21 @@ A list of our journal publications each year are listed below. Please follow the
 11. Gong Chen and Haoyong Yu "A Portable Powered Knee-Ankle- Foot Orthosis1," _Journal of Medical Devices_, vol. 8, April  2014, doi:[10.1115/1.4027027](https://doi.org/10.1115/1.4027027)
 12. Shuang Song, Baopu Li, Wan Qiao, Chao Hu, Hongliang Ren, Haoyong Yu, Qi Zhang, Max Q.-H. Meng, and Guoqing Xu, "6-D Magnetic Localization and Orientation Method for an Annular Magnet Based on a Closed-Form Analytical Model," _IEEE Transactions on Magnetics_, vol. 50, pp. 1--11, September  2014, doi:[10.1109/tmag.2014.2315592](https://doi.org/10.1109/tmag.2014.2315592)
 13. Yongping Pan, Haoyong Yu, and Meng Joo Er, "Adaptive Neural PD Control With Semiglobal Asymptotic Stabilization Guarantee," _IEEE Transactions on Neural Networks and Learning Systems_, vol. 25, pp. 2264--2274, December  2014, doi:[10.1109/tnnls.2014.2308571](https://doi.org/10.1109/tnnls.2014.2308571)
-## 2013
+### 2013
 1. Yue Zhou, Hongliang Ren, Max Q-H Meng, ZION TSZ HO TSE, and Haoyong Yu, "Robotics in natural orifice transluminal endoscopic surgery," _Journal of Mechanics in Medicine and Biology_, vol. 13, pp. 1350044, 2013, doi:[10.1142/S0219519413500449](https://doi.org/10.1142/S0219519413500449)
 2. Jiaze Wu, Cheng Li, Su Huang, Feng Liu, Bien Soo Tan, London Lucien Ooi, Haoyong Yu, and Jimin Liu, "Fast and robust extraction of surrogate respiratory signal from intra-operative liver ultrasound images," _International journal of computer assisted radiology and surgery_, vol. 8, pp. 1027--1035, 2013, doi:[10.1007/s11548-013-0902-y](https://doi.org/10.1007/s11548-013-0902-y)
 3. Haoyong Yu, Sunan Huang, Gong Chen, and Nitish Thakor, "Control design of a novel compliant actuator for rehabilitation robots," _Mechatronics_, vol. 23, pp. 1072--1083, 2013, doi:[10.1016/j.mechatronics.2013.08.004](https://doi.org/10.1016/j.mechatronics.2013.08.004)
 4. Sunan Huang and Haoyong Yu "Intelligent fault monitoring and diagnosis in electrical machines," _Measurement_, vol. 46, pp. 3640--3646, 2013, doi:[10.1016/j.measurement.2013.07.004](https://doi.org/10.1016/j.measurement.2013.07.004)
-## 2011
+### 2011
 1. Ryojun IKEURA, Soichiro HAYAKAWA, and Haoyong YU, "Manipulating objects with a power assist robot in linear vertical and harmonic motion: Psychophysical-biomechanical approach to analyzing human characteristics to improve the control," _Journal of Biomechanical Science and Engineering_, vol. 6, pp. 399--414, 2011, doi:[10.1299/jbse.6.399](https://doi.org/10.1299/jbse.6.399)
 2. SM Mizanoor Rahman, Ryojun Ikeura, and Haoyong Yu, "Towards developing a human-friendly power assist robot for manipulating heavy objects: special focus on manoeuvrability and object’s surface friction," _International Journal of Biomechatronics and Biomedical Robotics_, vol. 1, pp. 191--205, 2011, doi:[10.1504/IJBBR.2011.043747](https://doi.org/10.1504/IJBBR.2011.043747)
 3. Chi Zhu, Masashi Oda, Haoyong Yu, Hideomi Watanabe, Yuling Yan, and Z Gacovski, "Walking support and power assistance of a wheelchair typed omnidirectional mobile robot with admittance control," _Mobile Robots—Current Trends_, 2011,
-## 2006
+### 2006
 1. KH Low, X Liu, and H Yu, "Design and implementation of NTU wearable exoskeleton as an enhancement and assistive device," _Applied Bionics and Biomechanics_, vol. 3, pp. 209--225, 2006, doi:[10.1533/abbi.2006.0030](https://doi.org/10.1533/abbi.2006.0030)
 2. KH Low, Xiaopeng Liu, CH Goh, and Haoyong Yu, "Locomotive control of a wearable lower exoskeleton for walking enhancement," _Journal of Vibration and Control_, vol. 12, pp. 1311--1336, 2006, doi:[10.1177/1077546306070616](https://doi.org/10.1177/1077546306070616)
 3. Matthew Spenko, Haoyong Yu, and Steven Dubowsky, "Robotic personal aids for mobility and monitoring for the elderly," _IEEE Transactions on Neural Systems and Rehabilitation Engineering_, vol. 14, pp. 344--351, 2006, doi:[10.1109/TNSRE.2006.881534](https://doi.org/10.1109/TNSRE.2006.881534)
-## 2004
+### 2004
 1. Haoyong Yu, Matthew Spenko, and Steven Dubowsky, "Omni-directional mobility using active split offset castors," _J. Mech. Des._, vol. 126, pp. 822--829, 2004, doi:[10.1115/1.1767181](https://doi.org/10.1115/1.1767181)
-## 2003
+### 2003
 1. Haoyong Yu, Matthew Spenko, and Steven Dubowsky, "An adaptive shared control system for an intelligent mobility aid for the elderly," _Autonomous Robots_, vol. 15, pp. 53--66, 2003, doi:[10.1023/A:1024488717009](https://doi.org/10.1023/A:1024488717009)
 
