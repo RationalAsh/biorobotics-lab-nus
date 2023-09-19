@@ -10,9 +10,9 @@ sections:
     id: assistive-robotics
     content:
       title: Assistive Robotics
-      subtitle: 'Projects in Assistive Robotics'
+      subtitle: 'Occupational Exoskeletons for Industrial Workers'
       text:  |
-        > There is an increasing shortage of manpower in healthcare and service industries due to rapid population aging. Robotics offers huge potential to relieve human from the labour intensive and strenuous tasks.
+        > In today's modern industrial workplaces, safety and shifting demographics are notable challenges. Data indicates 41.7% of workplace injuries pertain to the back, and these injuries are 2.6 times more common than others. Shoulder injuries are the next most common These injuries lead to significant expenses, with healthcare and productivity costs reaching up to 20.59 billion USD due to over-exertion and repetitive tasks. Additionally, there's a rising trend of workers experiencing musculoskeletal disorders. This is further compounded by the aging global population, with projections stating that over 22% will be above the age of 60 by 2050. The labor market, already impacted by COVID-related shortages, sees a leaner workforce that is, on average, older. With people working longer and retiring later, there's a growing need for occupational exoskeletons. Such devices could improve workplace safety, boost productivity, and assist companies in maintaining their experienced workforce.
         
         <br>
       # Choose how many pages you would like to display (0 = all pages)
