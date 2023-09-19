@@ -7,6 +7,7 @@ authors: ["ding-shuo"]
 tags: []
 categories: ["assistive-robotics"]
 date: 2023-08-15T15:36:29+08:00
+type: landing
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -38,6 +39,42 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
+sections:
+  - block: markdown
+    content:
+      title: |
+        Shoulder-Support Exoskeleton
+      subtitle: A novel, lightweight shoulder support exoskeleton with for industrial workers who perform overhead tasks.
+      text: |
+        <img src="shoulder-exo-banner.jpg" alt="an image of a person wearing a back exoskeleton" title="Back Exoskeleton" width="100%">
+        <br>
+        Shoulder injuries are the second most common injury in the workplace. We have designed a back support exoskeleton that can reduce the risk of back injuries by reducing the peak muscle forces used when lifting and lowering heavy loads. Our unique design allows independent leg movement, wide range of motion, and balanced force to both sides of the body. The passive version uses a spring and and the active version a Series Elastic Actuator (SEA) to achieve compliant force control instead of position control. Sensor data collected from the use of the device to provide potentially useful information on productivity and worker wellbeing. Experimental results show that it reduces up to 50% of the peak muscle forces used when lifting a 25 kg load.
+  - block: hero
+    content:
+      title: |
+        Design
+      image:
+        filename: shoulder-exo/shoulder-collage.jpg
+        size: cover
+      text: |
+        <br>
+
+        We have designed a novel back support exoskeleton with a single actuator for industrial workers who perform lifting and lowering tasks. Rather than two actuators, our novel exoskeleton uses a single actuator and a differential mechanism with a cable drive to transmit force equally to the two hip joints. This novel design results in lighter weight, independent leg movement, wide range of motion, and balanced force to both sides of the body. The passive version uses a spring and and the active version a Series Elastic Actuator (SEA) to achieve compliant force control instead of position control. Sensor data collected from the use of the device to provide potentially useful information on productivity and worker wellbeing. Experimental results show that it reduces up to 50% of the peak muscle forces used when lifting a 25 kg load.
+        <br>
+        <br>
+  - block: markdown
+    content:
+      title: |
+        Video
+      text: |
+        {{< youtube CuHjfLlwIzg>}}
+  - block: markdown
+    content:
+      title: |
+        Publications
+      text: |
+        Publication list goes here
 ---
 
 ![Shoulder Support Exoskeletons](shoulder-collage.jpg "Shoulder Support Exoskeletons Active (left) and Passive (right)")
