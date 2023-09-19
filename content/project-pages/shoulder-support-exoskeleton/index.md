@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Shoulder Support Exoskeleton"
-summary: ""
+summary: "A novel, lightweight shoulder support exoskeleton with for industrial workers who perform overhead tasks."
 authors: ["ding-shuo"]
 tags: []
 categories: ["assistive-robotics"]
@@ -75,7 +75,7 @@ sections:
       title: |
         Publications
       text: |
-        Publication list goes here
+        1. Ding, Shuo, Anaya Reyes Francisco, Tong Li, and Haoyong Yu. "A novel passive shoulder exoskeleton for assisting overhead work," _Wearable Technologies_ 4 (2023): e7.
     design:
       columns: '2'
 ---
