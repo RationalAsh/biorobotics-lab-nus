@@ -12,8 +12,6 @@ sections:
       title: Assistive Robotics
       subtitle: 'Projects in Assistive Robotics'
       text:  |
-        <br>
-
         There is an increasing shortage of manpower in healthcare and service industries due to rapid population aging. Robotics offers huge potential to relieve human from the labour intensive and strenuous tasks.
         
         <br>
@@ -42,5 +40,5 @@ sections:
       # Choose a listing view
       view: compact
       # Choose single or dual column layout
-      columns: '1'
+      columns: '2'
 ---

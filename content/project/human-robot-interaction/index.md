@@ -12,8 +12,6 @@ sections:
       title: Human-Robot Interaction
       subtitle: 'Projects in Human-Robot Interaction'
       text:  |
-        <br>
-
         Human-robot interaction (HRI) has been developed in order to engage with human to perform tasks such as activities of daily living (ADLs) at home.
         
         <br>
@@ -42,5 +40,5 @@ sections:
       # Choose a listing view
       view: compact
       # Choose single or dual column layout
-      columns: '1'
+      columns: '2'
 ---

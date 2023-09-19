@@ -12,8 +12,6 @@ sections:
       title: Bioinspired Robotics
       subtitle: 'Projects in Bioinspired Robotics'
       text:   |
-        <br>
-
         Many bio-inspired mobile robots have been developed with the potential applications in research and rescue missions. These robots are able to perform different functions, such as walking, running, or crawling, and flying. Our research focus on exploring the intrinsic mechanical properties of animal muscles, joints, and skeletal structures to achieve novel robotic actuator and structure design for better performance. We would also like to study the neural and sensory motor control of biological system for better sensing and control of these robots.
         
         <br>
@@ -42,5 +40,5 @@ sections:
       # Choose a listing view
       view: compact
       # Choose single or dual column layout
-      columns: '1'
+      columns: '2'
 ---

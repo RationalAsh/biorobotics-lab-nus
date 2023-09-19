@@ -12,10 +12,8 @@ sections:
       title: Rehabilitation Robotics
       subtitle: 'Projects in Rehabilitation Robotics'
       text: |
-        <br>
-
         With the population aging, stroke is becoming one of the leading causes of adult disability, such as gait impairment. Robots can overcome the limitations of manual therapy for rehabilitation. We are developing several novel robotic devices for gait rehabilitation and assistive that could potentially be used at community centres or home settings. Our robots are based on novel actuator and mechanical designs, sensing, and control methodology to achieve safer human robot interaction and control and can potentially offer better functional outcomes.
-        
+        <br>
         <br>
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
@@ -42,5 +40,5 @@ sections:
       # Choose a listing view
       view: compact
       # Choose single or dual column layout
-      columns: '1'
+      columns: '2'
 ---
