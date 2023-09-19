@@ -55,12 +55,13 @@ sections:
       title: |
         Design
       image:
-        filename: shoulder-exo/shoulder-collage.jpg
-        size: cover
+        filename: shoulder-exo/shoulder-labeled.jpg
       text: |
         <br>
 
-        We have designed a novel back support exoskeleton with a single actuator for industrial workers who perform lifting and lowering tasks. Rather than two actuators, our novel exoskeleton uses a single actuator and a differential mechanism with a cable drive to transmit force equally to the two hip joints. This novel design results in lighter weight, independent leg movement, wide range of motion, and balanced force to both sides of the body. The passive version uses a spring and and the active version a Series Elastic Actuator (SEA) to achieve compliant force control instead of position control. Sensor data collected from the use of the device to provide potentially useful information on productivity and worker wellbeing. Experimental results show that it reduces up to 50% of the peak muscle forces used when lifting a 25 kg load.
+        A novel shoulder support exoskeleton with a single actuator for industrial workers performing overhead / elevated tasks. It assists the shoulder muscles to reduce muscle fatigue and improve endurance during these tasks. Our novel design uses a single actuator with a cable driven differential mechanism to deliver equal assistive forces to both shoulder joints. The exoskeleton may also disengage one side if assistance is needed only on one shoulder. At just 3.5 kg, the device is lightweight - improving comfort for the workers and our cable driven design lets the heaviest parts of the device sit close to the core while a lightweight structure delivers assistive forces to the targeted joints.
+
+        The passive version of the device uses a collapsible spring to deliver maximum assistive force when the upper arm is parallel to the ground and very low force when arm is in a relaxed position. The active version of the device uses a compliant Series Elastic Actuator and motion sensors to deliver precisely calculated assistive forces to the shoulder based on the pose and motion of the joint. Experimental results show between 30% and 40% reduction in the muscle activations of the targeted shoulder muscles during overhead drilling tasks.
         <br>
         <br>
   - block: markdown
