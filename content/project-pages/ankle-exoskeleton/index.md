@@ -39,6 +39,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+![](video.gif)
+
 A novel ankle rehabilitation exoskeleton that is intended for post-stroke rehabilitation training. It has a single actuated ankle joint that provides assistive torque during dorsiflexion and plantarflexion. The device is designed to be lightweight and compact, with a total weight of 3.5 kg. The device is also designed to be modular with the actuation unit in a lighweight wearable backpack. Assistive forces are transmitted to the ankle joint via a Bowden cable mechanism through a lightweight, unobtrusive ankle brace. We make use of inherently compliant series elastic actuators (SEAs) to generate the assistive forces for the device. The inherent compliance improves the safety of the device and allows for the device to use precise force control rather than position control based assistiance schemes. 
 
 The device makes use of embedded, on-board motion and angular sensors along with advanced learning algorithms to deliver assistive forces synchronized to the user's gait, and tailored to the user's needs. Preliminary studies with stroke patients show improvement in 10MWT, 6MWT and TUGT scores after training with the device. Further studies are being conducted to evaluate the efficacy of the device.

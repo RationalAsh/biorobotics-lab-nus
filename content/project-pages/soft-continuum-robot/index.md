@@ -5,7 +5,7 @@ title: "Soft continuum robot"
 summary: ""
 authors: ["yang-jun"]
 tags: []
-categories: ["human-robot-interaction-robotics"]
+categories: ["human-robot-interaction"]
 date: 2023-08-16T14:35:07+08:00
 
 # Optional external URL for project (replaces project detail page).

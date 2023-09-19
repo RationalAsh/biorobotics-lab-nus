@@ -7,6 +7,7 @@ authors: ["lyu-tian", "yu-yiang", "ashwin"]
 tags: []
 categories: ["assistive-robotics"]
 date: 2023-08-15T15:33:18+08:00
+draft: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
