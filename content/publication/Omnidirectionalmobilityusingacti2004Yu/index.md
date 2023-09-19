@@ -33,7 +33,7 @@ tags: []
 title: Omni-directional mobility using active split offset castors
 url_code: ''
 url_dataset: ''
-url_pdf: 'pdf/Omni-Directional Mobility Using Active Split Offset Castors.pdf'
+url_pdf: ''
 url_poster: ''
 url_project: ''
 url_slides: ''

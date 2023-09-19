@@ -35,7 +35,7 @@ title: Design and implementation of NTU wearable exoskeleton as an enhancement a
     assistive device
 url_code: ''
 url_dataset: ''
-url_pdf: 'pdf/Design and implementation of NTU wearable exoskeleton as an enhancement and assistive device.pdf'
+url_pdf: ''
 url_poster: ''
 url_project: ''
 url_slides: ''

@@ -34,7 +34,7 @@ tags: []
 title: Robotic personal aids for mobility and monitoring for the elderly
 url_code: ''
 url_dataset: ''
-url_pdf: 'pdf/Robotic Personal Aids for Mobility and Monitoring for the Elderly.pdf'
+url_pdf: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
