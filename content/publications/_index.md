@@ -10,6 +10,12 @@ banner:
 
 # Journal Papers
 
+A list of our journal publications each year are listed below. Please follow the links below to view
+ * [Conference Papers](conference-papers/)
+ * [PhD Theses](theses/)
+ * [Patents](patents/)
+ * [Full List of Publications](../publication)
+
 ## 2023
 1. Kaixin Lu, Shuaishuai Han, Jun Yang, and Haoyong Yu, "Inverse Optimal Adaptive Tracking Control of Robotic Manipulators Driven by Compliant Actuators," _IEEE Transactions on Industrial Electronics_, pp. 1--11, 2023, doi:[10.1109/tie.2023.3296831](https://doi.org/10.1109/tie.2023.3296831)
 2. Francisco Anaya Reyes, Ding Shuo, and Haoyong Yu, "Shoulder-Support Exoskeletons for Overhead Work: Current State,  Challenges and Future Directions," _IEEE Transactions on Medical Robotics and Bionics_, vol. 5, pp. 516--527, August  2023, doi:[10.1109/tmrb.2023.3275761](https://doi.org/10.1109/tmrb.2023.3275761)
