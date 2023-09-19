@@ -76,6 +76,8 @@ sections:
         Publications
       text: |
         Publication list goes here
+    design:
+      columns: '2'
 ---
 
 ![Shoulder Support Exoskeletons](shoulder-collage.jpg "Shoulder Support Exoskeletons Active (left) and Passive (right)")
