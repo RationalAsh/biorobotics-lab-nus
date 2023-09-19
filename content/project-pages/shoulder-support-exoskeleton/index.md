@@ -75,7 +75,7 @@ sections:
       title: |
         Publications
       text: |
-        1. Ding, Shuo, Anaya Reyes Francisco, Tong Li, and Haoyong Yu. "A novel passive shoulder exoskeleton for assisting overhead work," _Wearable Technologies_ 4 (2023): e7.
+        1. S. Ding, A. Reyes Francisco, T. Li, and H. Yu, “A novel passive shoulder exoskeleton for assisting overhead work,” _Wearable Technologies_, vol. 4, p. e7, 2023.
     design:
       columns: '2'
 ---
