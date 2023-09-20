@@ -71,10 +71,7 @@ sections:
         filename: shoulder-exo/shoulder-labeled.jpg
       text: |
         <br>
-
-        A novel shoulder support exoskeleton with a single actuator for industrial workers performing overhead / elevated tasks. It assists the shoulder muscles to reduce muscle fatigue and improve endurance during these tasks. Our novel design uses a single actuator with a cable driven differential mechanism to deliver equal assistive forces to both shoulder joints. The exoskeleton may also disengage one side if assistance is needed only on one shoulder. At just 3.5 kg, the device is lightweight - improving comfort for the workers and our cable driven design lets the heaviest parts of the device sit close to the core while a lightweight structure delivers assistive forces to the targeted joints.
-
-        The passive version of the device uses a collapsible spring to deliver maximum assistive force when the upper arm is parallel to the ground and very low force when arm is in a relaxed position. The active version of the device uses a compliant Series Elastic Actuator and motion sensors to deliver precisely calculated assistive forces to the shoulder based on the pose and motion of the joint. Experimental results show between 30% and 40% reduction in the muscle activations of the targeted shoulder muscles during overhead drilling tasks.
+        The active version of our device includes an embedded real-time controller that uses feedback from on board sensors to determine the best magnitude and timing of the assistive forces delivered to the shoulder. 
         <br>
         <br>
   - block: markdown
