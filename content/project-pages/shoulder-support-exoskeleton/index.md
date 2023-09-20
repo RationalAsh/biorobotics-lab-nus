@@ -55,9 +55,9 @@ sections:
   - block: hero
     content:
       title: |
-        Design - Passive
+        Design Principle
       image:
-        filename: shoulder-exo/shoulder-labeled.jpg
+        filename: shoulder-exo/shoulder-principle.png
       text: |
         <br>
 
