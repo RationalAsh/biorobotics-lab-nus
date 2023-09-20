@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Lower Limb Exoskeleton"
-summary: ""
+summary: "Wearable lower-limb robots come in various forms, including exoskeletons, which can either enhance human abilities or help overcome deficits caused by injury or disease, especially stroke."
 authors: []
 tags: []
 categories: ["rehabilitation-robotics"]
@@ -31,7 +31,7 @@ sections:
       text: |
         <br>
         
-        Wearable robots come in various forms, including exoskeletons, which can either enhance human abilities or help overcome deficits caused by injury or disease. They can be actively powered by electric motors or compressed air or provide passive assistance through spring-like mechanical elements. The proposed lower limb exoskeletons are intended for stroke rehabilitation.
+        Wearable lower-limb robots come in various forms, including exoskeletons, which can either enhance human abilities or help overcome deficits caused by injury or disease. They can be actively powered by electric motors or compressed air or provide passive assistance through spring-like mechanical elements. The proposed lower limb exoskeletons are intended for stroke rehabilitation.
   - block: markdown
     content:
       title: |
