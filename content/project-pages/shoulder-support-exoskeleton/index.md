@@ -49,11 +49,27 @@ sections:
       text: |
         <img src="shoulder-exo-banner.jpg" alt="an image of a person wearing a back exoskeleton" title="Back Exoskeleton" width="100%">
         <br>
-        Shoulder injuries are the second most common injury in the workplace. We have designed a back support exoskeleton that can reduce the risk of back injuries by reducing the peak muscle forces used when lifting and lowering heavy loads. Our unique design allows independent leg movement, wide range of motion, and balanced force to both sides of the body. The passive version uses a spring and and the active version a Series Elastic Actuator (SEA) to achieve compliant force control instead of position control. Sensor data collected from the use of the device to provide potentially useful information on productivity and worker wellbeing. Experimental results show that it reduces up to 50% of the peak muscle forces used when lifting a 25 kg load.
+        <p class="justified-text">
+        Shoulder injuries rank as the second most prevalent injuries in the workplace. In sectors such as construction and manufacturing, workers frequently engage in tasks demanding shoulder flexion, such as lifting heavy objects overhead, wielding tools at elevated angles, and installing fixtures or components above head height. Given the recurrent nature of these actions and their associated risks, there's a pressing need for an assistive solution. 
+        We have developed a novel shoulder support exoskeleton that assists the shoulder joint in these type of tasks. We have designed both passive and active versions of the exoskeleton design. </p>
   - block: hero
     content:
       title: |
-        Design
+        Design - Passive
+      image:
+        filename: shoulder-exo/shoulder-labeled.jpg
+      text: |
+        <br>
+
+        A novel shoulder support exoskeleton with a single actuator for industrial workers performing overhead / elevated tasks. It assists the shoulder muscles to reduce muscle fatigue and improve endurance during these tasks. Our novel design uses a single actuator with a cable driven differential mechanism to deliver equal assistive forces to both shoulder joints. The exoskeleton may also disengage one side if assistance is needed only on one shoulder. At just 3.5 kg, the device is lightweight - improving comfort for the workers and our cable driven design lets the heaviest parts of the device sit close to the core while a lightweight structure delivers assistive forces to the targeted joints.
+
+        The passive version of the device uses a collapsible spring to deliver maximum assistive force when the upper arm is parallel to the ground and very low force when arm is in a relaxed position. The active version of the device uses a compliant Series Elastic Actuator and motion sensors to deliver precisely calculated assistive forces to the shoulder based on the pose and motion of the joint. Experimental results show between 30% and 40% reduction in the muscle activations of the targeted shoulder muscles during overhead drilling tasks.
+        <br>
+        <br>
+  - block: hero
+    content:
+      title: |
+        Design - Active
       image:
         filename: shoulder-exo/shoulder-labeled.jpg
       text: |
