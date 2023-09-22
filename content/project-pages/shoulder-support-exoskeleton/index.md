@@ -71,7 +71,7 @@ sections:
         filename: shoulder-exo/shoulder-labeled.jpg
       text: |
         <br>
-        The active version of our device includes an embedded real-time controller that coommands the torque of a brushless electric motor through a Series Elastic Actuator (SEA) to achieve an inherently compliant mechanism and force control. The active device also includes on-board motion sensors that let the controller intelligently determine the assistive torque needed based on the pose and motion of the joint and adjust the assistance in real-time. The active device weights around 3.5kg is capable of delivering up to 30 Nm of assistive torque to the shoulder joint.
+        The active version of our device includes an embedded real-time controller that coommands the torque of a brushless electric motor through a Series Elastic Actuator (SEA) to achieve an inherently compliant mechanism and force control. The active device also includes on-board motion sensors that let the controller intelligently determine the assistive torque needed based on the pose and motion of the joint and adjust the assistance in real-time. The active device weights around 3.5kg is capable of delivering up to 30 Nm of assistive torque to the shoulder joint. The use of a real-time controller also allows us to implement a variety of control strategies to improve the performance of the device in different working conditions.
         <br>
         <br>
   - block: markdown
