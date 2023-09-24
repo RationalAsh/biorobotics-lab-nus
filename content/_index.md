@@ -71,7 +71,7 @@ sections:
       text: |
         <br>
         
-        The **NUS Biorobotics Lab** , directed by Professor Yu Haoyong, is developing novel robotic systems, devices, and enabling technologies to address the healthcare and manpower challenges in societies with increasing aging population. Our multidisciplinary team of biomechanics, neuroscience, and robotics adopt a biorobotics approach with insights and inspiration for nature to develop novel technologies in actuation, sensing, and control for the next generation Rehabilitation Robotics, Surgical Robotics, Assistive and Service Robotics, and Bio-inspired Robotics.
+        The **NUS Biorobotics Lab**, under the direction of Professor Yu Haoyong, is at the forefront of developing innovative robotic systems, devices, and enabling technologies to tackle healthcare and manpower challenges prevalent in societies with rapidly aging populations. Our multidisciplinary team, specializing in biomechanics, neuroscience, and robotics, uses a biorobotics approach, drawing insights and inspiration from nature to pioneer novel technologies in actuation, sensing, and control. We are focused on advancing the next generation of Rehabilitation Robotics, Surgical Robotics, Assistive and Service Robotics, and Bio-inspired Robotics.
   - block: markdown
     content:
       title: Sponsors and Collaborators
