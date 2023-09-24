@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Active Back Support Exoskeleton"
+title: "Passive Back Support Exoskeleton"
 summary: ""
-authors: ["ding-shuo","francisco-anaya-reyes","shounak-b","ashwin","seyram-ofori","cindy-sia"]
+authors: ["ding-shuo","shounak-b","ashwin","seyram-ofori","cindy-sia"]
 tags: []
 categories: ["assistive-robotics"]
 date: 2023-08-15T15:33:18+08:00
