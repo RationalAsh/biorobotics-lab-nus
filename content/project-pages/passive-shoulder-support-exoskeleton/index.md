@@ -8,6 +8,7 @@ tags: []
 categories: ["assistive-robotics"]
 date: 2023-08-15T15:36:29+08:00
 type: landing
+weight: 100
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
