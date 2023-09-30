@@ -25,9 +25,8 @@ sections:
       columns: '2'
   - block: markdown
     content:
-      title: Alumni
-      text: |
-        Click [here](/alumni/) to view our alumni.
+      title: "[Alumni](/alumni/)"
+      text:
     design:
       columns: '1'
 ---
