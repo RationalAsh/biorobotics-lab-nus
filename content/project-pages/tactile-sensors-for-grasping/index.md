@@ -5,7 +5,7 @@ title: "Tactile Sensors and Robotic Hand for Grasping and Manipulation"
 summary: ""
 authors: ["lu-zeyu", "jia-xinyu","terry-chan","shounak-b"]
 tags: []
-categories: ["bioinspired-robotics"]
+categories: ["human-robot-interaction"]
 date: 2023-08-16T14:35:07+08:00
 
 # Optional external URL for project (replaces project detail page).
