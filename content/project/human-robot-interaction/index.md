@@ -12,8 +12,7 @@ sections:
       title: Human-Robot Interaction
       subtitle: 'Projects in Human-Robot Interaction'
       text:  |
-        > Human-robot interaction (HRI) has been developed in order to engage with human to perform tasks such as activities of daily living (ADLs) at home.
-        
+        > Many elderly people and people with disabilities are unable to perform activities of daily living (ADLs) independently. This can be due to physical limitations, cognitive impairments, or a combination of both. Assistive robots can help these individuals to perform ADLs independently, thus improving their quality of life. However, the design of assistive robots is challenging due to the complexity of human-robot interaction (HRI). Our research in HRI focuses on the development of assistive robots that can perform ADLs with minimal human intervention in a home environment. We are also interested in the development of novel HRI methods that can improve the safety and efficiency of assistive robots.
         <br>
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
