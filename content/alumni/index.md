@@ -1,5 +1,5 @@
 ---
-title: People
+title: Alumni
 date: 2022-10-24
 
 type: landing
@@ -7,27 +7,16 @@ type: landing
 sections:
   - block: people
     content:
-      title: Meet the Team
+      title: Alumni
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Principal Investigator
-          - Research Fellows
-          - Research Engineers
-          - Students
-          - Undergraduate Students
+          - Alumni
       sort_by: Params.role
-      sort_ascending: false
+      sort_ascending: true
     design:
       show_interests: false
       show_role: true
       show_social: true
       columns: '2'
-  - block: markdown
-    content:
-      title: Alumni
-      text: |
-        Click [here](/alumni/) to view our alumni.
-    design:
-      columns: '1'
 ---
