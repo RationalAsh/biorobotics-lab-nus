@@ -1,7 +1,7 @@
 ---
 # {
 #     "journal": "{IEEE} Robotics and Automation Letters",
-#     "title": "{GTac}-Gripper: A Reconfigurable Under-Actuated Four-Fingered Robotic Gripper With Tactile Sensing",
+#     "title": "GTac-Gripper: A Reconfigurable Under-Actuated Four-Fingered Robotic Gripper With Tactile Sensing",
 #     "author": "Zeyu Lu and Haotian Guo and Wensi Zhang and Haoyong Yu",
 #     "pages": "7232--7239",
 #     "number": "3",
@@ -33,7 +33,7 @@ publication_types:
 publishDate: '2022-07-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: '{GTac}-Gripper: A Reconfigurable Under-Actuated Four-Fingered Robotic Gripper
+title: 'GTac-Gripper: A Reconfigurable Under-Actuated Four-Fingered Robotic Gripper
     With Tactile Sensing'
 url_code: ''
 url_dataset: ''

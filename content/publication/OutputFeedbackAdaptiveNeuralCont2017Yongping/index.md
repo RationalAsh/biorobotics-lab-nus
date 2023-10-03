@@ -1,7 +1,7 @@
 ---
 # {
 #     "journal": "{IEEE} Transactions on Control Systems Technology",
-#     "title": "Output-Feedback Adaptive Neural Control of a Compliant Differential {SMA} Actuator",
+#     "title": "Output-Feedback Adaptive Neural Control of a Compliant Differential SMA Actuator",
 #     "author": "Yongping Pan and Zhao Guo and Xiang Li and Haoyong Yu",
 #     "pages": "2202--2210",
 #     "number": "6",
@@ -33,7 +33,7 @@ publication_types:
 publishDate: '2017-11-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: Output-Feedback Adaptive Neural Control of a Compliant Differential {SMA} Actuator
+title: Output-Feedback Adaptive Neural Control of a Compliant Differential SMA Actuator
 url_code: ''
 url_dataset: ''
 url_pdf: ''

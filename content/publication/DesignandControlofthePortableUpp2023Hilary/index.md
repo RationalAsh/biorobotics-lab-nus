@@ -1,7 +1,7 @@
 ---
 # {
 #     "booktitle": "2023 {IEEE}/{ASME} International Conference on Advanced Intelligent Mechatronics ({AIM})",
-#     "title": "Design and Control of the Portable Upper-limb Elbow-forearm Exoskeleton for {ADL} Assistance",
+#     "title": "Design and Control of the Portable Upper-limb Elbow-forearm Exoskeleton for ADL Assistance",
 #     "author": "Hilary HY Cheng and Thomas M. Kwok and Haoyong Yu",
 #     "publisher": "{IEEE}",
 #     "month": "June",
@@ -31,7 +31,7 @@ publishDate: '2023-06-01T00:00:00+08:00'
 slides: ''
 tags: []
 title: Design and Control of the Portable Upper-limb Elbow-forearm Exoskeleton for
-    {ADL} Assistance
+    ADL Assistance
 url_code: ''
 url_dataset: ''
 url_pdf: ''

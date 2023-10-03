@@ -1,5 +1,6 @@
 ---
 # {
+#     "abstract": "",
 #     "journal": "{IEEE} Transactions on Industrial Electronics",
 #     "title": "Inverse Optimal Adaptive Tracking Control of Robotic Manipulators Driven by Compliant Actuators",
 #     "author": "Kaixin Lu and Shuaishuai Han and Jun Yang and Haoyong Yu",

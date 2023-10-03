@@ -1,7 +1,7 @@
 ---
 # {
 #     "journal": "{IEEE}/{ASME} Transactions on Mechatronics",
-#     "title": "Robust Speed Regulation for {PMSM} Servo System With Multiple Sources of Disturbances via an Augmented Disturbance Observer",
+#     "title": "Robust Speed Regulation for PMSM Servo System With Multiple Sources of Disturbances via an Augmented Disturbance Observer",
 #     "author": "Yunda Yan and Jun Yang and Zhenxing Sun and Chuanlin Zhang and Shihua Li and Haoyong Yu",
 #     "pages": "769--780",
 #     "number": "2",
@@ -35,7 +35,7 @@ publication_types:
 publishDate: '2018-04-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: Robust Speed Regulation for {PMSM} Servo System With Multiple Sources of Disturbances
+title: Robust Speed Regulation for PMSM Servo System With Multiple Sources of Disturbances
     via an Augmented Disturbance Observer
 url_code: ''
 url_dataset: ''

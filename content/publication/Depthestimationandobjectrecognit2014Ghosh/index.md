@@ -1,7 +1,7 @@
 ---
 # {
 #     "booktitle": "2014 13th International Conference on Control Automation Robotics {\\&}amp$\\mathsemicolon$ Vision ({ICARCV})",
-#     "title": "Depth estimation and object recognition in dark environments using {ATIS}",
+#     "title": "Depth estimation and object recognition in dark environments using ATIS",
 #     "author": "Ghosh Rohan and Mishra Abhishek and Haoyong Yu and Nitish V. Thakor",
 #     "publisher": "{IEEE}",
 #     "month": "December",
@@ -31,7 +31,7 @@ publication_types:
 publishDate: '2014-12-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: Depth estimation and object recognition in dark environments using {ATIS}
+title: Depth estimation and object recognition in dark environments using ATIS
 url_code: ''
 url_dataset: ''
 url_pdf: ''

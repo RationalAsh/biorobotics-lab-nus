@@ -1,7 +1,7 @@
 ---
 # {
 #     "booktitle": "2023 {IEEE}/{ASME} International Conference on Advanced Intelligent Mechatronics ({AIM})",
-#     "title": "A Reliable Kinematic Measurement of Upper Limb Exoskeleton for {VR} Therapy with Visual-inertial Sensors",
+#     "title": "A Reliable Kinematic Measurement of Upper Limb Exoskeleton for VR Therapy with Visual-inertial Sensors",
 #     "author": "Thomas M. Kwok and Tong Li and Haoyong Yu",
 #     "publisher": "{IEEE}",
 #     "month": "June",
@@ -30,8 +30,8 @@ publication_types:
 publishDate: '2023-06-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: A Reliable Kinematic Measurement of Upper Limb Exoskeleton for {VR} Therapy
-    with Visual-inertial Sensors
+title: A Reliable Kinematic Measurement of Upper Limb Exoskeleton for VR Therapy with
+    Visual-inertial Sensors
 url_code: ''
 url_dataset: ''
 url_pdf: ''

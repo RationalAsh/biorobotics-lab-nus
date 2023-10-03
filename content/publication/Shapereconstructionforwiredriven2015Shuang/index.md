@@ -1,7 +1,7 @@
 ---
 # {
 #     "journal": "Mechatronics",
-#     "title": "Shape reconstruction for wire-driven flexible robots based on B{\\'{e}}zier curve and electromagnetic positioning",
+#     "title": "Shape reconstruction for wire-driven flexible robots based on B\u00e9zier curve and electromagnetic positioning",
 #     "author": "Shuang Song and Zheng Li and Haoyong Yu and Hongliang Ren",
 #     "pages": "28--35",
 #     "volume": "29",
@@ -32,8 +32,8 @@ publication_types:
 publishDate: '2015-08-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: Shape reconstruction for wire-driven flexible robots based on B{\'{e}}zier
-    curve and electromagnetic positioning
+title: "Shape reconstruction for wire-driven flexible robots based on B\xE9zier curve\
+    \ and electromagnetic positioning"
 url_code: ''
 url_dataset: ''
 url_pdf: ''

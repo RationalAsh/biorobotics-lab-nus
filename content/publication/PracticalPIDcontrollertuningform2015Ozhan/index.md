@@ -1,7 +1,7 @@
 ---
 # {
 #     "booktitle": "2015 {IEEE} International Conference on Mechatronics ({ICM})",
-#     "title": "Practical {PID} controller tuning for motion control",
+#     "title": "Practical PID controller tuning for motion control",
 #     "author": "Ozhan Ozen and Emre Sariyildiz and Haoyong Yu and Kenji Ogawa and Kouhei Ohnishi and Asif Sabanovic",
 #     "publisher": "{IEEE}",
 #     "month": "March",
@@ -32,7 +32,7 @@ publication_types:
 publishDate: '2015-03-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: Practical {PID} controller tuning for motion control
+title: Practical PID controller tuning for motion control
 url_code: ''
 url_dataset: ''
 url_pdf: ''

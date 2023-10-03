@@ -1,7 +1,7 @@
 ---
 # {
 #     "journal": "Biomedical Engineering: Applications,  Basis and Communications",
-#     "title": "{CREATION} {OF} {CLINICALLY}-{DIFFERENTIAL} {TUMOR} {MIMIC} {MODEL} {USING} {VASELINE}-{BASED} {MATERIALS} {WITH} {BARIUM} {SULFATE} {FOR} {THE} {VALIDATION} {OF} {REAL}-{TIME} {ULTRASOUND} {IMAGE}-{GUIDED} {LIVER} {BIOPSY} {SYSTEM}",
+#     "title": "Creation Of Clinically-Differential Tumor Mimic Model Using Vaseline-Based Materials With Barium Sulfate For The Validation Of Real-Time Ultrasound Image-Guided Liver Biopsy System",
 #     "author": "Cheng Li and Jin Yao Teo and Jiaze Wu and Apoorva Gogna and Bien Soo Tan and London Lucien Ooi and Jimin Liu and Haoyong Yu",
 #     "pages": "1650003",
 #     "number": "01",
@@ -37,9 +37,9 @@ publication_types:
 publishDate: '2016-02-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: '{CREATION} {OF} {CLINICALLY}-{DIFFERENTIAL} {TUMOR} {MIMIC} {MODEL} {USING}
-    {VASELINE}-{BASED} {MATERIALS} {WITH} {BARIUM} {SULFATE} {FOR} {THE} {VALIDATION}
-    {OF} {REAL}-{TIME} {ULTRASOUND} {IMAGE}-{GUIDED} {LIVER} {BIOPSY} {SYSTEM}'
+title: Creation Of Clinically-Differential Tumor Mimic Model Using Vaseline-Based
+    Materials With Barium Sulfate For The Validation Of Real-Time Ultrasound Image-Guided
+    Liver Biopsy System
 url_code: ''
 url_dataset: ''
 url_pdf: ''

@@ -2,7 +2,7 @@
 # {
 #     "journal": "Wearable Technologies",
 #     "title": "A novel passive shoulder exoskeleton for assisting overhead work",
-#     "author": "Shuo Ding and Anaya Reyes Francisco and Tong Li and Haoyong Yu",
+#     "author": "Shuo Ding and  Francisco Anaya Reyes and Tong Li and Haoyong Yu",
 #     "volume": "4",
 #     "publisher": "Cambridge University Press ({CUP})",
 #     "year": "2023",
@@ -13,7 +13,7 @@
 # }abstract: ''
 authors:
 - Shuo Ding
-- Anaya Reyes Francisco
+- ' Francisco Anaya Reyes'
 - Tong Li
 - Haoyong Yu
 categories: []

@@ -2,7 +2,7 @@
 # {
 #     "journal": "{IEEE} Transactions on Medical Robotics and Bionics",
 #     "title": "Shoulder-Support Exoskeletons for Overhead Work: Current State,  Challenges and Future Directions",
-#     "author": "Francisco Anaya Reyes and Ding Shuo and Haoyong Yu",
+#     "author": "Francisco Anaya Reyes and Shuo Ding and Haoyong Yu",
 #     "pages": "516--527",
 #     "number": "3",
 #     "volume": "5",
@@ -16,7 +16,7 @@
 # }abstract: ''
 authors:
 - Francisco Anaya Reyes
-- Ding Shuo
+- Shuo Ding
 - Haoyong Yu
 categories: []
 date: '2023-08-01'

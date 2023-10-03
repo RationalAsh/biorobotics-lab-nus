@@ -1,7 +1,7 @@
 ---
 # {
 #     "booktitle": "2017 {IEEE} International Conference on Robotics and Automation ({ICRA})",
-#     "title": "Design of an {SSVEP}-based {BCI} system with visual servo module for a service robot to execute multiple tasks",
+#     "title": "Design of an SSVEP-based BCI system with visual servo module for a service robot to execute multiple tasks",
 #     "author": "Shili Sheng and Peipei Song and Lingyue Xie and Zhendong Luo and Wennan Chang and Shurui Jiang and Haoyong Yu and Chi Zhu and Jeffrey Too Chuan Tan and Feng Duan",
 #     "publisher": "{IEEE}",
 #     "month": "May",
@@ -36,7 +36,7 @@ publication_types:
 publishDate: '2017-05-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: Design of an {SSVEP}-based {BCI} system with visual servo module for a service
+title: Design of an SSVEP-based BCI system with visual servo module for a service
     robot to execute multiple tasks
 url_code: ''
 url_dataset: ''

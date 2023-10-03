@@ -1,7 +1,7 @@
 ---
 # {
 #     "journal": "Remote Sensing",
-#     "title": "A Novel De-Noising Method for Improving the Performance of Full-Waveform {LiDAR} Using Differential Optical Path",
+#     "title": "A Novel De-Noising Method for Improving the Performance of Full-Waveform LiDAR Using Differential Optical Path",
 #     "author": "Yang Cheng and Jie Cao and Qun Hao and Yuqing Xiao and Fanghua Zhang and Wenze Xia and Kaiyu Zhang and Haoyong Yu",
 #     "pages": "1109",
 #     "number": "11",
@@ -37,7 +37,7 @@ publication_types:
 publishDate: '2017-10-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: A Novel De-Noising Method for Improving the Performance of Full-Waveform {LiDAR}
+title: A Novel De-Noising Method for Improving the Performance of Full-Waveform LiDAR
     Using Differential Optical Path
 url_code: ''
 url_dataset: ''

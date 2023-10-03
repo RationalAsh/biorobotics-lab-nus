@@ -1,7 +1,7 @@
 ---
 # {
 #     "journal": "{IEEE} Transactions on Cybernetics",
-#     "title": "Global Asymptotic Stabilization Using Adaptive Fuzzy {PD} Control",
+#     "title": "Global Asymptotic Stabilization Using Adaptive Fuzzy PD Control",
 #     "author": "Yongping Pan and  Haoyong Yu and  Tairen Sun",
 #     "pages": "574--582",
 #     "number": "3",
@@ -32,7 +32,7 @@ publication_types:
 publishDate: '2015-03-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: Global Asymptotic Stabilization Using Adaptive Fuzzy {PD} Control
+title: Global Asymptotic Stabilization Using Adaptive Fuzzy PD Control
 url_code: ''
 url_dataset: ''
 url_pdf: ''

@@ -1,7 +1,7 @@
 ---
 # {
 #     "journal": "Neurocomputing",
-#     "title": "Adaptive fuzzy {PD} control with stable H$\\infty$ tracking guarantee",
+#     "title": "Adaptive fuzzy PD control with stable H$\\infty$ tracking guarantee",
 #     "author": "Yongping Pan and Meng Joo Er and Tairen Sun and Bin Xu and Haoyong Yu",
 #     "pages": "71--78",
 #     "volume": "237",
@@ -33,7 +33,7 @@ publication_types:
 publishDate: '2017-05-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: Adaptive fuzzy {PD} control with stable H$\infty$ tracking guarantee
+title: Adaptive fuzzy PD control with stable H$\infty$ tracking guarantee
 url_code: ''
 url_dataset: ''
 url_pdf: ''
