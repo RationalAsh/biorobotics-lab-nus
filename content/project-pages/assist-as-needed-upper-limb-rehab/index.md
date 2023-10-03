@@ -39,5 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+{{<youtube MI1X9Aa29m4>}}
 
 A human-robot interaction evaluation-based assist-as-needed (AAN) method is proposed to perform upper limb rehabilitation with the multi-joint Series Elastic Actuator (SEA)-driven robot. Firstly, in order to stabilize the SEA-level dynamics, singular perturbation theory is adopted to design a fast timescale controller. Secondly, for the robot-level dynamics, an iterative learning algorithm is adopted for impedance adaption according to the task performance and human intention. The interaction force feedback is introduced for human-robot interaction evaluation, and the intensity of robotic assistance will be adjusted periodically according to the evaluation results. The proposed method adapts to the subject’s intention and encourages higher participation by decreasing impedance learning strength and increasing allowable motion error. It can fit the participants with different injured levels and provide adaptive assistance when a specific trainee tries to change his/her participation during rehabilitation. The performance of the AAN method was validated with an experimental study involving a healthy subject.
