@@ -1,7 +1,7 @@
 ---
 # {
 #     "journal": "{IEEE}/{ASME} Transactions on Mechatronics",
-#     "title": "{GTac}-Hand: A Robotic Hand With Integrated Tactile Sensing and Extrinsic Contact Sensing Capabilities",
+#     "title": "GTac-Hand: A Robotic Hand With Integrated Tactile Sensing and Extrinsic Contact Sensing Capabilities",
 #     "author": "Zeyu Lu and Haoyong Yu",
 #     "pages": "1--11",
 #     "publisher": "Institute of Electrical and Electronics Engineers ({IEEE})",
@@ -28,8 +28,8 @@ publication_types:
 publishDate: '2023-01-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: '{GTac}-Hand: A Robotic Hand With Integrated Tactile Sensing and Extrinsic
-    Contact Sensing Capabilities'
+title: 'GTac-Hand: A Robotic Hand With Integrated Tactile Sensing and Extrinsic Contact
+    Sensing Capabilities'
 url_code: ''
 url_dataset: ''
 url_pdf: ''

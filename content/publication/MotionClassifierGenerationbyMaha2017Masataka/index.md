@@ -1,7 +1,7 @@
 ---
 # {
 #     "journal": "Journal of Neuroscience and Neuroengineering",
-#     "title": "Motion Classifier Generation by Mahalanobis Distance for {BMI} Robotic Arm Control System",
+#     "title": "Motion Classifier Generation by Mahalanobis Distance for BMI Robotic Arm Control System",
 #     "author": "Masataka Yoshioka and Chi Zhu and Kazuhiro Uemoto and Hongbo Liang and Haoyong Yu and Feng Duan and Yuling Yan",
 #     "pages": "1--8",
 #     "number": "1",
@@ -36,8 +36,8 @@ publication_types:
 publishDate: '2017-06-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: Motion Classifier Generation by Mahalanobis Distance for {BMI} Robotic Arm
-    Control System
+title: Motion Classifier Generation by Mahalanobis Distance for BMI Robotic Arm Control
+    System
 url_code: ''
 url_dataset: ''
 url_pdf: ''

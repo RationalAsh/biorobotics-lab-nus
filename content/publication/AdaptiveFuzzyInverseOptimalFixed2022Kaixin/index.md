@@ -2,7 +2,7 @@
 # {
 #     "journal": "{IEEE} Transactions on Fuzzy Systems",
 #     "title": "Adaptive Fuzzy Inverse Optimal Fixed-Time Control of Uncertain Nonlinear Systems",
-#     "author": "Kaixin Lu and Zhi Liu and Haoyong Yu and C. L. Philip Chen and Yun Zhang Zhang",
+#     "author": "Kaixin Lu and Zhi Liu and Haoyong Yu and C. L. Philip Chen and Yun Zhang",
 #     "pages": "3857--3868",
 #     "number": "9",
 #     "volume": "30",
@@ -19,7 +19,7 @@ authors:
 - Zhi Liu
 - Haoyong Yu
 - C. L. Philip Chen
-- Yun Zhang Zhang
+- Yun Zhang
 categories: []
 date: '2022-09-01'
 doi: 10.1109/tfuzz.2021.3132151

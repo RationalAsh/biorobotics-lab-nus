@@ -1,7 +1,7 @@
 ---
 # {
 #     "booktitle": "2016 {IEEE} International Conference on Robotics and Biomimetics ({ROBIO})",
-#     "title": "Investigation of the {EEG} scalp distribution for estimation of shoulder joint torque in the upper-limb power assistant system",
+#     "title": "Investigation of the EEG scalp distribution for estimation of shoulder joint torque in the upper-limb power assistant system",
 #     "author": "Hongbo Liang and Chi Zhu and Masataka Yoshioka and Naoya Ueda and Ye Tian and Yu Iwata and Haoyong Yu and Yuling Yan and Feng Duan",
 #     "publisher": "{IEEE}",
 #     "month": "December",
@@ -35,7 +35,7 @@ publication_types:
 publishDate: '2016-12-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: Investigation of the {EEG} scalp distribution for estimation of shoulder joint
+title: Investigation of the EEG scalp distribution for estimation of shoulder joint
     torque in the upper-limb power assistant system
 url_code: ''
 url_dataset: ''

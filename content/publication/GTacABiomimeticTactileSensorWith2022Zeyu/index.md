@@ -1,7 +1,7 @@
 ---
 # {
 #     "journal": "{IEEE} Sensors Journal",
-#     "title": "{GTac}: A Biomimetic Tactile Sensor With Skin-Like Heterogeneous Force Feedback for Robots",
+#     "title": "GTac: A Biomimetic Tactile Sensor With Skin-Like Heterogeneous Force Feedback for Robots",
 #     "author": "Zeyu Lu and Xingyu Gao and Haoyong Yu",
 #     "pages": "14491--14500",
 #     "number": "14",
@@ -32,7 +32,7 @@ publication_types:
 publishDate: '2022-07-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: '{GTac}: A Biomimetic Tactile Sensor With Skin-Like Heterogeneous Force Feedback
+title: 'GTac: A Biomimetic Tactile Sensor With Skin-Like Heterogeneous Force Feedback
     for Robots'
 url_code: ''
 url_dataset: ''

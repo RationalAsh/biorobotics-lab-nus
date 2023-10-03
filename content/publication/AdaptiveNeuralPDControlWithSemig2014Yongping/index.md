@@ -1,7 +1,7 @@
 ---
 # {
 #     "journal": "{IEEE} Transactions on Neural Networks and Learning Systems",
-#     "title": "Adaptive Neural {PD} Control With Semiglobal Asymptotic Stabilization Guarantee",
+#     "title": "Adaptive Neural PD Control With Semiglobal Asymptotic Stabilization Guarantee",
 #     "author": "Yongping Pan and Haoyong Yu and Meng Joo Er",
 #     "pages": "2264--2274",
 #     "number": "12",
@@ -32,7 +32,7 @@ publication_types:
 publishDate: '2014-12-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: Adaptive Neural {PD} Control With Semiglobal Asymptotic Stabilization Guarantee
+title: Adaptive Neural PD Control With Semiglobal Asymptotic Stabilization Guarantee
 url_code: ''
 url_dataset: ''
 url_pdf: ''

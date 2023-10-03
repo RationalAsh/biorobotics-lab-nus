@@ -1,7 +1,7 @@
 ---
 # {
 #     "booktitle": "2014 {IEEE} International Conference on Robotics and Biomimetics ({ROBIO} 2014)",
-#     "title": "{EMG} estimation from {EEGs} for constructing a power assist system",
+#     "title": "EMG estimation from EEGs for constructing a power assist system",
 #     "author": "Hongbo Liang and Chi Zhu and Yuichiro Yoshikawa and Masataka Yoshioka and Kazuhiro Uemoto and Haoyong Yu and Yuling Yan and Feng Duan",
 #     "publisher": "{IEEE}",
 #     "month": "December",
@@ -35,7 +35,7 @@ publication_types:
 publishDate: '2014-12-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: '{EMG} estimation from {EEGs} for constructing a power assist system'
+title: EMG estimation from EEGs for constructing a power assist system
 url_code: ''
 url_dataset: ''
 url_pdf: ''

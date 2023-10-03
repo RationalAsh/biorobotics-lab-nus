@@ -1,7 +1,7 @@
 ---
 # {
 #     "booktitle": "2015 7th International {IEEE}/{EMBS} Conference on Neural Engineering ({NER})",
-#     "title": "Single trial {EEG} classification of lower-limb movements using improved regularized common spatial pattern",
+#     "title": "Single trial EEG classification of lower-limb movements using improved regularized common spatial pattern",
 #     "author": "Yudu Li and Yu Sun and Fumihiko Taya and Haoyong Yu and Nitish Thakor and Anastasios Bezerianos",
 #     "publisher": "{IEEE}",
 #     "month": "April",
@@ -32,7 +32,7 @@ publication_types:
 publishDate: '2015-04-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: Single trial {EEG} classification of lower-limb movements using improved regularized
+title: Single trial EEG classification of lower-limb movements using improved regularized
     common spatial pattern
 url_code: ''
 url_dataset: ''

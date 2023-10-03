@@ -2,7 +2,7 @@
 # {
 #     "journal": "{IEEE} Transactions on Neural Networks and Learning Systems",
 #     "title": "Identification and Control of Nonlinear Systems Using Neural Networks: A Singularity-Free Approach",
-#     "author": "Dong-dong Zheng and Yongping Pan and Kai Guo and Haoyong Yu",
+#     "author": "Dongdong Zheng and Yongping Pan and Kai Guo and Haoyong Yu",
 #     "pages": "2696--2706",
 #     "number": "9",
 #     "volume": "30",
@@ -15,7 +15,7 @@
 #     "ID": "Zheng2019"
 # }abstract: ''
 authors:
-- Dong-dong Zheng
+- Dongdong Zheng
 - Yongping Pan
 - Kai Guo
 - Haoyong Yu

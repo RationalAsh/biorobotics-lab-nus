@@ -1,0 +1,41 @@
+---
+# {
+#     "url": "http://libproxy1.nus.edu.sg/login?url=https://www.proquest.com/dissertations-theses/development-flexible-robotic-systems-transoral/docview/2787192939/se-2",
+#     "language": "English",
+#     "isbn": "9798374486964",
+#     "keywords": "Patients; Kinematics; Surgeons; Cadavers; Polyethylene terephthalate; Robotic surgery; FDA approval; Magnetic resonance imaging; Computer aided design--CAD; Laparoscopy; Motor ability; Head & neck cancer; Taxonomy; Tumors; Surgical apparatus & instruments; Performance evaluation; Vertebra; Scars; Endoscopy; Design; Medical imaging; Medical personnel; Medicine; Oncology; Plastics; Polymer chemistry; Surgery; 0389:Design; 0207:Medical personnel; 0992:Oncology; 0795:Plastics; 0576:Surgery; 0574:Medical imaging; 0564:Medicine; 0495:Polymer chemistry",
+#     "abstract": "Robot-assisted technologies are being investigated to overcome the limitations of the current solutions for transoral surgeries, which are suffering from the constrained insertion port, lengthy and indirect passageways, and narrow anatomical structures. This thesis presents two flexible robotic systems for transoral robotic surgery (TORS), aiming at conferring significant benefits to both the patient and the physician.To address technical challenges imposed by the TORS, a novel 3-prismaticunuiversal (3-PU) flexible parallel mechanism (FPM) is proposed. Super-elastic nitinol (Ni-Ti) rods and micro universal joints instead of the rigid links and complex joints are employed in this mechanism to achieve the simplified structure, increased flexibility, and enhanced dexterity while inheriting most advantages of the conventional parallel mechanism (PM). The kinematics of the mechanism is derived, based on which the reachable workspace and dexterity are analyzed. Besides, the stiffness characteristic is investigated quantitatively, which reveals the relationship between the stiffness of this mechanism and the effective length of the Ni-Ti rod.Based on this FPM, a flexible surgical robot with variable stiffness (VS) manipulators is developed targeted at the diseases in the oropharynx. A tube-based mechanism is devised, which allows the stiffness of the manipulator to be continuously modulated in real-time as required. In addition, a 3-prismatic-revolute-spherical (3-PRS) PM is adopted as the master device to improve the maneuverability and decrease the learning curve for less experienced surgeons. The VS and master-slave operation are characterized by extensive experiments. Furthermore, cadaver trials proved the effectiveness of the VS mechanism and the clinical feasibility of the robotic system.Besides, the FPM is combined with the continuum mechanism in the design of another transoral surgical robotic system that is capable of safe access to more deep surgical sites in the upper aerodigestive tract. This system is comprised of two parts and achieves 11 controllable degrees of freedom (DOFs). The execution part, based on the FPM, can reach the deep target site with the assistance of the continuum guidance part. Kinematic analysis suggests that the workspace of the robot can cover the entire target areas, and experimental results indicate that the developed robot can achieve significantly increased compliance, adequate load capacity, and acceptable motion accuracy. Moreover, cadaver trials have been conducted to demonstrate the operative efficiency and clinical feasibility of this surgical robotic system.The performance of the surgical robot designed based on the hybrid mechanism has been further improved. A deployable mechanism based on a parallelogram is devised to enable the triangulation of the manipulators, and a controllable constraint is introduced to allow the robot to have a reconfigurable workspace. In addition, master devices and the actuation parts are redesigned to eliminate the interference, provide a more intuitive control, and facilitate the quick replacement of instruments. As evident from the simulation and experimental results, the above mechanisms can play a significant role in increasing the kinematic performance, operation efficiency, and application scope of the robot. The clinical feasibility of the optimized robot for TORS will be investigated by more cadaver or animal trials.",
+#     "note": "Copyright - Database copyright ProQuest LLC; ProQuest does not claim copyright in the individual underlying works; Last updated - 2023-06-22",
+#     "pages": "198",
+#     "journal": "PQDT - Global",
+#     "title": "Development of Flexible Robotic Systems for Transoral Surgery",
+#     "year": "2020",
+#     "author": "Xiaoyi Gu",
+#     "ENTRYTYPE": "phdthesis",
+#     "ID": "10635_183388"
+# }abstract: ''
+authors:
+- Xiaoyi Gu
+categories: []
+date: '2020-01-01'
+featured: false
+image:
+    caption: ''
+    focal_point: ''
+    preview_only: false
+publication: '*National University of Singapore*'
+publication_types:
+- '7'
+publishDate: '2020-01-01T00:00:00+08:00'
+slides: ''
+tags: []
+title: Development of Flexible Robotic Systems for Transoral Surgery
+url_code: ''
+url_dataset: ''
+url_pdf: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: http://libproxy1.nus.edu.sg/login?url=https://www.proquest.com/dissertations-theses/development-flexible-robotic-systems-transoral/docview/2787192939/se-2
+url_video: ''
+---

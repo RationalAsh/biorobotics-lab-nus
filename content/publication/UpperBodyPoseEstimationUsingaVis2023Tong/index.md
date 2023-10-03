@@ -1,7 +1,7 @@
 ---
 # {
 #     "journal": "{IEEE} Sensors Journal",
-#     "title": "Upper Body Pose Estimation Using a Visual{\\textendash}Inertial Sensor System With Automatic Sensor-to-Segment Calibration",
+#     "title": "Upper Body Pose Estimation Using a Visual-Inertial Sensor System With Automatic Sensor-to-Segment Calibration",
 #     "author": "Tong Li and Haoyong Yu",
 #     "pages": "6292--6302",
 #     "number": "6",
@@ -31,8 +31,8 @@ publication_types:
 publishDate: '2023-03-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: Upper Body Pose Estimation Using a Visual{\textendash}Inertial Sensor System
-    With Automatic Sensor-to-Segment Calibration
+title: Upper Body Pose Estimation Using a Visual-Inertial Sensor System With Automatic
+    Sensor-to-Segment Calibration
 url_code: ''
 url_dataset: ''
 url_pdf: ''

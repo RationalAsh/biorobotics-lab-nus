@@ -2,7 +2,7 @@
 # {
 #     "journal": "Mechanism and Machine Theory",
 #     "title": "High-order based revelation of bifurcation of novel Schatz-inspired metamorphic mechanisms using screw theory",
-#     "author": "Xi Kang and Huijuan Feng and Jian S Dai and Haoyong Yu",
+#     "author": "Xi Kang and Huijuan Feng and Jian S. Dai and Haoyong Yu",
 #     "pages": "103931",
 #     "volume": "152",
 #     "publisher": "Elsevier {BV}",
@@ -16,7 +16,7 @@
 authors:
 - Xi Kang
 - Huijuan Feng
-- Jian S Dai
+- Jian S. Dai
 - Haoyong Yu
 categories: []
 date: '2020-10-01'

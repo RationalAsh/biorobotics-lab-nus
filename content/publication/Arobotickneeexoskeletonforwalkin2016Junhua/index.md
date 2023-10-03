@@ -1,7 +1,7 @@
 ---
 # {
 #     "booktitle": "2016 6th {IEEE} International Conference on Biomedical Robotics and Biomechatronics ({BioRob})",
-#     "title": "A robotic knee exoskeleton for walking assistance and connectivity topology exploration in {EEG} signal",
+#     "title": "A robotic knee exoskeleton for walking assistance and connectivity topology exploration in EEG signal",
 #     "author": "Junhua Li and Gong Chen and Pavithra Thangavel and Haoyong Yu and Nitish Thakor and Anastasios Bezerianos and Yu Sun",
 #     "publisher": "{IEEE}",
 #     "month": "June",
@@ -35,7 +35,7 @@ publishDate: '2016-06-01T00:00:00+08:00'
 slides: ''
 tags: []
 title: A robotic knee exoskeleton for walking assistance and connectivity topology
-    exploration in {EEG} signal
+    exploration in EEG signal
 url_code: ''
 url_dataset: ''
 url_pdf: ''

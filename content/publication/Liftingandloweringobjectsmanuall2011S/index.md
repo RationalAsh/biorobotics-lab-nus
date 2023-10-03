@@ -1,0 +1,42 @@
+---
+# {
+#     "booktitle": "2011 {IEEE} International Conference on Robotics and Biomimetics",
+#     "title": "Lifting and lowering objects manually and with a power assist robot: Analysis of human features to develop biomimetic control",
+#     "author": "S. M. Mizanoor Rahman and Ryojun Ikeura and Haoyong Yu",
+#     "publisher": "{IEEE}",
+#     "month": "December",
+#     "year": "2011",
+#     "url": "https://doi.org/10.1109/robio.2011.6181614",
+#     "doi": "10.1109/robio.2011.6181614",
+#     "ENTRYTYPE": "inproceedings",
+#     "ID": "Rahman2011"
+# }abstract: ''
+authors:
+- S. M. Mizanoor Rahman
+- Ryojun Ikeura
+- Haoyong Yu
+categories: []
+date: '2011-12-01'
+doi: 10.1109/robio.2011.6181614
+featured: false
+image:
+    caption: ''
+    focal_point: ''
+    preview_only: false
+publication: '*2011 IEEE International Conference on Robotics and Biomimetics,December*'
+publication_types:
+- '1'
+publishDate: '2011-12-01T00:00:00+08:00'
+slides: ''
+tags: []
+title: 'Lifting and lowering objects manually and with a power assist robot: Analysis
+    of human features to develop biomimetic control'
+url_code: ''
+url_dataset: ''
+url_pdf: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: https://doi.org/10.1109/robio.2011.6181614
+url_video: ''
+---

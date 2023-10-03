@@ -1,7 +1,7 @@
 ---
 # {
 #     "journal": "Machines",
-#     "title": "A Practical Tuning Method for the Robust {PID} Controller with Velocity Feed-Back",
+#     "title": "A Practical Tuning Method for the Robust PID Controller with Velocity Feed-Back",
 #     "author": "Emre Sariyildiz and Haoyong Yu and Kouhei Ohnishi",
 #     "pages": "208--222",
 #     "number": "3",
@@ -32,7 +32,7 @@ publication_types:
 publishDate: '2015-08-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: A Practical Tuning Method for the Robust {PID} Controller with Velocity Feed-Back
+title: A Practical Tuning Method for the Robust PID Controller with Velocity Feed-Back
 url_code: ''
 url_dataset: ''
 url_pdf: ''

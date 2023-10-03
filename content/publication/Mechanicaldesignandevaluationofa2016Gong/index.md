@@ -1,7 +1,7 @@
 ---
 # {
 #     "journal": "Mechanism and Machine Theory",
-#     "title": "Mechanical design and evaluation of a compact portable knee{\\textendash}ankle{\\textendash}foot robot for gait rehabilitation",
+#     "title": "Mechanical design and evaluation of a compact portable knee {\\textendash}ankle {\\textendash}foot robot for gait rehabilitation",
 #     "author": "Gong Chen and Peng Qi and Zhao Guo and Haoyong Yu",
 #     "pages": "51--64",
 #     "volume": "103",
@@ -32,8 +32,8 @@ publication_types:
 publishDate: '2016-09-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: Mechanical design and evaluation of a compact portable knee{\textendash}ankle{\textendash}foot
-    robot for gait rehabilitation
+title: Mechanical design and evaluation of a compact portable knee {\textendash}ankle
+    {\textendash}foot robot for gait rehabilitation
 url_code: ''
 url_dataset: ''
 url_pdf: ''

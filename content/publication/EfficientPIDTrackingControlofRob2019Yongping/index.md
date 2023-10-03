@@ -1,7 +1,7 @@
 ---
 # {
 #     "journal": "{IEEE} Transactions on Control Systems Technology",
-#     "title": "Efficient {PID} Tracking Control of Robotic Manipulators Driven by Compliant Actuators",
+#     "title": "Efficient PID Tracking Control of Robotic Manipulators Driven by Compliant Actuators",
 #     "author": "Yongping Pan and Xiang Li and Haoyong Yu",
 #     "pages": "915--922",
 #     "number": "2",
@@ -32,7 +32,7 @@ publication_types:
 publishDate: '2019-03-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: Efficient {PID} Tracking Control of Robotic Manipulators Driven by Compliant
+title: Efficient PID Tracking Control of Robotic Manipulators Driven by Compliant
     Actuators
 url_code: ''
 url_dataset: ''

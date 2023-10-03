@@ -1,7 +1,7 @@
 ---
 # {
 #     "journal": "{IEEE} Transactions on Neural Systems and Rehabilitation Engineering",
-#     "title": "Adaptive Oscillator-Based Assistive Torque Control for Gait Asymmetry Correction With a {nSEA}-Driven Hip Exoskeleton",
+#     "title": "Adaptive Oscillator-Based Assistive Torque Control for Gait Asymmetry Correction With a nSEA-Driven Hip Exoskeleton",
 #     "author": "Yuepeng Qian and Haoyong Yu and Chenglong Fu",
 #     "pages": "2906--2915",
 #     "volume": "30",
@@ -31,7 +31,7 @@ publishDate: '2022-01-01T00:00:00+08:00'
 slides: ''
 tags: []
 title: Adaptive Oscillator-Based Assistive Torque Control for Gait Asymmetry Correction
-    With a {nSEA}-Driven Hip Exoskeleton
+    With a nSEA-Driven Hip Exoskeleton
 url_code: ''
 url_dataset: ''
 url_pdf: ''

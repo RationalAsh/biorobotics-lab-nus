@@ -2,7 +2,7 @@
 # {
 #     "journal": "{IEEE} Transactions on Neural Systems and Rehabilitation Engineering",
 #     "title": "An Omnidirectional Assistive Platform Integrated With Functional Electrical Stimulation for Gait Rehabilitation: A Case Study",
-#     "author": "Francisco Anaya-Reyes and Ashwin Narayan and Gabriel Aguirre-Ollinger and Hsiao-Ju Cheng and Haoyong Yu",
+#     "author": "Francisco Anaya Reyes and Ashwin Narayan and Gabriel Aguirre-Ollinger and Hsiao-Ju Cheng and Haoyong Yu",
 #     "pages": "710--719",
 #     "number": "3",
 #     "volume": "28",
@@ -15,7 +15,7 @@
 #     "ID": "AnayaReyes2020"
 # }abstract: ''
 authors:
-- Francisco Anaya-Reyes
+- Francisco Anaya Reyes
 - Ashwin Narayan
 - Gabriel Aguirre-Ollinger
 - Hsiao-Ju Cheng

@@ -1,7 +1,7 @@
 ---
 # {
 #     "journal": "Journal of Neural Engineering",
-#     "title": "Adaptive binary multi-objective harmony search algorithm for channel selection and cross-subject generalization in motor imagery-based {BCI}",
+#     "title": "Adaptive binary multi-objective harmony search algorithm for channel selection and cross-subject generalization in motor imagery-based BCI",
 #     "author": "Bin Shi and Zan Yue and Shuai Yin and Weizhen Wang and Haoyong Yu and Zhen Huang and Jing Wang",
 #     "pages": "046022",
 #     "number": "4",
@@ -37,7 +37,7 @@ publishDate: '2022-07-01T00:00:00+08:00'
 slides: ''
 tags: []
 title: Adaptive binary multi-objective harmony search algorithm for channel selection
-    and cross-subject generalization in motor imagery-based {BCI}
+    and cross-subject generalization in motor imagery-based BCI
 url_code: ''
 url_dataset: ''
 url_pdf: ''

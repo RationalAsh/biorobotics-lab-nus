@@ -1,7 +1,7 @@
 ---
 # {
 #     "booktitle": "2017 {IEEE} International Conference on Cybernetics and Intelligent Systems ({CIS}) and {IEEE} Conference on Robotics,  Automation and Mechatronics ({RAM})",
-#     "title": "Enhancing perioperative transfer of special needs children with the I-{MOVE}",
+#     "title": "Enhancing perioperative transfer of special needs children with the I-MOVE",
 #     "author": "Hwan Ing Hee and Kavitha Raghavan and Aloysius Tan and Kiang Loong Ng and Manolo Sta Cruz and Haoyong Yu",
 #     "publisher": "{IEEE}",
 #     "month": "November",
@@ -33,7 +33,7 @@ publication_types:
 publishDate: '2017-11-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: Enhancing perioperative transfer of special needs children with the I-{MOVE}
+title: Enhancing perioperative transfer of special needs children with the I-MOVE
 url_code: ''
 url_dataset: ''
 url_pdf: ''

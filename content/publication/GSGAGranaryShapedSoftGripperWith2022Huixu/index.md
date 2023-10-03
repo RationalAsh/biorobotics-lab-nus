@@ -1,7 +1,7 @@
 ---
 # {
 #     "journal": "{IEEE} Robotics and Automation Letters",
-#     "title": "{GSG}: A Granary-Shaped Soft Gripper With Mechanical Sensing via Snap-Through Structure",
+#     "title": "GSG: A Granary-Shaped Soft Gripper With Mechanical Sensing via Snap-Through Structure",
 #     "author": "Huixu Dong and Chao-Yu Chen and Chen Qiu and Chen-Hua Yeow and Haoyong Yu",
 #     "pages": "9421--9428",
 #     "number": "4",
@@ -34,7 +34,7 @@ publication_types:
 publishDate: '2022-10-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: '{GSG}: A Granary-Shaped Soft Gripper With Mechanical Sensing via Snap-Through
+title: 'GSG: A Granary-Shaped Soft Gripper With Mechanical Sensing via Snap-Through
     Structure'
 url_code: ''
 url_dataset: ''

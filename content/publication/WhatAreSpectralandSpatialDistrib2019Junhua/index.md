@@ -1,7 +1,7 @@
 ---
 # {
 #     "journal": "{IEEE} Access",
-#     "title": "What Are Spectral and Spatial Distributions of {EEG}-{EMG} Correlations in Overground Walking? An Exploratory Study",
+#     "title": "What Are Spectral and Spatial Distributions of EEG-EMG Correlations in Overground Walking? An Exploratory Study",
 #     "author": "Junhua Li and Georgios N. Dimitrakopoulos and Pavithra Thangavel and Gong Chen and Yu Sun and Zhao Guo and Haoyong Yu and Nitish Thakor and Anastasios Bezerianos",
 #     "pages": "143935--143946",
 #     "volume": "7",
@@ -36,8 +36,8 @@ publication_types:
 publishDate: '2019-01-01T00:00:00+08:00'
 slides: ''
 tags: []
-title: What Are Spectral and Spatial Distributions of {EEG}-{EMG} Correlations in
-    Overground Walking? An Exploratory Study
+title: What Are Spectral and Spatial Distributions of EEG-EMG Correlations in Overground
+    Walking? An Exploratory Study
 url_code: ''
 url_dataset: ''
 url_pdf: ''
