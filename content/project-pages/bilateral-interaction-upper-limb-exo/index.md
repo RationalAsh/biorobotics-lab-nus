@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-{{<youtube 8_Eyye-6unc>}}
+{{<youtube RS87L68rC7U>}}
 
 A versatile bilateral interaction control method on upper-limb exoskeleton. Traditional teleoperation involves using a simple device to operate a remote robot system, with the operator receiving feedback on the remote-side interaction force with the environment. However, using distinct devices on both sides results in less direct and intuitive interaction, limiting the system to relatively simple remote operation tasks. This research aims to overcome this limitation by investigating a bilateral robotic system with identical configurations, enabling high-intuitive joint interaction. The proposed system can be characterized as a master-exoskeleton-slave-robot/exoskeleton (MESR/MESE) system, where the human operator wears an exoskeleton as a decision maker to generate joint motion behaviors, which are connected to a slave robot/exoskeleton system as a task executor which is interacting with the environment or human. In this system, bilateral joint interaction is employed and demonstrated, thus extensive interaction tasks can be performed.
 
