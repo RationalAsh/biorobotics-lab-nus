@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- Masters Students
 ---
 
 Lyu Tian received his Bachelor’s degree in Mechatronics Engineering at Beijing Institute of Technology, China, in 2022. He had previous research experiences in prosthetic arm design, brain-computer interface, deep-learning, and robotic micro-manipulation.

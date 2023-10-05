@@ -59,7 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- Masters Students
 ---
 
 Terry is a Masters student at the NUS Biorobotics Lab specializing in mechanical design with a wide range of interests in the biomedical field. He has helped to develop the hardware of several robotic platforms at the lab including manipulator arms and a bimanual manipulator. He is currently working on the mechanical design of a quadrupedal mobile manipulator as a research platform for control-based experiments.

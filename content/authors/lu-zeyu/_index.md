@@ -73,7 +73,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- PhD Candidates
 ---
 
 Lu Zeyu received his B.E. degree in Department of Mechanical and Energy Engineering at Southern University of Science and Technology (SUSTech), Shenzhen, China in 2019. His work at SUSTech focused on lower-limb exoskeleton and prothesis applying machine learning algorithms to recognize human locomotion. 

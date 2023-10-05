@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- PhD Candidates
 ---
 
 Wu Xiaoyu received the M.E. degree in Control Engineering with the Department of Automation, School of Information Science and Technology, University of Science and Technology of China, Hefei, China in 2020.

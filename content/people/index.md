@@ -14,8 +14,9 @@ sections:
           - Principal Investigator
           - Research Fellows
           - Research Engineers
-          - Students
-      sort_by: Params.role
+          - PhD Candidates
+          - Masters Students
+      sort_by: Params.first_name
       sort_ascending: false
     design:
       show_interests: false

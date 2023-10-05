@@ -73,6 +73,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- PhD Candidates
 ---
 Jiale Liang is from Henan province, China. He received the M.Sc degree in mechanical engineering from Harbin Institute of Technology. He was a software engineer at the 2012 laboratory of Huawei Ltd. He is currently working on the development of a lower limb rehabilitation device including the mechanical design, system integration, pHRI controller design and implementation, biomechanical effect evaluation, and data-driven rehabilitation strategy formulation.

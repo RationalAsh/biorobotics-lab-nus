@@ -70,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- PhD Candidates
 ---
 
 Ma Teng received the B.E. degree in Navigation guidance and control from Beihang University, Beijing, China, in 2017 and MS degree in Navigation Guidance and Control from Beihang University in 2020.

@@ -74,7 +74,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- PhD Candidates
 ---
 
 Hilary received her B.Eng. in Biomedical Engineering (BME) from The Chinese University of Hong Kong (CUHK) in 2017. Afterward, she joined the Mechanical and Automation Engineering Department (MAE), CUHK as a Research Assistant and then an M.Phil. student. Hilary received her M.Phil. in MAE from CUHK in 2020. During her time in the two Engineering departments, she worked on EMG-driven prosthetic finger, shoulder rehabilitation device for stroke, and human shoulder workspace analysis through an anthropomorphic robot model.

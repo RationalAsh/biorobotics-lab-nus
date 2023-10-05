@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+- Masters Students
 ---
 
 Cheng Xiao did her bachelor’s degree in Biomedical Engineering at Southern University of Science and Technology in 2022. She had previous research experience regarding EEG signal analysis, proprioceptive feedback training, and game development skill using Unity.

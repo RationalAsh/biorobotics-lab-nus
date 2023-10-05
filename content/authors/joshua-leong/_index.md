@@ -57,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- Masters Students
 ---
 
 Joshua completed his bachelor’s degree in Bioengineering at Nanyang Technological University in 2021. 

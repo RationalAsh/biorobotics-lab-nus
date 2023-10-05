@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- PhD Candidates
 ---
 
 Weihao did his Bachelor’s degree in Mechanical Design, Manufacturing and Automation in Wuhan University in 2020 and received Master of Science Degree in Mechanical Engineering in Nanyang Technological University in 2022. He had previous experience in robotics field including compliant upper limb rehabilitation exoskeleton design and serial elastic actuator design.

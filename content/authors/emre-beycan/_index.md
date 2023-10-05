@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- PhD Candidates
 ---
 Emre Beycan received the Bachelor degree in Department of Physiotherapy and Rehabilitation at Marmara University, Istanbul, Turkey in 2018. He did an internship via Erasmus+ Program at the neurology clinic in Milan/Italy in 2018. His background mainly focused on clinical trials for neurologic especially stroke patients.
 

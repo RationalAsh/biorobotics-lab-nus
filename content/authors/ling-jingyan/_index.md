@@ -72,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- PhD Candidates
 ---
 Jingyan did his bachelor's degree in Mechanical Engineering at Purdue University in 2015 and received two master's degrees (Project Management and Robotics) at Northwestern University in 2017 and 2019, respectively. He had previous research experience in the HRI field, including haptic feedback, visual feedback, brain-computer interface, and human-centered design.
 

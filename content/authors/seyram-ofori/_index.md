@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- PhD Candidates
 ---
 
 Seyram Ofori completed his BSc degree in Biomedical Engineering at the University of Ghana in 2018. He served as a Teaching Assistant for one year and as a Research Assistant for another year in the biomechanics laboratory at the University of Ghana.

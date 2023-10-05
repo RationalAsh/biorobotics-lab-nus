@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- PhD Candidates
 ---
 
 Huang Rui received the Bachelor degree in Nursing from Shanghai Jiao Tong University, Shanghai, China, in 2019. Her previous studies focused on hybird rehabilitation device for stroke patients, clinical trials in chronic kidney diseases, bacterial cellular and animal models.

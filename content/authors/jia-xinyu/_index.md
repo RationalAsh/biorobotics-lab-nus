@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- PhD Candidates
 ---
 Jia Xinyu received the B.E. degree in Vehicle Engineering from Jilin University, Changchun, China, in 2018. He worked as a Mechanical Engineer in Shenzhen DJI Technology Co., Ltd. from 2018 to 2020.
 
