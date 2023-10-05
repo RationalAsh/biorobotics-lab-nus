@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Shoulder Support Exoskeleton"
+title: "Active Shoulder Support Exoskeleton"
 summary: "A novel, lightweight shoulder support exoskeleton with for industrial workers who perform overhead tasks."
 authors: ["ding-shuo"]
 tags: []
