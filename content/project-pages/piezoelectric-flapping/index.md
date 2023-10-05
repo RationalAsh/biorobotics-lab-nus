@@ -40,6 +40,8 @@ url_video: ""
 slides: ""
 ---
 
+![Flapping Wing](FlappingWing.jpg)
+
 As with most small-sized air vehicles, a flapping wing MAV (FW-MAV) must be optimized for minimal weight and maximal lift. The components most responsible for weight are the actuators (motors and related components) and the power systems (batteries and related components).
 
 This project aims to develop new smart actuating mechanism based on PZT for the FW-MAV so as to reduce the weight of the mechanical components of FW-MAVs. The weight reduction will prolong the flight duration due to reduced power consumption for various phases of actuation. As shown in Fig. 1, a slider-crank mechanism is employed in the MAV to transfer the linear movement to a flapping motion. A linear actuator is designed by fixing a PZT to the frame of the slider-crank mechanism. Another end of the PZT is fixed by a permanent magnet, which is employed as the friction element. Based on the principle of friction drive, unlimited moving range of the linear actuator can be achieved by repeating small deformation of the piezoelectric actuator.
