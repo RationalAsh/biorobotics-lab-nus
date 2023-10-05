@@ -15,7 +15,6 @@ sections:
           - Research Fellows
           - Research Engineers
           - Students
-          - Undergraduate Students
       sort_by: Params.role
       sort_ascending: false
     design:
