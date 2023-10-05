@@ -44,7 +44,7 @@ Soft/continuum robots are inspired by the biological elephant’s trunks or snak
 
 ![](college.jpg "")
 
-{{< youtube kP2tvdhuvRw >}}
+{{<youtube kP2tvdhuvRw>}}
 
 ## Publication
 1. E. Harsono, J. Yang, S. Bhattacharya, and H. Yu, “Design and analysis of a novel hybrid-driven continuum robot with variable stiffness,” in Mechanism and Machine Theory, vol. 177: 105067, 2022, doi: 10.1016/j.mechmachtheory.
