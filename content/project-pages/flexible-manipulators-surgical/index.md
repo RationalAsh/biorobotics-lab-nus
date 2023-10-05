@@ -3,7 +3,7 @@
 
 title: "Flexible Manipulators and Instruments for Surgical Applications"
 summary: ""
-authors: []
+authors: ["yu-haoyong"]
 tags: []
 categories: ["past-projects"]
 date: 2023-10-05T13:29:21+08:00
@@ -39,5 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+![Mainpulator1](Manipulator1.jpg)
 
 A family of hyperflexible instruments based on our novel biomimetic flexible design, which offer much higher dexterity and larger workspace with excellent controllability than existing flexible instruments. The mechanism comprises of a flexible backbone, a set of controlling tendons and a constraint. The length and the angulation of the bending section of the mechanism are both controllable. Compared with existing flexible surgical robots, this design provides larger reachable workspace, more dexterous manipulation, better path following, and controllable stiffness. All of these are crucial in performing MIS. Using this mechanism, a tele-operated surgical arm and a handheld flexible endoscope is developed. We also developed magnetic sensors to for shape estimation and tip tracking for the flexible robot arm

@@ -9,8 +9,8 @@ sections:
   - block: collection
     id: rehabilitation-robotics
     content:
-      title: Rehabilitation Robotics
-      subtitle: 
+      title: Past Projects
+      subtitle:
       text: |
         > Past projects carried out in the Rehabilitation Robotics Lab.
         <br>
