@@ -6,15 +6,29 @@ date: 2023-08-08T03:24:28+08:00
 weight: 1
 
 sections:
-  - block: collection
-    id: rehabilitation-robotics
-    content:
+  - block: markdown
+    content: 
       title: Rehabilitation Robotics
       subtitle: 'Projects in Rehabilitation Robotics'
       text: |
         > In most developed economies demographics show a trend towards an aging population. As a result, many age related illnesses like stroke are becoming increasingly prevalent, resulting in increased rates of adult disabilities such as gait impairment. Wearable robotic exoskeletons may be able to ease the impact of aging populations on local healthcare systems as well as improve the quality of life of individuals with disabilities. However, current exoskeletons are often bulky, heavy, and expensive, and are not suitable for use in the community or home settings. We are developing several novel robotic devices for gait rehabilitation and assistive that could potentially be used at community centres or home settings. Our robots are based on novel actuator and mechanical designs, sensing, and control methodology to achieve safer human robot interaction and control and can potentially offer better functional outcomes.
         <br>
-        <br>
+    design:
+      columns: "2"
+  - block: markdown
+    content: 
+      title: Roadmap
+      subtitle: ""
+      text: |
+        Some text here
+    design:
+      columns: "2"
+  - block: collection
+    id: rehabilitation-robotics
+    content:
+      title: Projects
+      subtitle: ""
+      text: 
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
       # Filter on criteria
