@@ -8,6 +8,7 @@ tags: []
 categories: ["rehabilitation-robotics"]
 date: 2023-08-16T12:51:22+08:00
 type: landing
+weight: 1
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

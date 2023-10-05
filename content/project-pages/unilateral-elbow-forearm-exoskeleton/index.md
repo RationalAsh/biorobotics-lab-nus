@@ -7,6 +7,7 @@ authors: ["hilary-cheng", "thomas-kwok"]
 tags: []
 categories: ["rehabilitation-robotics"]
 date: 2023-08-20T16:22:09+08:00
+weight: 4
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

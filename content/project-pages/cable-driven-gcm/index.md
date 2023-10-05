@@ -7,6 +7,7 @@ authors: ["shi-ke"]
 tags: []
 categories: ["rehabilitation-robotics"]
 date: 2023-08-14T16:02:41+08:00
+weight: 8
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

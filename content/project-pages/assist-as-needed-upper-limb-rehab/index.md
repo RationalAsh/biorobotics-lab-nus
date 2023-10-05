@@ -7,6 +7,7 @@ authors: ["shuaishuai-han"]
 tags: []
 categories: ["rehabilitation-robotics"]
 date: 2023-08-15T15:33:18+08:00
+weight: 7
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

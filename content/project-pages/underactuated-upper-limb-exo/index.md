@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Underactuated Upper Limb Exoskeleton for Post-Stroke Bimanual Activities-Of-Daily-Living Training"
+title: "Underactuated Upper Limb Exoskeleton"
 summary: ""
 authors: ["thomas-kwok"]
 tags: []
 categories: ["rehabilitation-robotics"]
 date: 2023-08-15T15:33:18+08:00
-
+weight: 5
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
