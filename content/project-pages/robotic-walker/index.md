@@ -7,6 +7,7 @@ authors: ["liang-jiale","shuaishuai-han","shounak-b","cindy-sia","seyram-ofori",
 tags: []
 categories: ["rehabilitation-robotics"]
 date: 2023-08-20T16:27:05+08:00
+weight: 2
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -41,3 +42,5 @@ slides: ""
 ---
 
 Our robotic walker is an advanced overground gait training device designed to empower patients to move under their own volition, rather than being guided by preordained movement patterns. Specifically engineered for gait rehabilitation following the acute stages of stroke, this device offers both horizontal and vertical assistance. Vertically, it extends Body Weight Support (BWS) to alleviate the strain on patients' lower limbs, while lateral assistance aids in maintaining balance. Moreover, controlled assistance or resistance in the anteroposterior direction can be tailored to suit distinct rehabilitation phases. Each directional component incorporates an inherent flexibility design, ensuring both the safety and comfort of patients during their rehabilitation journey. On the other hand, robust force controllers have been implemented to realize the high-performance physical human-robot interaction, while a data-driven training strategy is developed to provide personalized gait training facilitating the potential of the walker system.
+
+{{<youtube g7FzH6s8PdE>}} 
