@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Upper Limb Exoskeleton"
-summary: ""
+summary: "Robotic systems for upper limb rehabilitation training that promote the recovery of upper limb mobility, and improve muscle strength and quality of life for storke and upper limb impairment"
 authors: ["hilary-cheng","thomas-kwok","wu-xiaoyu"]
 tags: []
 categories: ["rehabilitation-robotics"]
@@ -120,7 +120,7 @@ sections:
   - block: markdown
     content:
       title: |
-        Publication
+        Publications
       text: |
         1. H. H. Cheng, T. M. Kwok and H. Yu, "Design and Control of the Portable Upper-limb Elbow-forearm Exoskeleton for ADL Assistance," 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Seattle, WA, USA, 2023, pp. 343-349, doi: 10.1109/AIM46323.2023.10196165.
         2. T. M. Kwok, T. Li and H. Yu, "A Reliable Kinematic Measurement of Upper Limb Exoskeleton for VR Therapy with Visual-inertial Sensors," 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Seattle, WA, USA, 2023, pp. 584-590, doi: 10.1109/AIM46323.2023.10196192.
