@@ -5,7 +5,7 @@ title: "Conveying the sensation of gravity for virtual objects through haptic fe
 summary: ""
 authors: ["ling-jingyan"]
 tags: []
-categories: ["bioinspired-robotics"]
+categories: ["human-robot-interaction"]
 date: 2023-08-14T16:02:41+08:00
 
 # Optional external URL for project (replaces project detail page).
