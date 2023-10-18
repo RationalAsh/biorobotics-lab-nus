@@ -20,7 +20,7 @@ sections:
       title: Roadmap
       subtitle: ""
       text: |
-        Some text here
+        We are developing a range of robotic rehabilitation devices for upper limb, lower limb and whole body rehabilitation. We envision that these devices can be used in a dedicated rehabilitation center where the devices are used together to provide a comprehensive rehabliitation program for patients with neurological disorders. 
     design:
       columns: "2"
   - block: collection
