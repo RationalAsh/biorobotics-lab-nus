@@ -57,6 +57,8 @@ sections:
         <br>
         This novel knee ankle exoskeleton has two actuated joints at the knee and the ankle, and is driven by a pair of series elastic actuators (SEAs). It provides assistance for ankle dorsiflexion/plantarflexion and knee flexion/extension. The device is designed to be lightweight and compact, with a total weight of 4.5 kg. The device is also designed to be modular with the actuation unit in a lighweight wearable backpack. Assistive forces are transmitted to the ankle joint via a Bowden cable mechanism through a lightweight, unobtrusive ankle brace. The device makes use of embedded, on-board motion and angular sensors along with advanced learning algorithms to deliver assistive forces synchronized to the user's gait, and tailored to the user's needs. Seven subacute stroke survivors participated and completed the clinical experiments. Compared to the baseline, we observed increases in the foot contact angle and knee flexion peak by 70.1% (p < 0.05) and 60.0 % (p < 0.05) with personalized assistance. Personalized assistance contributed to the improvements in temporal gait symmetry of more impaired participants (p < 0.05), and it led to a 22.8 % and 51.3 % (p < 0.05) reduction in the muscle activities of ankle flexor muscles. 
         
+        {{<youtube z59RfJAq7rM>}}
+
     design:
       columns: '1'
   - block: markdown
