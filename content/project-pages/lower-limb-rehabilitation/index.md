@@ -81,13 +81,28 @@ sections:
       title: "Improving Actuation Transparency and Safety of a Hip Exoskeleton with a Novel Nonlinear Series Elastic Actuator"
       text: |
         <img src="nSEA.png" alt="an image of a person wearing an knee-ankle exoskeleton" title="Knne-Ankle Exoskeleton">
+
+        <br>
         Actuation transparency and safety are important requirements in the design and control of assistive exoskeletons for individuals who suffer lower limb deficits but still maintain a certain level of voluntary motor control. In recent years, series elastic actuator (SEA) has been regarded as a promising solution for transparent actuation and safe human-robot interaction, thus SEAs are widely developed and applied in assistive exoskeletons. However, existing SEAs designed for assistive exoskeletons still lack both actuation transparency and safety because of high stiffness of the elastic element and high mechanical impedance of the actuators. To address this problem, a novel nonlinear SEA (nSEA) is presented in this paper. The optimized nonlinear series elastic element coupled with a quasi-direct drive motor creates the nSEA with low mechanical impedance, high back-drivability, and less acoustic noise. Besides, a new torque control, based on cascade PI control, is proposed for the nSEA to control the interaction torque with high accuracy and robustness. Finally, an experimental evaluation with human subjects is performed to validate the advantages of the nSEA-driven hip exoskeleton in the realization of actuation transparency and safety. The root-mean-square (RMS) interaction torque in zero impedance mode is as low as 0.051 Nm during walking conditions, leading to negligible negative influence on the hip joint's range of motion, walking speed, and energy expenditure when wearing the hip exoskeleton.
   - block: markdown
     content:
       title: "Adaptive Oscillator-based Assistive Torque Control for Gait Asymmetry Correction with a nSEA-driven Hip Exoskeleton"
       text: |
         <img src="hip-afo.png" alt="an image of a person wearing an knee-ankle exoskeleton" title="Knne-Ankle Exoskeleton">
+
+        <br>
         Gait asymmetry is an important clinical characteristic of the hemiplegic gait most stroke survivors suffered, leading to restricted functional mobility and long-term negative impact on their quality of life. In recent years, robot assistance has been proven able to improve stroke patients' functional walking, but few studies have been conducted to specifically correct the gait asymmetry of stroke patients during the whole gait cycle. In this work, an adaptive oscillator-based assistive torque control was developed and implemented on a unilateral hip exoskeleton driven by a novel nonlinear series elastic actuator (nSEA), aiming at correcting gait asymmetry at hip joints during the whole gait cycle. The adaptive oscillator-based gait asymmetry detection method extracted continuous gait phase and gait asymmetry seamlessly, and then the proposed assistive control attempted to correct gait asymmetry by delivering precise assistive torques synchronized with the continuous gait phase of the patients' gait. An initial experimental study was conducted to evaluate the proposed assistive control on seven healthy subjects with artificial impairment. The participants walked on a treadmill with assistance from the hip exoskeleton, while artificial impairment was added to mimic the hemiplegic gait with both spatial and temporal asymmetry (such as reduced hip flexion on the impaired side and reduced hip extension on the healthy side). Experimental results suggested the effectiveness of the proposed assistive control in restoring gait symmetry to levels comparable to a normal gait of the participants (p < 0.05).
+  - block: markdown
+    content:
+      title: "Predictive Locomotion Mode Recognition and Accurate Gait Phase Estimation for Hip Exoskeleton on Various Terrains"
+      text: |
+        <img src="predictive-locomotion.png" alt="an image of a person wearing an knee-ankle exoskeleton" title="Knne-Ankle Exoskeleton">
+
+        In recent years, lower-limb exoskeletons have been applied to assist people with weak mobility in daily life, which requires enhanced adaptability to complex environments. To achieve a smooth transition between different assistive strategies and provide proper assistance at the desired timing during locomotion on various terrains, two significant issues should be addressed: the delay of locomotion mode recognition (LMR) and the accuracy of gait phase estimation (GPE), which are yet critical challenges for exoskeleton controls. To tackle these challenges, a high-level exoskeleton control, including a depth sensor-based LMR method and an adaptive oscillator-based GPE approach, is developed in this study for terrain-adaptive assistive walking. An experimental study was conducted to evaluate the effectiveness and usability of the proposed control in a real-world scenario. Experimental results suggested that the depth sensor-based LMR method can detect the locomotion mode change 0.5 step ahead of the assistive strategy switch of the leading leg, while the average environment classification accuracy across five subjects was higher than 98%. The accuracy is comparable with the state-of-the-art LMR methods, but its predictive capability is beyond existing LMR methods applied in lower-limb exoskeletons. Moreover, the adaptive oscillator-based GPE approach accurately estimated the user's gait phase during locomotion on various terrains, with a root-mean-square (RMS) gait phase reset error of only 4.12 +/- 0.27%, outperforming the literature standard.
+
+        The image below shows a powered commercial hip exoskeleton and LMR-approached sensing system.
+
+        <img src="hip-exo-feature.png" alt="an image of a person wearing an knee-ankle exoskeleton" title="Hip Exoskeleton with LMR Sensing System">
   - block: markdown
     content:
       title: |
@@ -98,4 +113,5 @@ sections:
         3. Zhong, Bin, et al. "A Cable-driven Exoskeleton with Personalized Assistance Improves the Gait Metrics of People in Subacute Stroke." IEEE Transactions on Neural Systems and Rehabilitation Engineering (2023).
         4. Qian, Yuepeng, et al. "Toward improving actuation transparency and safety of a hip exoskeleton with a novel nonlinear series elastic actuator." IEEE/ASME Transactions on Mechatronics 28.1 (2022): 417-428.
         5. Qian, Yuepeng, Haoyong Yu, and Chenglong Fu. "Adaptive oscillator-based assistive torque control for gait asymmetry correction with a nSEA-driven hip exoskeleton." IEEE Transactions on Neural Systems and Rehabilitation Engineering 30 (2022): 2906-2915.
+        6. Qian, Yuepeng, et al. "Predictive Locomotion Mode Recognition and Accurate Gait Phase Estimation for Hip Exoskeleton on Various Terrains," in IEEE Robotics and Automation Letters 7.3 (2022): 6439-6446.
 ---
