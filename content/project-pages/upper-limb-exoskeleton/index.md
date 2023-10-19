@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Upper Limb Exoskeleton"
+title: "Upper Limb Rehabilitation Exoskeleton"
 summary: "Robotic systems for upper limb rehabilitation training that promote the recovery of upper limb mobility, and improve muscle strength and quality of life for storke and upper limb impairment"
 authors: ["hilary-cheng","thomas-kwok","wu-xiaoyu"]
 tags: []
@@ -122,10 +122,10 @@ sections:
       title: |
         Publications
       text: |
-        1. H. H. Cheng, T. M. Kwok and H. Yu, "Design and Control of the Portable Upper-limb Elbow-forearm Exoskeleton for ADL Assistance," 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Seattle, WA, USA, 2023, pp. 343-349, doi: 10.1109/AIM46323.2023.10196165.
-        2. T. M. Kwok, T. Li and H. Yu, "A Reliable Kinematic Measurement of Upper Limb Exoskeleton for VR Therapy with Visual-inertial Sensors," 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Seattle, WA, USA, 2023, pp. 584-590, doi: 10.1109/AIM46323.2023.10196192.
-        3. T. Li and H. Yu, "Upper Body Pose Estimation Using a Visual–Inertial Sensor System With Automatic Sensor-to-Segment Calibration," in IEEE Sensors Journal, vol. 23, no. 6, pp. 6292-6302, 15 March, 2023, doi: 10.1109/JSEN.2023.3241084.
-        4. T. Li, X. Wu, H. Dong and H. Yu, "Estimation of Upper Limb Kinematics with a Magnetometer-Free Egocentric Visual-Inertial System," 2022 International Conference on Robotics and Automation (ICRA), Philadelphia, PA, USA, 2022, pp. 1668-1674, doi: 10.1109/ICRA46639.2022.9811733.
+        1. H. H. Cheng, T. M. Kwok and H. Yu, "Design and Control of the Portable Upper-limb Elbow-forearm Exoskeleton for ADL Assistance," 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Seattle, WA, USA (2023): 343-349.
+        2. T. M. Kwok, T. Li and H. Yu, "A Reliable Kinematic Measurement of Upper Limb Exoskeleton for VR Therapy with Visual-inertial Sensors," 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Seattle, WA, USA (2023): 584-590.
+        3. T. Li and H. Yu, "Upper Body Pose Estimation Using a Visual–Inertial Sensor System With Automatic Sensor-to-Segment Calibration," in IEEE Sensors Journal 23. 6 (2023): 6292-6302.
+        4. T. Li, X. Wu, H. Dong and H. Yu, "Estimation of Upper Limb Kinematics with a Magnetometer-Free Egocentric Visual-Inertial System," 2022 International Conference on Robotics and Automation (ICRA), Philadelphia, PA, USA (2022): 1668-1674.
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
