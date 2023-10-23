@@ -51,19 +51,23 @@ sections:
         <img src="back-exo-banner.jpg" alt="an image of a person wearing a back exoskeleton" title="Back Exoskeleton" width="100%">
         <br>
         Statistics show that back injuries are the most common injuries in the worplace, comprising of approximately 41.7% of all workplace injuries in 2017. We have designed a back support exoskeleton that can reduce the risk of back injuries by reducing the peak muscle forces used when lifting and lowering heavy loads. Our unique design allows independent leg movement, wide range of motion, and balanced force to both sides of the body. The passive version uses a spring and and the active version a Series Elastic Actuator (SEA) to achieve compliant force control instead of position control. Sensor data collected from the use of the device to provide potentially useful information on productivity and worker wellbeing. Experimental results show that it reduces up to 50% of the peak muscle forces used when lifting a 25 kg load.
-  - block: hero
+  - block: markdown
     content:
       title: |
         Design
-      image:
-        filename: back-exo/back-view.jpeg
-        size: cover
       text: |
         <br>
-
+        <img src="system_design.png" alt="an image of a person wearing a back exoskeleton" title="Back Exoskeleton" width="100%">
+        <p class='centered-text'> 
+        (a) A user wears the exoskeleton to perform a lifting action.
+        (b) Working principle of the exoskeleton.
+        (c) Working principle of the differential SEA mechanism. The motor drives the ball screw nut to compress the spring and pushes the slider to move upward. Cable A is then pulled, producing the same driving force (extension torque) on both hup joints. The displacement of the slider depends onthe average value of the hip joint angles. The difference between the two hip flexion angles is automatically compensated by the sliding of the cables along the rollers.
+        </p>
         We have designed a novel back support exoskeleton with a single actuator for industrial workers who perform lifting and lowering tasks. Rather than two actuators, our novel exoskeleton uses a single actuator and a differential mechanism with a cable drive to transmit force equally to the two hip joints. This novel design results in lighter weight, independent leg movement, wide range of motion, and balanced force to both sides of the body. The passive version uses a spring and and the active version a Series Elastic Actuator (SEA) to achieve compliant force control instead of position control. Sensor data collected from the use of the device to provide potentially useful information on productivity and worker wellbeing. Experimental results show that it reduces up to 50% of the peak muscle forces used when lifting a 25 kg load.
         <br>
         <br>
+    design:
+      columns: "1"
   - block: markdown
     content:
       title: |
@@ -75,7 +79,7 @@ sections:
       title: |
         Publications
       text: |
-        Publication list goes here
+        1. Shuo Ding, Francisco Anaya Reyes, Shounak Bhattacharya, Ashwin Narayan, Ofori Seyram and Haoyong Yu, "A Novel Back-support Exoskeleton with a Differential Series Elastic Actuator for Lifting Assistance.", _Transactions on Robotics (TRO)_, 2023.
 ---
 
 {{< youtube CuHjfLlwIzg>}}
