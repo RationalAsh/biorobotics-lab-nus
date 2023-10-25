@@ -25,7 +25,7 @@ sections:
       columns: '2'
   - block: markdown
     content:
-      title: "[Alumni](/alumni/)"
+      title: "[Our Alumni 🔗](/alumni/)"
       text:
     design:
       columns: '1'
