@@ -81,6 +81,8 @@ sections:
         Publications
       text: |
         1. Shuo Ding, Francisco Anaya Reyes, Shounak Bhattacharya, Ashwin Narayan, Ofori Seyram and Haoyong Yu, "A Novel Back-support Exoskeleton with a Differential Series Elastic Actuator for Lifting Assistance.", _Transactions on Robotics (TRO)_, 2023.
+    design:
+      columns: "2"
 ---
 
 {{< youtube CuHjfLlwIzg>}}
