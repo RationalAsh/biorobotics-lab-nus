@@ -45,7 +45,7 @@ sections:
   - block: markdown
     content:
       title: |
-        Shoulder-Support Exoskeleton
+        Active Shoulder-Support Exoskeleton
       subtitle: A novel, lightweight shoulder support exoskeleton with for industrial workers who perform overhead tasks.
       text: |
         <img src="shoulder-exo-banner.jpg" alt="an image of a person wearing a back exoskeleton" title="Back Exoskeleton" width="100%">
@@ -67,7 +67,7 @@ sections:
   - block: hero
     content:
       title: |
-        Design - Active
+        Actuation and Control
       image:
         filename: shoulder-exo/shoulder-labeled.jpg
       text: |
