@@ -46,7 +46,7 @@ Finite State Machine (FSM) is implemented to the manipulator in order to manage 
 ![Finite State Machine](FMS.png "" )
 
 Experiment results and performance reflected that the NUS manipulator has good track performance and accurate dynamic model.
-![manipulator track trajectories](manipulator.gif)
+{{<youtube nXf1B0uxD3E>}} 
 
 Moreover, it can be installed on a bimanual robot, acting as its arms, which also shows good and accurate track trajectories.
-![bimanual manipulator track trajectories](bimanual.gif)
+{{<youtube daFyezByKss>}} 
