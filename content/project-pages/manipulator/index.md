@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "6 Degree-of-Freedom Manipulator"
+title: "Bimanual Grasping Robot with 6 DoF Arms"
 summary: ""
-authors: ["jia-xinyu","david-nicolas-carmona-moreno"]
+authors: ["david-nicolas-carmona-moreno","jia-xinyu"]
 tags: []
-categories: ["bioinspired-robotics"]
+categories: ["human-robot-interaction"]
 date: 2023-08-14T16:42:13+08:00
 
 # Optional external URL for project (replaces project detail page).
