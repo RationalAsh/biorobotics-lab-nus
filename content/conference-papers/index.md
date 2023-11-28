@@ -16,9 +16,18 @@ sections:
       IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)*,
       June 2023. DOI: [10.1109/aim46323.2023.10196192](https://doi.org/10.1109/aim46323.2023.10196192)
 
-      3. Jia,  Xinyu, Yang,  Jun, Lu,  Kaixin, and Yu,  Haoyong, "Motion Control based
+      3. Xinyu Jia, Jun Yang, Kaixin Lu, and Haoyong Yu, "Motion Control based
       on Disturbance Estimation and Time-Varying Gain for Robotic Manipulators",in
       *arXiv*, 2023. DOI: [10.48550/ARXIV.2306.02742](https://doi.org/10.48550/ARXIV.2306.02742)
+
+      4. Rui Huang, Shuaishuai Han, Ling Jin, Jianhua Zhou, Xiaoxiao Chen, Shichen Ruan and Haoyong Yu, "The Feasibility, Safety and Efficacy of Robot-Assisted Gait Training Based on a Wearable Ankle Robot in Stroke Rehabilitation",in *2023 International Conference on Intelligent Robotics and Applications (ICIRA)*, pp. 584--594, October 2023. DOI: [10.1007/978-981-99-6489-5_48](https://doi.org/10.1007/978-981-99-6489-5_48)
+
+      5. Zhimin Hou, Cunjun Yu, David Hsu, and Haoyong Yu, "TeachingBot: Robot Teacher for Human Handwriting",in *arXiv*, 2023. DOI: [10.48550/arXiv.2309.11848](https://doi.org/10.48550/arXiv.2309.11848)
+
+      6. Qian Wang, Seyram Ofori, Qiulei Liu, Haoyong Yu, Shuo Ding, and Haitao Yang, "Morphology Design of Soft Strain Sensors with Superior Stability for Wearable Rehabilitation Robots",in *2023 International Conference on Intelligent Robotics and Applications (ICIRA)*, pp. 576--583, October 2023. DOI: [10.1007/978-981-99-6489-5_47](https://doi.org/10.1007/978-981-99-6489-5_47)
+
+      7. Beycan Emre, Ofori Seyram, L.W.R. Joshua, Weihao Zhao, and Haoyong Yu, "Investigating the Effect of Novel Gamified Stepper on Lower Limb Biomechanics in Seated Healthy Subjects",in *2023 International Conference on Rehabilitation Robotics (ICORR)*,
+      September 2023. DOI: [10.1109/ICORR58425.2023.10304715](https://doi.org/10.1109/ICORR58425.2023.10304715)
 
       '
     title: '2023'
