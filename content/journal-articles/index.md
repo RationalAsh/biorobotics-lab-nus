@@ -6,6 +6,15 @@ sections:
     title: Journal Articles
 - block: markdown
   content:
+    text: '1. Kaixin Lu, Zhi Liu, Haoyong Yu, C. L. Philip Chen, and Yun Zhang, "A small-gain approach to inverse optimal adaptive control of nonlinear systems with unmodeled dynamics",in *Automatica*, January 2024. DOI: [10.1016/j.automatica.2023.111360](https://doi.org/10.1016/j.automatica.2023.111360)
+
+    2. Weihao Zhao, Junbei Liao, Wei Qian, Haoyong Yu, and Zhao Guo, "A novel design of series elastic actuator using tensile springs array",in *Mechanism and Machine Theory*, pp. 105541, February 2024. DOI: [10.1016/j.mechmachtheory.2023.105541](https://doi.org/10.1016/j.mechmachtheory.2023.105541)
+      '
+    title: '2024'
+  design:
+    columns: '2'    
+- block: markdown
+  content:
     text: '1. Kaixin Lu, Shuaishuai Han, Jun Yang, and Haoyong Yu, "Inverse Optimal
       Adaptive Tracking Control of Robotic Manipulators Driven by Compliant Actuators",in
       *IEEE Transactions on Industrial Electronics*, pp. 1--11, 2023. DOI: [10.1109/tie.2023.3296831](https://doi.org/10.1109/tie.2023.3296831)
@@ -44,7 +53,7 @@ sections:
 
       9. Kaixin Lu, Zhi Liu, Haoyong Yu, C. L. Philip Chen, and Yun Zhang, "Inverse
       Optimal Adaptive Neural Control for State-Constrained Nonlinear Systems",in
-      *IEEE Transactions on Neural Networks and Learning Systems*, pp. 1--12, 2023.
+      *IEEE Transactions on Neural Networks and Learning Systems*, pp. 1--12, February 2023.
       DOI: [10.1109/tnnls.2023.3243084](https://doi.org/10.1109/tnnls.2023.3243084)
 
       10. Tong Li, and Haoyong Yu, "Upper Body Pose Estimation Using a Visual-Inertial
@@ -57,7 +66,7 @@ sections:
 
       12. Shuo Ding,  Francisco Anaya Reyes, Tong Li, and Haoyong Yu, "A novel passive
       shoulder exoskeleton for assisting overhead work",in *Wearable Technologies*,
-      2023. DOI: [10.1017/wtc.2023.1](https://doi.org/10.1017/wtc.2023.1)
+      March 2023. DOI: [10.1017/wtc.2023.1](https://doi.org/10.1017/wtc.2023.1)
 
       13. Weiming Li, Chuannen Wei, Shuibiao Chen, Xingyu Gao, and Haoyong Yu, "Narrow
       Weld Joint Recognition Method Based on Laser Profile Sensor",in *IEEE Sensors
@@ -68,6 +77,15 @@ sections:
       a Novel Nonlinear Series Elastic Actuator",in *IEEE/ASME Transactions on Mechatronics*,
       pp. 417--428, February 2023. DOI: [10.1109/tmech.2022.3201255](https://doi.org/10.1109/tmech.2022.3201255)
 
+      15. Shuo Ding, Francisco Anaya Reyes, Shounak Bhattacharya, Ashwin Narayan, Shuaishuai Han, Ofori Seyram, and Haoyong Yu. "A Novel Back-support Exoskeleton with a Differential Series Elastic Actuator for Lifting Assistance",in *IEEE Transactions on Robotics*, pp. 1--12, November 2023. DOI: [10.1109/TRO.2023.3331680] (https://doi.org/10.1109/TRO.2023.3331680)
+
+      16. Xiang Ai, Yang-Yang Chen, and Haoyong Yu, "Adaptive fault-tolerant formation tracking control of networked mobile robots with input delays", in *Journal of the Franklin Institute*, November 2023. DOI: [10.1016/j.jfranklin.2023.11.020] (https://doi.org/10.1016/j.jfranklin.2023.11.020)
+
+      17. Yongping Pan, Kai Guo, Alexey Bobtsov, Chenguang Yang, and Haoyong Yu. "Composite Error Learning Robot Control Using Discontinuous Lyapunov Analysis",in *IEEE Transactions on Automatic Control*, pp. 1--8, October 2023. DOI: [10.1109/TAC.2023.3326749] (https://doi.org/10.1109/TAC.2023.3326749)
+
+      18. Ke Shi, Jun Yang, Yao Tong, Zhimin Hou, and Haoyong Yu, "Design and analysis of a cable-driven gravity compensation mechanism for spatial multi-DoF robotic systems", in *Mechanism and Machine Theory*, pp. 105452, December 2023. DOI: [10.1016/j.mechmachtheory.2023.105452] (https://doi.org/10.1016/j.mechmachtheory.2023.105452)
+
+      19. Shuo Ding, Francisco Anaya Reyes, Shounak Bhattacharya, Ofori Seyram, and Haoyong Yu. "A Novel Passive Back-Support Exoskeleton With a Spring-Cable-Differential for Lifting Assistance",in *IEEE Transactions on Robotics*, pp. 3781--3789, September 2023. DOI: [10.1109/TNSRE.2023.3317059] (https://doi.org/10.1109/TNSRE.2023.3317059)
       '
     title: '2023'
   design:
