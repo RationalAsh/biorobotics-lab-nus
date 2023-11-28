@@ -77,15 +77,15 @@ sections:
       a Novel Nonlinear Series Elastic Actuator",in *IEEE/ASME Transactions on Mechatronics*,
       pp. 417--428, February 2023. DOI: [10.1109/tmech.2022.3201255](https://doi.org/10.1109/tmech.2022.3201255)
 
-      15. Shuo Ding, Francisco Anaya Reyes, Shounak Bhattacharya, Ashwin Narayan, Shuaishuai Han, Ofori Seyram, and Haoyong Yu. "A Novel Back-support Exoskeleton with a Differential Series Elastic Actuator for Lifting Assistance",in *IEEE Transactions on Robotics*, pp. 1--12, November 2023. DOI: [10.1109/TRO.2023.3331680] (https://doi.org/10.1109/TRO.2023.3331680)
+      15. Shuo Ding, Francisco Anaya Reyes, Shounak Bhattacharya, Ashwin Narayan, Shuaishuai Han, Ofori Seyram, and Haoyong Yu. "A Novel Back-support Exoskeleton with a Differential Series Elastic Actuator for Lifting Assistance",in *IEEE Transactions on Robotics*, pp. 1--12, November 2023. DOI: [10.1109/TRO.2023.3331680](https://doi.org/10.1109/TRO.2023.3331680)
 
-      16. Xiang Ai, Yang-Yang Chen, and Haoyong Yu, "Adaptive fault-tolerant formation tracking control of networked mobile robots with input delays", in *Journal of the Franklin Institute*, November 2023. DOI: [10.1016/j.jfranklin.2023.11.020] (https://doi.org/10.1016/j.jfranklin.2023.11.020)
+      16. Xiang Ai, Yang-Yang Chen, and Haoyong Yu, "Adaptive fault-tolerant formation tracking control of networked mobile robots with input delays", in *Journal of the Franklin Institute*, November 2023. DOI: [10.1016/j.jfranklin.2023.11.020](https://doi.org/10.1016/j.jfranklin.2023.11.020)
 
-      17. Yongping Pan, Kai Guo, Alexey Bobtsov, Chenguang Yang, and Haoyong Yu. "Composite Error Learning Robot Control Using Discontinuous Lyapunov Analysis",in *IEEE Transactions on Automatic Control*, pp. 1--8, October 2023. DOI: [10.1109/TAC.2023.3326749] (https://doi.org/10.1109/TAC.2023.3326749)
+      17. Yongping Pan, Kai Guo, Alexey Bobtsov, Chenguang Yang, and Haoyong Yu. "Composite Error Learning Robot Control Using Discontinuous Lyapunov Analysis",in *IEEE Transactions on Automatic Control*, pp. 1--8, October 2023. DOI: [10.1109/TAC.2023.3326749](https://doi.org/10.1109/TAC.2023.3326749)
 
-      18. Ke Shi, Jun Yang, Yao Tong, Zhimin Hou, and Haoyong Yu, "Design and analysis of a cable-driven gravity compensation mechanism for spatial multi-DoF robotic systems", in *Mechanism and Machine Theory*, pp. 105452, December 2023. DOI: [10.1016/j.mechmachtheory.2023.105452] (https://doi.org/10.1016/j.mechmachtheory.2023.105452)
+      18. Ke Shi, Jun Yang, Yao Tong, Zhimin Hou, and Haoyong Yu, "Design and analysis of a cable-driven gravity compensation mechanism for spatial multi-DoF robotic systems", in *Mechanism and Machine Theory*, pp. 105452, December 2023. DOI: [10.1016/j.mechmachtheory.2023.105452](https://doi.org/10.1016/j.mechmachtheory.2023.105452)
 
-      19. Shuo Ding, Francisco Anaya Reyes, Shounak Bhattacharya, Ofori Seyram, and Haoyong Yu. "A Novel Passive Back-Support Exoskeleton With a Spring-Cable-Differential for Lifting Assistance",in *IEEE Transactions on Robotics*, pp. 3781--3789, September 2023. DOI: [10.1109/TNSRE.2023.3317059] (https://doi.org/10.1109/TNSRE.2023.3317059)
+      19. Shuo Ding, Francisco Anaya Reyes, Shounak Bhattacharya, Ofori Seyram, and Haoyong Yu. "A Novel Passive Back-Support Exoskeleton With a Spring-Cable-Differential for Lifting Assistance",in *IEEE Transactions on Robotics*, pp. 3781--3789, September 2023. DOI: [10.1109/TNSRE.2023.3317059](https://doi.org/10.1109/TNSRE.2023.3317059)
       '
     title: '2023'
   design:
