@@ -6,6 +6,7 @@
 title: NUS Biorobotics Lab # Website name
 baseURL: 'https://example.com/' # Website URL
 #baseURL: 'https://cde.nus.edu.sg/bme/biorobotics+lab/' # Website URL
+canonifyurls: true # Ensure that all URLs are canonical
 
 ############################
 ## LANGUAGE
