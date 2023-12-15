@@ -3,7 +3,7 @@
 
 title: "Passive Shoulder Support Exoskeleton"
 summary: "A novel, lightweight shoulder support exoskeleton with for industrial workers who perform overhead tasks."
-authors: ["ding-shuo"]
+authors: []
 tags: []
 categories: ["assistive-robotics"]
 date: 2023-08-15T15:36:29+08:00

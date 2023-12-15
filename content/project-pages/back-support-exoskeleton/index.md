@@ -3,7 +3,7 @@
 
 title: "Active Back Support Exoskeleton"
 summary: ""
-authors: ["ding-shuo","francisco-anaya-reyes","shounak-b","ashwin","seyram-ofori","cindy-sia"]
+authors: []
 tags: []
 categories: ["assistive-robotics"]
 date: 2023-08-15T15:33:18+08:00

@@ -3,7 +3,7 @@
 
 title: "Conveying the sensation of gravity for virtual objects through haptic feedback"
 summary: ""
-authors: ["ling-jingyan"]
+authors: []
 tags: []
 categories: ["human-robot-interaction"]
 date: 2023-08-14T16:02:41+08:00

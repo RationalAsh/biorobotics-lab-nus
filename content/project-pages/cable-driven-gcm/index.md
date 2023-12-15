@@ -3,7 +3,7 @@
 
 title: "Cable Driven Gravity Compensation Mechanism"
 summary: ""
-authors: ["shi-ke"]
+authors: []
 tags: []
 categories: ["rehabilitation-robotics"]
 date: 2023-08-14T16:02:41+08:00
