@@ -13,7 +13,7 @@ last_name: "Carmona Moreno"
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: Research Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Research Engineers
 ---
 
 David Carmona completed his Classes Préparatoires aux Grandes Écoles at the Centre International de Valbonne in 2013 to prepare the concours aux 
