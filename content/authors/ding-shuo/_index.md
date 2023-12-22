@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Fellow
+role: Research Fellow （2023）
 
 # Organizations/Affiliations
 organizations:
@@ -45,9 +45,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:bieding@nus.edu.sg'  
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:'  
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=Wul05rEAAAAJ
@@ -67,8 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Fellows
+- Alumni
 ---
 Dr. Ding Shuo obtained a Ph.D. degree in 2019 from the School of Mechanical Engineering, Zhejiang University. His research interests include exoskeleton robots, wearable devices and robotics.
 
-He is currently working as a Research Fellow in the Biorobotics lab. 
