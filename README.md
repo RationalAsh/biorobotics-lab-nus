@@ -16,3 +16,10 @@ hugo server --watch --disableFastRender
 
 ### Managing Team Members
 Team members are managed in the `content/authors` directory. Each team member has their own markdown file. The markdown file contains the team member's information. 
+
+### Building
+The website is built using the command
+
+```bash
+hugo --gc -b "https://cde.nus.edu.sg/bme/biorobotics+lab"
+```
