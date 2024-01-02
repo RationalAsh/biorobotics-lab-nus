@@ -4,6 +4,7 @@
 # Hugo
 /resources/
 public/
+labwebsite/
 assets/jsconfig.json
 .hugo_build.lock
 go.sum
@@ -12,3 +13,6 @@ hugo.exe
 
 # Don't track DS_Store files
 **/.DS_Store
+
+# Don't track zip files
+**/*.zip
