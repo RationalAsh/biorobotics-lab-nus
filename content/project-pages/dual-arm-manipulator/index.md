@@ -3,7 +3,7 @@
 
 title: "Dual-Arm Manipulation"
 summary: ""
-authors: []
+authors: ["david-nicolas-carmona-moreno","shounak-b"]
 tags: []
 categories: ["human-robot-interaction"]
 date: 2023-08-14T16:04:19+08:00

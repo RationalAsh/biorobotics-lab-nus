@@ -3,7 +3,7 @@
 
 title: "Robotic Walker"
 summary: ""
-authors: []
+authors: ["liang-jiale","shuaishuai-han","shounak-b","cindy-sia","seyram-ofori","joshua-leong"]
 tags: []
 categories: ["rehabilitation-robotics"]
 date: 2023-08-20T16:27:05+08:00
