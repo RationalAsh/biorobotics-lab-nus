@@ -77,9 +77,10 @@ sections:
       title: Sponsors and Collaborators
       text: |
         ## Sponsors
-        {{< figure src="/Sponsors.jpg" class="img-lg" width="100%">}}
+        {{< figure src="Sponsors.jpg" class="img-lg" width="100%">}}
+
         ## Collaborators
-        {{< figure src="/Collaborators.jpg" class="img-lg" width="100%">}}
+        {{< figure src="Collaborators.jpg" class="img-lg" width="100%">}}
     design:
       columns: '1'
   - block: collection

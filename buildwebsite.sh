@@ -5,7 +5,7 @@ OUTPUTDIR=labwebsite
 rm -rf $OUTPUTDIR
 
 # Run the build command
-hugo --gc -b "https://cde.nus.edu.sg/bme/biorobotics+lab" -d $OUTPUTDIR
+hugo --gc -b "https://cde.nus.edu.sg/bme/bioroboticslab" -d $OUTPUTDIR --minify
 
 # Zip up the folder
 zip -r $OUTPUTDIR.zip $OUTPUTDIR

@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-![Hospital Bed](HospitalBed4.jpg)
+{{< figure src="HospitalBed4.jpg" class="img-lg" width="100%" >}}
 
 {{< youtube 6M7yM7IAGGI >}}
 

@@ -40,6 +40,6 @@ url_video: ""
 slides: ""
 ---
 
-![Mainpulator1](Manipulator1.jpg)
+{{< figure src="Manipulator1.jpg" class="img-lg" width="100%" >}}
 
 A family of hyperflexible instruments based on our novel biomimetic flexible design, which offer much higher dexterity and larger workspace with excellent controllability than existing flexible instruments. The mechanism comprises of a flexible backbone, a set of controlling tendons and a constraint. The length and the angulation of the bending section of the mechanism are both controllable. Compared with existing flexible surgical robots, this design provides larger reachable workspace, more dexterous manipulation, better path following, and controllable stiffness. All of these are crucial in performing MIS. Using this mechanism, a tele-operated surgical arm and a handheld flexible endoscope is developed. We also developed magnetic sensors to for shape estimation and tip tracking for the flexible robot arm

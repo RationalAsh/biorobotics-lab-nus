@@ -5,6 +5,7 @@
 /resources/
 public/
 labwebsite/
+previewbuild/
 assets/jsconfig.json
 .hugo_build.lock
 go.sum

@@ -45,7 +45,8 @@ Bimanual grasping is an important research area in the field of robotics and aut
 Hence, a 6 degree-of-freedom (DoF) manipulator that contains joint torque control mode and full dynamic model is proposed. It is 3.5kg weight per arm with maximum 1kg payload at 0.6 m full extension. The manipulator is made of carbon fiber, aluminum alloy and other lightweight materials. To further reduce the dynamic effect, the elbow joint is driven by an actuator mounted at the shoulder via a timing belt transmission.
 
 Finite State Machine (FSM) is implemented to the manipulator in order to manage all states of the manipulator in case of any unexpected states.
-![Finite State Machine](FMS.png "" )
+
+{{< figure src="FMS.png" class="img-lg" width="100%" caption="Finite State Machine" >}}
 
 Experiment results and performance reflected that the NUS manipulator has a better track performance and a more accurate dynamic model.
 {{<youtube nXf1B0uxD3E>}} 

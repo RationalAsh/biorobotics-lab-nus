@@ -43,4 +43,4 @@ slides: ""
 The objective of this project is to develop and demonstrate innovative enabling technologies to achieve automated landing, recharging, and launching of small vertical take-off and landing (VTOL) unmanned aerial vehicles (UAVs) on a moving unmanned ground vehicle (UGV) under challenging real-world environments to perform reconnaissance, surveillance or search and rescue missions. A UAV-UGV cooperative system schematically shown in Fig. 1 will be developed to achieve all these goals. Such a system will provide unmatched capability in fast and flexible response and deployment to the closest areas of interest without exposing human operators to danger, robust mission performance, and flexible mission duration.
 We are developing the bio-inspired vision algorithm based on time-to-contact methods for robust UAV landing and docking. We are also develop non-linear control method to achieve more robust control. One journal paper has already been published on the control system development.
 
-![UAV Landing](featured.png)
+{{< figure src="featured.png" class="img-lg" width="100%" >}}

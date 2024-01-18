@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-![Flapping Wing](FlappingWing.jpg)
+{{< figure src="FlappingWing.jpg" class="img-lg" width="100%" >}}
 
 As with most small-sized air vehicles, a flapping wing MAV (FW-MAV) must be optimized for minimal weight and maximal lift. The components most responsible for weight are the actuators (motors and related components) and the power systems (batteries and related components).
 
