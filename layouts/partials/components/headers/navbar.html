@@ -10,16 +10,14 @@
 {{ $has_logo := fileExists "assets/media/logo.png" | or (fileExists "assets/media/logo.svg") }}
 {{ $logo := "" }}
 {{ if $has_logo }}
-  {{ $logo = (partial "functions/get_logo" (dict "constraint" "max_height" "size" 70)) }}
+  {{ $logo = (partial "functions/get_logo" (dict "constraint" "max_height" "size" 140)) }}
 {{ end }}
 
 <header>
   <div class="container-xl nus-header compensate-for-scrollbar">
     <div class="d-none d-lg-inline-flex nus-header">
       <a class="navbar-brand" href="https://www.nus.edu.sg/">
-          <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
-          {{with site.Params.header.image.width}}width="{{.}}"{{end}}
-          {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
+          <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}">
       </a>
     </div>
     <!-- <div class="d-none d-lg-inline-flex">
