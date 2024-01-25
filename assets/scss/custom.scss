@@ -17,3 +17,27 @@
 .centered-text {
   text-align: center;
 }
+
+.nus-faculty-border {
+  float: left;
+  margin: 0 15px;
+  border-left: 1.5pt solid #003D7C;
+  width: 2px;
+  height: 60px;
+}
+
+.nus-header {
+  justify-content:space-evenly !important
+}
+
+.page-footer {
+  background-color: #003D7C;
+}
+
+.copyright-license-text {
+  color: #999999;
+}
+
+.powered-by {
+  color: #999999;
+}
