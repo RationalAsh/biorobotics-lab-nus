@@ -27,7 +27,8 @@
 }
 
 .nus-header {
-  justify-content:space-evenly !important
+  justify-content:space-evenly !important;
+  padding: 8px;
 }
 
 .page-footer {
@@ -40,4 +41,9 @@
 
 .powered-by {
   color: #999999;
+}
+
+// Style for header tag
+header {
+  background-color: #fff;
 }
