@@ -41,9 +41,44 @@
 
 .powered-by {
   color: #999999;
+  padding: 4px;
+}
+
+.navbar-brand-mobile-wrapper {
+  text-align: center;
+}
+
+.navbar-logo-mobile-wrapper {
+  margin: auto;
+  display: inline;
+}
+
+#mobile-navbar-brand {
+  display: inline-flex;
+}
+
+#mobile-logo-img {
+  margin-right: 20px;
+  margin-left: 4px;
 }
 
 // Style for header tag
 header {
   background-color: #fff;
+}
+
+.navbar {
+  background-color: #F8F8F8;
+}
+
+a {
+  color: #003D7C;
+}
+
+#footer-link {
+  color: #999999;
+}
+
+#footer-link:hover {
+  color: #fff;
 }
