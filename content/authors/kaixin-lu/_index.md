@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Lu Kaixin"
+title: "Kaixin Lu"
 
 first_name: Kaixin
 last_name: Lu
