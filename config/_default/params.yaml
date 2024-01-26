@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: Minimal
+  theme_day: NUS
   theme_night:
   font: native
   font_size: L
@@ -39,7 +39,7 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 

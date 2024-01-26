@@ -33,6 +33,7 @@
 
 .page-footer {
   background-color: #003D7C;
+  padding: 50px;
 }
 
 .copyright-license-text {
@@ -73,6 +74,10 @@ header {
 
 a {
   color: #003D7C;
+}
+
+a:hover {
+  color: #EF7C00;
 }
 
 #footer-link {
