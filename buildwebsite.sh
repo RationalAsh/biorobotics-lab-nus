@@ -1,6 +1,9 @@
 # Set output directory to the "labwebsite" folder in the current directory
 OUTPUTDIR=labwebsite
 
+# Create the output directory if it doesn't exist
+mkdir -p $OUTPUTDIR
+
 # Empty the output directory
 rm -rf $OUTPUTDIR
 
