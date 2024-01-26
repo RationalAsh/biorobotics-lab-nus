@@ -1,4 +1,4 @@
-# [NUS Biorobotics Lab Website](https://www.example.com)
+# [NUS Biorobotics Lab Website](https://cde.nus.edu.sg/bme/bioroboticslab)
 
 This is the hugo source code for the NUS Biorobotics Lab website. 
 
@@ -21,5 +21,5 @@ Team members are managed in the `content/authors` directory. Each team member ha
 The website is built using the command
 
 ```bash
-hugo --gc -b "https://cde.nus.edu.sg/bme/biorobotics+lab"
+hugo --gc -b "https://cde.nus.edu.sg/bme/bioroboticslab"
 ```
