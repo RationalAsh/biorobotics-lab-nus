@@ -35,6 +35,8 @@
   background-color: #003062;
   padding: 50px;
   margin-top: 50px;
+  justify-content: center;
+  align-items: center;
 }
 
 .copyright-license-text {
@@ -91,6 +93,7 @@ a:hover {
 
 .nav-item a.nav-link.active, .nav-item a.nav-link:hover {
   position: relative;
+  color: #000 !important;
 }
 
 .nav-item a.nav-link.active::after, .nav-item a.nav-link:hover::after {
@@ -118,4 +121,29 @@ a, h1, h2, h3, h4, h5, h6 {
 
 p.powered-by, p.copyright-license-text {
   font-size: 12px;
+}
+
+a.navbar-brand {
+  color: #004282 !important;
+}
+
+
+.footer table {
+  width: 300px; /* Fixed width */
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.footer th {
+  text-align: center;
+}
+
+.footer td {
+  padding: 8px; /* Adjust padding as needed */
+  word-wrap: break-word; /* Ensures long text wraps */
+}
+
+.footer img {
+  width: 20px; /* Adjust icon size as needed */
+  height: auto;
 }
