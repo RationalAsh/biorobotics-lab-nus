@@ -108,7 +108,7 @@ a:hover {
 
 
 html {
-  font-family: 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.65;
 }
 
@@ -119,6 +119,11 @@ a, h1, h2, h3, h4, h5, h6 {
   color: #004282;
 }
 
+div.article-title a {
+  color: #004282 !important;
+}
+
+
 p.powered-by, p.copyright-license-text {
   font-size: 12px;
 }
@@ -128,31 +133,63 @@ a.navbar-brand {
 }
 
 
-div.dept-footer {
+div.dept-name {
   color: #fff;
-  font-size: 18px;
+  font-size: 18px !important;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+div.dept-footer {
+  padding-top: 90x 0px;
 }
 
 div.dept-address {
   color: #999999;
-  font-size: 14px;
   display: inline-flex;
   text-align: center;
 }
 
 
 table.dept-footer-table {
-  width: 25%;
+  width: 285px;
   border: none !important;
   border-collapse: collapse !important;
   border-spacing: 0 !important;
   border-top: none !important;
-  color: #fff;
   margin: 0 auto;
 }
 
-table.dept-footer-table tr {
+table.dept-footer-table tr td{
   border: none;
   border-collapse: collapse;
-  border-top-color: #000;
+}
+
+table.dept-footer-table td{
+  color: #999;
+  padding-top: 1px;
+  padding-left: 4px;
+  padding-bottom: 1px;
+  padding-right: 4px;
+  font-size: 15px;
+}
+
+table.dept-footer-table td i {
+  color: #fff;
+  font-size: 15px;
+}
+
+/* Style for the container div */
+.dept-social-icons {
+  display: flex; /* Aligns child elements (icons) in a row */
+  justify-content: center; /* Centers the icons horizontally */
+  align-items: center; /* Centers the icons vertically */
+  margin-top: 50px;
+  margin-bottom: 90px;
+}
+
+/* Style for each social media icon */
+.dept-social-icons a img {
+  max-height: 30px; /* Limits the height of the icons */
+  margin: 0 4px; /* Adds horizontal padding between icons, adjust as needed */
 }
