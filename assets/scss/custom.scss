@@ -128,22 +128,31 @@ a.navbar-brand {
 }
 
 
-.footer table {
-  width: 300px; /* Fixed width */
-  border-collapse: collapse;
-  text-align: left;
+div.dept-footer {
+  color: #fff;
+  font-size: 18px;
 }
 
-.footer th {
+div.dept-address {
+  color: #999999;
+  font-size: 14px;
+  display: inline-flex;
   text-align: center;
 }
 
-.footer td {
-  padding: 8px; /* Adjust padding as needed */
-  word-wrap: break-word; /* Ensures long text wraps */
+
+table.dept-footer-table {
+  width: 25%;
+  border: none !important;
+  border-collapse: collapse !important;
+  border-spacing: 0 !important;
+  border-top: none !important;
+  color: #fff;
+  margin: 0 auto;
 }
 
-.footer img {
-  width: 20px; /* Adjust icon size as needed */
-  height: auto;
+table.dept-footer-table tr {
+  border: none;
+  border-collapse: collapse;
+  border-top-color: #000;
 }
