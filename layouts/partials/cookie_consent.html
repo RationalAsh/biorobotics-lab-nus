@@ -1,0 +1,31 @@
+{{ if site.Params.features.privacy_pack.enable }}
+  {{ $scr := .Scratch }}
+  {{ $js := site.Data.assets.js }}
+  {{ $css := site.Data.assets.css }}
+  {{ if ($scr.Get "use_cdn") }}
+    {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.cookieconsent.url $js.cookieconsent.version) $js.cookieconsent.sri | safeHTML }}
+    {{ printf "<link rel=\"stylesheet\" href=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\">" (printf $css.cookieconsent.url $css.cookieconsent.version) $css.cookieconsent.sri | safeHTML }}
+  {{ end }}
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "{{ $scr.Get "background" }}",
+          "text": "{{ $scr.Get "primary" }}"
+        },
+        "button": {
+          "background": "{{ $scr.Get "primary" }}",
+          "text": "{{ $scr.Get "background" }}"
+        }
+      },
+      "theme": "nus",
+      "content": {
+        "message": {{ i18n "cookie_message" | default "This site uses cookies. By clicking accept or continuing to use this site, you agree to our use of cookies. For more details, please see our " }},
+        "dismiss": {{ i18n "cookie_dismiss" | default "Accept" }},
+        "link": {{ i18n "cookie_learn" | default "Privacy Policy" }},
+        "href": {{ with site.GetPage "/privacy.md" }}{{ printf "%s" .RelPermalink }}{{ else }}"https://nus.edu.sg/ormc/compliance/personal-data-protection-at-nus/nus-privacy-notice"{{ end }}
+      }
+    })});
+  </script>
+{{ end }}
