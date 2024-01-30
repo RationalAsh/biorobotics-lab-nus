@@ -25,10 +25,13 @@
   width: 2px;
   height: 60px;
 }
-
+@media (min-width: 991px) {
+  .nus-header {
+    padding: 8px;
+  }
+}
 .nus-header {
   justify-content:space-evenly !important;
-  padding: 8px;
 }
 
 .page-footer {
