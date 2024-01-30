@@ -25,7 +25,7 @@ bio:
 
 # List each interest with a dash
 interests:
-- Robot Assisted Gait Rehabilitation for Stroke Patients
+- Development and Clinical Effectiveness Evaluation of Medical Robots
 
 education:
   courses:
@@ -68,6 +68,7 @@ user_groups:
 - PhD Candidates
 ---
 
-Huang Rui received the Bachelor degree in Nursing from Shanghai Jiao Tong University, Shanghai, China, in 2019. Her previous studies focused on hybird rehabilitation device for stroke patients, clinical trials in chronic kidney diseases, bacterial cellular and animal models.
+Huang Rui received the Bachelor degree from Shanghai Jiao Tong University, Shanghai, China, in 2019. Her previous studies focused on assessing the effectiveness of hybrid upper limb rehabilitation robot in patients after stroke, in vitro simulation experiment for an integrated intelligent device for endotracheal intubation, clinical study in chronic diseases, cellular and animal models for investigating bacterial virulence. 
 
-She was a Master student and working on the clinical trial on robot-assisted gait rehabilitation for post stroke.
+She was a PhD. student and working on the evaluation of effectiveness of robot-assisted gait training in stroke rehabilitation.
+
