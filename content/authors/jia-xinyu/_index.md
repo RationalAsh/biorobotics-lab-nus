@@ -25,8 +25,9 @@ bio:
 
 # List each interest with a dash
 interests:
-  - Motion planning
-  - Motion control
+  - Motion Planning
+  - Motion Control
+  - Robotics
   - Mechatronics
 
 education:
@@ -46,9 +47,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/USERNAME
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=PERSON-ID
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=uwx5-1IAAAAJ&hl=zh-CN
 - icon: github
   icon_pack: fab
   link: https://github.com/Jarvis861
@@ -72,3 +73,8 @@ user_groups:
 Jia Xinyu received the B.E. degree in Vehicle Engineering from Jilin University, Changchun, China, in 2018. He worked as a Mechanical Engineer in Shenzhen DJI Technology Co., Ltd. from 2018 to 2020.
 
 He is currently a Ph.D. student in the Department of Biomedical Engineering at National University of Singapore.
+
+Main projects:
+1. Quadruped Mobile Manipulator
+2. Bimanual Grasping Robot with 6 DoF Arms
+3. Tactile Sensors and Robotics Hand for Grasping and Manipulation
