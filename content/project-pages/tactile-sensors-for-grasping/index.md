@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Tactile Sensors and Robotic Hand for Grasping and Manipulation"
+title: "Tactile Sensors and Robotics Hand for Grasping and Manipulation"
 summary: ""
 authors: ["lu-zeyu", "jia-xinyu","terry-chan","shounak-b"]
 tags: []
