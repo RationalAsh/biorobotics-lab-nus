@@ -69,6 +69,8 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - PhD Candidates
+
+# to create link to the project pages [Quadruped Mobile Manipulator](../../project-pages/quadruped-mobile-manipulator/)
 ---
 Jia Xinyu received the B.E. degree in Vehicle Engineering from Jilin University, Changchun, China, in 2018. He worked as a Mechanical Engineer in Shenzhen DJI Technology Co., Ltd. from 2018 to 2020.
 
@@ -79,4 +81,3 @@ Main projects:
 2. Bimanual Grasping Robot with 6 DoF Arms
 3. Tactile Sensors and Robotics Hand for Grasping and Manipulation
 
-# to create link to the project pages [Quadruped Mobile Manipulator](../../project-pages/quadruped-mobile-manipulator/)
