@@ -3,7 +3,7 @@
 
 title: "Lower Limb Rehabilitation Exoskeletons"
 summary: "Lower limb impairment has a significant impact on the mobility of those affected takes away their independence and reduces their quality of life. We are developing a range of lower limb rehabilitation exoskeletons for gait assistance and rehabilitation and the associated sensing and control technologies."
-authors: []
+# authors: []
 tags: []
 categories: ["rehabilitation-robotics"]
 date: 2023-10-18T14:23:40+08:00
@@ -153,12 +153,13 @@ sections:
         1. Huang, Rui, et al. "The Feasibility, Safety and Efficacy of Robot-Assisted Gait Training Based on a Wearable Ankle Robot in Stroke Rehabilitation." International Conference on Intelligent Robotics and Applications. Singapore: Springer Nature Singapore, 2023.
         2. Narayan, Ashwin, et al. "Real-Time hierarchical classification of time series data for locomotion mode detection." IEEE Journal of Biomedical and Health Informatics 26.4 (2021): 1749-1760.
         3. Zhong, Bin, et al. "A Cable-driven Exoskeleton with Personalized Assistance Improves the Gait Metrics of People in Subacute Stroke." IEEE Transactions on Neural Systems and Rehabilitation Engineering (2023).
-        4. Qian, Yuepeng, et al. "Toward improving actuation transparency and safety of a hip exoskeleton with a novel nonlinear series elastic actuator." IEEE/ASME Transactions on Mechatronics 28.1 (2022): 417-428.
-        5. Qian, Yuepeng, Haoyong Yu, and Chenglong Fu. "Adaptive oscillator-based assistive torque control for gait asymmetry correction with a nSEA-driven hip exoskeleton." IEEE Transactions on Neural Systems and Rehabilitation Engineering 30 (2022): 2906-2915.
-        6. Qian, Yuepeng, et al. "Predictive Locomotion Mode Recognition and Accurate Gait Phase Estimation for Hip Exoskeleton on Various Terrains," in IEEE Robotics and Automation Letters 7.3 (2022): 6439-6446.
-        7. Ma, Teng, et al. "A Piecewise Monotonic Smooth Phase Variable for Speed-Adaptation Control of Powered Knee-Ankle Prostheses." IEEE Robotics and Automation Letters 7.3 (2022): 8526--8533.
-        8. Ma, Teng, et al. "Corrections to “A Piecewise Monotonic Smooth Phase Variable for Speed-Adaption Control of Powered Knee-Ankle Prostheses.” IEEE Robotics and Automation Letters 7.4 (2022): 11475-11475.
-        9. Ma, Teng, et al. "Gait Phase Subdivision and Leg Stiffness Estimation During Stair Climbing." IEEE Transactions on Neural Systems and Rehabilitation Engineering 30 (2022): 860-868.
+        4. B. Zhong, K. Guo, H. Yu and M. Zhang, "Toward Gait Symmetry Enhancement via a Cable-Driven Exoskeleton Powered by Series Elastic Actuators," in IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 786-793, April 2022, doi: 10.1109/LRA.2021.3130639.
+        5. Qian, Yuepeng, et al. "Toward improving actuation transparency and safety of a hip exoskeleton with a novel nonlinear series elastic actuator." IEEE/ASME Transactions on Mechatronics 28.1 (2022): 417-428.
+        6. Qian, Yuepeng, Haoyong Yu, and Chenglong Fu. "Adaptive oscillator-based assistive torque control for gait asymmetry correction with a nSEA-driven hip exoskeleton." IEEE Transactions on Neural Systems and Rehabilitation Engineering 30 (2022): 2906-2915.
+        7. Qian, Yuepeng, et al. "Predictive Locomotion Mode Recognition and Accurate Gait Phase Estimation for Hip Exoskeleton on Various Terrains," in IEEE Robotics and Automation Letters 7.3 (2022): 6439-6446.
+        8. Ma, Teng, et al. "A Piecewise Monotonic Smooth Phase Variable for Speed-Adaptation Control of Powered Knee-Ankle Prostheses." IEEE Robotics and Automation Letters 7.3 (2022): 8526--8533.
+        9. Ma, Teng, et al. "Corrections to “A Piecewise Monotonic Smooth Phase Variable for Speed-Adaption Control of Powered Knee-Ankle Prostheses.” IEEE Robotics and Automation Letters 7.4 (2022): 11475-11475.
+        10. Ma, Teng, et al. "Gait Phase Subdivision and Leg Stiffness Estimation During Stair Climbing." IEEE Transactions on Neural Systems and Rehabilitation Engineering 30 (2022): 860-868.
 
 
 ---
