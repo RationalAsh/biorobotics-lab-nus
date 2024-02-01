@@ -8,7 +8,9 @@ sections:
   content:
     text: '1. Kaixin Lu, Zhi Liu, Haoyong Yu, C. L. Philip Chen, and Yun Zhang, "A small-gain approach to inverse optimal adaptive control of nonlinear systems with unmodeled dynamics",in *Automatica*, January 2024. DOI: [10.1016/j.automatica.2023.111360](https://doi.org/10.1016/j.automatica.2023.111360)
 
-    2. Weihao Zhao, Junbei Liao, Wei Qian, Haoyong Yu, and Zhao Guo, "A novel design of series elastic actuator using tensile springs array",in *Mechanism and Machine Theory*, pp. 105541, February 2024. DOI: [10.1016/j.mechmachtheory.2023.105541](https://doi.org/10.1016/j.mechmachtheory.2023.105541)
+    2. Thomas M Kwok and Haoyong Yu, "Asymmetric Bimanual ADL Training With Underactuated Exoskeleton Using Independent Joint Control and Visual Guidance", in *IEEE Access*, January 2024. DOI: [10.1109/ACCESS.2024.3352911](https://doi.org/10.1109/ACCESS.2024.3352911)
+
+    3. Weihao Zhao, Junbei Liao, Wei Qian, Haoyong Yu, and Zhao Guo, "A novel design of series elastic actuator using tensile springs array",in *Mechanism and Machine Theory*, pp. 105541, February 2024. DOI: [10.1016/j.mechmachtheory.2023.105541](https://doi.org/10.1016/j.mechmachtheory.2023.105541)
       '
     title: '2024'
   design:
