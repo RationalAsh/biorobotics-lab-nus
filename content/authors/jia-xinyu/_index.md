@@ -78,3 +78,5 @@ Main projects:
 1. Quadruped Mobile Manipulator
 2. Bimanual Grasping Robot with 6 DoF Arms
 3. Tactile Sensors and Robotics Hand for Grasping and Manipulation
+
+# to create link to the project pages [Quadruped Mobile Manipulator](../../project-pages/quadruped-mobile-manipulator/)
