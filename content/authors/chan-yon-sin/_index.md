@@ -45,9 +45,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:'  
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:yschan26@nus.edu.sg' 
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com.au/citations?hl=en&pli=1&user=gA5oppIAAAAJ 
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yon-sin-chan-a874258b/ 
@@ -69,5 +72,6 @@ highlight_name: false
 user_groups:
 - Research Fellows
 ---
-Dr. Yon Sin Chan received the Ph.D. degree in Mechanical Engineering from Monash University Malaysia in 2023. He is currently a Research Fellow in the Biorobotics Laboratory. He is working on the investigation of exoskeletons on oil palm harvesting.
+Dr. Yon Sin Chan received the Ph.D. degree in Mechanical Engineering from Monash University Malaysia in 2023. He is currently a Research Fellow in the Biorobotics Laboratory. He is working on the adoption of wearable devices to investigate various human movements such as gait, lifting and oil palm harvesting. 
+
 
