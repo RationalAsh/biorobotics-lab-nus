@@ -3,7 +3,7 @@
 
 title: "Quadruped Mobile Manipulator"
 summary: ""
-authors: ["jia-xinyu","terry-chan"]
+# authors: []
 tags: []
 categories: ["bioinspired-robotics"]
 date: 2023-08-14T16:42:13+08:00

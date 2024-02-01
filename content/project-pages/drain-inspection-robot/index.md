@@ -3,7 +3,7 @@
 
 title: "Drain Inspection Robot"
 summary: ""
-authors: []
+# authors: []
 tags: []
 categories: ["past-projects"]
 date: 2023-10-12T13:26:27+08:00

@@ -3,7 +3,7 @@
 
 title: "Bio-inspired Vision for UAV Landing"
 summary: ""
-authors: []
+# authors: []
 tags: []
 categories: ["past-projects"]
 date: 2023-10-05T16:14:08+08:00

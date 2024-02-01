@@ -3,7 +3,7 @@
 
 title: "Piezoelectric Actuators and Mechanism for Flapping MAV"
 summary: ""
-authors: []
+# authors: []
 tags: []
 categories: ["past-projects"]
 date: 2023-10-05T14:51:34+08:00

@@ -3,7 +3,7 @@
 
 title: "Lower Limb Exoskeleton"
 summary: "Wearable lower-limb robots come in various forms, including exoskeletons, which can either enhance human abilities or help overcome deficits caused by injury or disease, especially stroke."
-authors: []
+# authors: []
 tags: []
 categories: ["rehabilitation-robotics"]
 date: 2023-08-16T12:51:22+08:00

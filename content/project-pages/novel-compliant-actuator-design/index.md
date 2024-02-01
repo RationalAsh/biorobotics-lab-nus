@@ -3,7 +3,7 @@
 
 title: "Novel Compliant Actuator Design"
 summary: ""
-authors: []
+# authors: []
 tags: []
 categories: ["past-projects"]
 date: 2023-10-25T12:53:34+08:00

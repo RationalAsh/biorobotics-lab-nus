@@ -3,7 +3,7 @@
 
 title: "Power-Assisted Hospital Bed for Patient Transport"
 summary: ""
-authors: []
+# authors: []
 tags: []
 categories: ["past-projects"]
 date: 2023-10-12T13:16:10+08:00

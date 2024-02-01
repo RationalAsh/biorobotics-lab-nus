@@ -3,7 +3,7 @@
 
 title: "Omnidirectional Mobility Platform"
 summary: ""
-authors: []
+# authors: []
 tags: []
 categories: ["past-projects"]
 date: 2023-10-12T13:22:11+08:00

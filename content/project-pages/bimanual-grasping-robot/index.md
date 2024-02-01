@@ -3,7 +3,7 @@
 
 title: "Bimanual Grasping Robot with 6 DoF Arms"
 summary: ""
-authors: ["jia-xinyu"]
+# authors: []
 tags: []
 categories: ["human-robot-interaction"]
 date: 2023-08-14T16:42:13+08:00

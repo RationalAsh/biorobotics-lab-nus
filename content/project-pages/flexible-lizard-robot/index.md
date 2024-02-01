@@ -3,7 +3,7 @@
 
 title: "Flexible Lizard Robot"
 summary: ""
-authors: []
+# authors: []
 tags: []
 categories: ["past-projects"]
 date: 2023-10-05T15:19:33+08:00

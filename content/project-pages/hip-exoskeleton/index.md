@@ -3,7 +3,7 @@
 
 title: "Hip Exoskeleton"
 summary: ""
-authors: ["zhao-weihao","shounak-b"]
+# authors: ["zhao-weihao","shounak-b"]
 tags: []
 categories: ["rehabilitation-robotics"]
 date: 2023-08-20T16:31:17+08:00

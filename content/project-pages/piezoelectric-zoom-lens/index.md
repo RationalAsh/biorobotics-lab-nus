@@ -3,7 +3,7 @@
 
 title: "Piezoelectric Zoom Lens"
 summary: ""
-authors: []
+# authors: []
 tags: []
 categories: ["past-projects"]
 date: 2023-10-05T15:10:44+08:00

@@ -3,7 +3,7 @@
 
 title: "Upper Limb Rehabilitation Exoskeleton"
 summary: "Robotic systems for upper limb rehabilitation training that promote the recovery of upper limb mobility, and improve muscle strength and quality of life for storke and upper limb impairment"
-authors: ["hilary-cheng","thomas-kwok","wu-xiaoyu"]
+# authors: ["hilary-cheng","thomas-kwok","wu-xiaoyu"]
 tags: []
 categories: ["rehabilitation-robotics"]
 date: 2023-08-16T12:51:22+08:00

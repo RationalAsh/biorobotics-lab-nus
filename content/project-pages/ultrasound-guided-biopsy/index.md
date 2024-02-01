@@ -3,7 +3,7 @@
 
 title: "Ultrasound Image-Guided Robotic Biopsy System"
 summary: ""
-authors: []
+# authors: []
 tags: []
 categories: ["past-projects"]
 date: 2023-10-05T13:42:57+08:00

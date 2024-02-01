@@ -3,7 +3,7 @@
 
 title: "Shape Memory Alloy (SMA) Actuators and Mechanisms"
 summary: ""
-authors: []
+# authors: []
 tags: []
 categories: ["past-projects"]
 date: 2023-10-05T15:14:59+08:00

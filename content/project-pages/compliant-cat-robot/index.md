@@ -3,7 +3,7 @@
 
 title: "Compliant Cat Robot"
 summary: ""
-authors: []
+# authors: []
 tags: []
 categories: ["past-projects"]
 date: 2023-10-05T16:12:54+08:00

@@ -3,7 +3,7 @@
 
 title: "Portable Knee-Ankle-Foot Robot for Gait Rehabilitation"
 summary: ""
-authors: []
+# authors: []
 tags: []
 categories: ["past-projects"]
 date: 2023-10-25T12:55:12+08:00

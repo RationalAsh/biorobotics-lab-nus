@@ -3,7 +3,7 @@
 
 title: "Flexible Manipulators and Instruments for Surgical Applications"
 summary: ""
-authors: ["yu-haoyong"]
+# authors: ["yu-haoyong"]
 tags: []
 categories: ["past-projects"]
 date: 2023-10-05T13:29:21+08:00
