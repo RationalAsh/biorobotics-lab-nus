@@ -11,7 +11,9 @@ sections:
     2. Thomas M Kwok and Haoyong Yu, "Asymmetric Bimanual ADL Training With Underactuated Exoskeleton Using Independent Joint Control and Visual Guidance", in *IEEE Access*, January 2024. DOI: [10.1109/ACCESS.2024.3352911](https://doi.org/10.1109/ACCESS.2024.3352911)
 
     3. Weihao Zhao, Junbei Liao, Wei Qian, Haoyong Yu, and Zhao Guo, "A novel design of series elastic actuator using tensile springs array",in *Mechanism and Machine Theory*, pp. 105541, February 2024. DOI: [10.1016/j.mechmachtheory.2023.105541](https://doi.org/10.1016/j.mechmachtheory.2023.105541)
-      '
+
+    4. Qingtian Wu, Yu Zhang, Liming Zhang and Haoyong Yu, "Parallel Self-Attention and Spatial-Attention Fusion for Human Pose Estimation and Running Movement Recognition," in *IEEE Transactions on Cognitive and Developmental Systems*, vol. 16, no. 1, pp. 358-368, February 2024, doi: 10.1109/TCDS.2023.3275652.
+    '
     title: '2024'
   design:
     columns: '2'    
@@ -88,6 +90,8 @@ sections:
       18. Ke Shi, Jun Yang, Yao Tong, Zhimin Hou, and Haoyong Yu, "Design and analysis of a cable-driven gravity compensation mechanism for spatial multi-DoF robotic systems", in *Mechanism and Machine Theory*, pp. 105452, December 2023. DOI: [10.1016/j.mechmachtheory.2023.105452](https://doi.org/10.1016/j.mechmachtheory.2023.105452)
 
       19. Shuo Ding, Francisco Anaya Reyes, Shounak Bhattacharya, Ofori Seyram, and Haoyong Yu. "A Novel Passive Back-Support Exoskeleton With a Spring-Cable-Differential for Lifting Assistance",in *IEEE Transactions on Robotics*, pp. 3781--3789, September 2023. DOI: [10.1109/TNSRE.2023.3317059](https://doi.org/10.1109/TNSRE.2023.3317059)
+
+      20. Shuo Ding, Francisco Anaya-Reyes, Ashwin Narayan, Seyram Ofori, Shounak Bhattacharya and Haoyong Yu, "A Lightweight Shoulder Exoskeleton With a Series Elastic Actuator for Assisting Overhead Work," in *IEEE/ASME Transactions on Mechatronics*, doi: 10.1109/TMECH.2023.3330755.
       '
     title: '2023'
   design:
