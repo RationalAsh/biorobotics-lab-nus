@@ -89,7 +89,7 @@ sections:
 
       18. Ke Shi, Jun Yang, Yao Tong, Zhimin Hou, and Haoyong Yu, "Design and analysis of a cable-driven gravity compensation mechanism for spatial multi-DoF robotic systems", in *Mechanism and Machine Theory*, pp. 105452, December 2023. DOI: [10.1016/j.mechmachtheory.2023.105452](https://doi.org/10.1016/j.mechmachtheory.2023.105452)
 
-      19. Shuo Ding, Francisco Anaya Reyes, Shounak Bhattacharya, Ofori Seyram, and Haoyong Yu. "A Novel Passive Back-Support Exoskeleton With a Spring-Cable-Differential for Lifting Assistance",in *IEEE Transactions on Robotics*, pp. 3781--3789, September 2023. DOI: [10.1109/TNSRE.2023.3317059](https://doi.org/10.1109/TNSRE.2023.3317059)
+      19. Shuo Ding, Francisco Anaya Reyes, Shounak Bhattacharya, Ofori Seyram, and Haoyong Yu. "A Novel Passive Back-Support Exoskeleton With a Spring-Cable-Differential for Lifting Assistance",in *IEEE Transactions on Neural Systems and Rehabilitation Engineering*, pp. 3781--3789, September 2023. DOI: [10.1109/TNSRE.2023.3317059](https://doi.org/10.1109/TNSRE.2023.3317059)
 
       20. Shuo Ding, Francisco Anaya-Reyes, Ashwin Narayan, Seyram Ofori, Shounak Bhattacharya and Haoyong Yu, "A Lightweight Shoulder Exoskeleton With a Series Elastic Actuator for Assisting Overhead Work," in *IEEE/ASME Transactions on Mechatronics*, doi: 10.1109/TMECH.2023.3330755.
       '
