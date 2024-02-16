@@ -13,6 +13,8 @@ sections:
     3. Weihao Zhao, Junbei Liao, Wei Qian, Haoyong Yu, and Zhao Guo, "A novel design of series elastic actuator using tensile springs array",in *Mechanism and Machine Theory*, pp. 105541, February 2024. DOI: [10.1016/j.mechmachtheory.2023.105541](https://doi.org/10.1016/j.mechmachtheory.2023.105541)
 
     4. Qingtian Wu, Yu Zhang, Liming Zhang and Haoyong Yu, "Parallel Self-Attention and Spatial-Attention Fusion for Human Pose Estimation and Running Movement Recognition," in *IEEE Transactions on Cognitive and Developmental Systems*, vol. 16, no. 1, pp. 358-368, February 2024, doi: 10.1109/TCDS.2023.3275652.
+
+    5. Yuepeng Qian, Chuheng Chen, Jingfeng Xiong, Yining Wang, Yuquan Leng, Haoyong Yu, and Chenglong Fu, "Terrain-Adaptive Exoskeleton Control With Predictive Gait Mode Recognition: A Pilot Study During Level Walking and Stair Ascent," in *IEEE Transactions on Medical Robotics and Bionics*, vol. 6, no. 1, pp. 281-291, February 2024, doi: 10.1109/TMRB.2024.3349624.
     '
     title: '2024'
   design:
