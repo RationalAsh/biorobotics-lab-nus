@@ -36,9 +36,7 @@ education:
   - course: Ph.D. in Control Science and Engineering
     institution: South China University of Technology
     year: 2022
-  - course: B.E. in Agricultural Mechanization and Automation
-    institution: South China Agricultural University
-    year: 2015
+
 
 
 # Social/Academic Networking
