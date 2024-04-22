@@ -6,6 +6,15 @@ sections:
     title: Conference Papers
 - block: markdown
   content:
+    text: '1. Xinyu Jia, Jun Yang, Kaixin Lu, Yongping Pan, Haoyong Yu, "Enhanced     
+      Robust Motion Control based on Unknown System Dynamics Estimator for Robot 
+      Manipulators",in *2024 IEEE International Conference on Robotics and  Automation (ICRA)*.
+      '
+    title: '2024'
+  design:
+    columns: '2'
+- block: markdown
+  content:
     text: '1. Hilary HY Cheng, Thomas M. Kwok, and Haoyong Yu, "Design and Control
       of the Portable Upper-limb Elbow-forearm Exoskeleton for ADL Assistance",in
       *2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics
@@ -28,6 +37,11 @@ sections:
 
       7. Beycan Emre, Ofori Seyram, L.W.R. Joshua, Weihao Zhao, and Haoyong Yu, "Investigating the Effect of Novel Gamified Stepper on Lower Limb Biomechanics in Seated Healthy Subjects",in *2023 International Conference on Rehabilitation Robotics (ICORR)*,
       September 2023. DOI: [10.1109/ICORR58425.2023.10304715](https://doi.org/10.1109/ICORR58425.2023.10304715)
+
+      8. Jun Yang, Xinyu Jia, Zhimin Hou, Yongping Pan, Haoyong Yu, "Robust Reference Tracking of Linear Uncertain Systems via Uncertainty Estimation and Composite Control",in *2023 62nd IEEE Conference on Decision and Control (CDC)*, pp. 6507--6512, December 2023. DOI: [10.1109/CDC49753.2023.10383641](https://doi.org/10.1109/CDC49753.2023.10383641)
+
+      9. Kaixin Lu, Shuaishuai Han, Xinyu Jia, Haoyong Yu, "Inverse Optimal Adaptive Prescribed Performance Control With Application to Compliant Actuator-Driven Robot Manipulators",in *
+2023 62nd IEEE Conference on Decision and Control (CDC)*, pp. 3612--3617, December 2023. DOI: [10.1109/CDC49753.2023.10384179](https://doi.org/10.1109/CDC49753.2023.10384179)
 
       '
     title: '2023'
