@@ -1,14 +1,14 @@
 ---
 # Display name
-title: "Chan Yon Sin"
+title: "Myo Thant Sin Aung"
 
 # Full Name (for SEO)
-first_name: Yon Sin
-last_name: Chan
+first_name: Myo Thant Sin
+last_name: Aung
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "chan-yon-sin"
+- "myo-thant-sin-aung"
 
 # Is this the primary user of the site?
 superuser: false
@@ -26,18 +26,18 @@ bio:
 
 # List each interest with a dash
 interests:
-  - Biomechanics
-  - Musculoskeletal simulation
-  - Occupational ergonomics
+  - Position/force control systems
+  - Control of Non-smooth frictional systems
+  - Noise-reduction filters (sliding-mode-based)
 
 education:
   courses:
   - course: Ph.D. in Mechanical Engineering
-    institution: Monash University Malaysia
-    year: 2023
-  - course: B.E. in Mechanical Engineering
-    institution: University of Malaya
-    year: 2018
+    institution: Kyushu University, Japan
+    year: 2015
+  - course: M.E. in Mechanical Engineering
+    institution: Bandung Institute of Technology, Indonesia
+    year: 2008
 
 
 # Social/Academic Networking
@@ -47,13 +47,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yschan26@nus.edu.sg' 
+    link: 'mailto:aung_mts@nus.edu.sg' 
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com.au/citations?hl=en&pli=1&user=gA5oppIAAAAJ 
+    link: https://scholar.google.com/citations?user=CVeNGm4AAAAJ&hl=en 
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/yon-sin-chan-a874258b/ 
+    link: https://www.linkedin.com/in/myo-thant-sin-aung-2935838/ 
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Myo-Thant-Sin-Aung
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -72,6 +75,8 @@ highlight_name: false
 user_groups:
 - Research Fellows
 ---
-Dr. Yon Sin Chan received the Ph.D. degree in Mechanical Engineering from Monash University Malaysia in 2023. He is currently a Research Fellow in the Biorobotics Laboratory. He is working on the adoption of wearable devices to investigate various human movements such as gait, lifting and oil palm harvesting. 
+Dr. Myo Thant Sin AUNG received his B.E. degree from Mandalay Technological University, Myanmar, M.E. degree from Bandung Institute of Technology, Indonesia, and Ph.D. (Eng.) degrees from Kyushu University, Japan, in 2006, 2008, and 2015, respectively, all in Mechanical Engineering. From September to November 2016, he was a Postdoctoral Researcher at Control Engineering Laboratory, Kyushu University. 
+
+He is currently a Research Fellow in Biorobotics Laboratory, National University of Singapore. His is working on control and noise filtering algorithms oriented for physical human-robot interaction and biomedical applications.
 
 

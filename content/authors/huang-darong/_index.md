@@ -26,10 +26,10 @@ bio:
 
 # List each interest with a dash
 interests:
-- Robot teleoperation 
--	Dual-arm collaboration
--	Compliance motion control
--	Mobile manipulator system
+  - Robot teleoperation 
+  - Dual-arm collaboration
+  - Compliance motion control
+  - Mobile manipulator system
 
 education:
   courses:
