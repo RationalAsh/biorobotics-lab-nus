@@ -22,6 +22,8 @@ sections:
 
     8. Wujing Cao, Changyu Li, Lijun Yang, Meng Yin, Chunjie Chen, Worawarit Kobsiriphat, Thanak Utakapan, Yizhuang Yang, Haoyong Yu, Xinyu Wu, "A Fusion Network with Stacked Denoise Autoencoder and Meta Learning for Lateral Walking Gait Phase Recognition and Multi-Step-Ahead Prediction", in *IEEE Journal of Biomedical and Health Informatics*, pp. 1-13, March 2024. DOI: [10.1109/JBHI.2024.3380099](https://doi.org/10.1109/JBHI.2024.3380099) 
 
+    9. Yixin Li, Zhenfeng Wu, Yufeng Chen, Shuai Xian, Zicun Hong, Qixin Wang, Pei Jiang, Haoyong Yu, Yong Zhong, "Multi-material embedded 3D printing for one-step manufacturing of multifunctional components in soft robotics", in *Additive Manufacturing*, vol 85, pp. 104178, April 2024. DOI: [10.1016/j.addma.2024.104178](https://doi.org/10.1016/j.addma.2024.104178)
+
     '
     title: '2024'
   design:
