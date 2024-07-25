@@ -24,6 +24,8 @@ sections:
 
     9. Yixin Li, Zhenfeng Wu, Yufeng Chen, Shuai Xian, Zicun Hong, Qixin Wang, Pei Jiang, Haoyong Yu, Yong Zhong, "Multi-material embedded 3D printing for one-step manufacturing of multifunctional components in soft robotics", in *Additive Manufacturing*, vol 85, pp. 104178, April 2024. DOI: [10.1016/j.addma.2024.104178](https://doi.org/10.1016/j.addma.2024.104178)
 
+    10. Tao Yu, Junjie Luo, Yuanqing Gong, Hao Wang, Weichao Guo, Haoyong Yu, Genliang Chen, "A Compact Gesture Sensing Glove for Digital Twin of Hand Motion and Robot Teleoperation," in *IEEE Transactions on Industrial Electronics*, pp. 1 - 10, DOI: [10.1109/TIE.2024.3417980](https://doi.org/10.1109/TIE.2024.3417980).
+
     '
     title: '2024'
   design:
