@@ -73,9 +73,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Alumni
 ---
 
 Lu Zeyu received his B.E. degree in Department of Mechanical and Energy Engineering at Southern University of Science and Technology (SUSTech), Shenzhen, China in 2019. His work at SUSTech focused on lower-limb exoskeleton and prothesis applying machine learning algorithms to recognize human locomotion. 
 
-Currently, he is a Ph.D. student supervised by Dr. Yu Haoyong in Department of Biomedical Engineering at National University of Singapore. His research goals in the lab include giving robots the human sense of touch and developing intelligent robots assisting humans.
+He was a Ph.D. student supervised by Dr. Yu Haoyong in Department of Biomedical Engineering at National University of Singapore. His research goals in the lab included giving robots the human sense of touch and developing intelligent robots assisting humans.

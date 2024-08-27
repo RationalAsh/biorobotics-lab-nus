@@ -73,9 +73,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Alumni
 ---
 
 Thomas received the B.E. degree in Mechanical and Automation Engineering from the Chinese University of Hong Kong (CUHK) in 2016. He was a computer vision engineer in the research and development department of ASM Technology Hong Kong Limited in 2017. In 2018, he was a research assistant at CUHK T Stone Robotics Institute and the Institute of Precision Engineering. He received the M. Phil degree in Mechanical and Automation Engineering from CUHK in 2019. During his degree, he worked on the robotic whip and chaos theory.
  
-He is currently a Ph.D. candidate in NUS Graduate School for Integrative Sciences and Engineering under the supervision of Dr. Yu Haoyong. His research focuses on developing Upper-limb Exoskeleton to assist stroke patients in daily living and Virtual Reality rehabilitation training.
+He was a Ph.D. candidate in NUS Graduate School for Integrative Sciences and Engineering under the supervision of Dr. Yu Haoyong. His research focuses on developing Upper-limb Exoskeleton to assist stroke patients in daily living and Virtual Reality rehabilitation training.

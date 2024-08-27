@@ -70,9 +70,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Alumni
 ---
 
 Zhong Bin received the B.E. and the M.E. degrees in Mechanical Engineering and Automation and Instrument Science and Technology from the Department of Precision Machinery and Precision Instrumentation (PMPI), University of Science and Technology of China (USTC), Hefei, China, in 2015 and 2018. He was a research assistance in the Neurorehabilitation Lab of Southern University of Science and Technology (SUSTech) in 2019.
 
-Currently, he is currently a joint Ph.D. student of the SUSTech-NUS Collaborative Program. His supervisor in NUS is Dr. Yu Haoyong. His research focus on the lower limb exoskeleton for post-stroke rehabilitation, design and control of series elastic actuator.
+He was a joint Ph.D. student of the SUSTech-NUS Collaborative Program. His supervisor in NUS is Dr. Yu Haoyong. His research focus on the lower limb exoskeleton for post-stroke rehabilitation, design and control of series elastic actuator.
