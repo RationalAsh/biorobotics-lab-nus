@@ -25,7 +25,7 @@ bio:
 
 # List each interest with a dash
 interests:
-  - •	Wearable Robotics
+  - Wearable Robotics
 
 education:
   courses:
