@@ -48,6 +48,16 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
+      - title: "2024 IEEE International Conference on Robotics and Automation"
+        content: '@ Yokohama'
+        align: right
+        background:
+          image:
+            filename: icra_2024.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
         # link:
         #   icon: graduation-cap
         #   icon_pack: fas
