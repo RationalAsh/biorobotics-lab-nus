@@ -36,7 +36,7 @@ education:
     year: 2024
   - course: B.Sc. in Automation
     institution: University of Science and Technology of China, Hefei, China
-    year: 2024
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
