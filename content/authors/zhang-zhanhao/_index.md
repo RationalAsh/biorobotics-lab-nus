@@ -13,7 +13,7 @@ last_name: "Zhang"
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Undergraduate Student
+role: Masters Students
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,7 @@ interests:
 education:
   courses:
   - course: B.E. in Intelligent Medical Engineering
-    institution: Shandong University
+    institution: Shandong University, Jinan, China
     year: 2024
 
 # Social/Academic Networking
@@ -58,9 +58,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Masters Students
 ---
 
-Zhang Zhanhao, currently in his senior year, spent the first three years of his undergraduate studies in the Intelligent Medical Engineering major at Shandong University.
+Zhang Zhanhao received his Bachelor's degree in Intelligent Medical Engineering from Shandong University. He has experience in the analysis of physiological signals using deep learning, as well as in the design of robotic tasks and algorithms. 
 
-Zhang Zhanhao's research interest lies in rehabilitation robotics and intention detection, under the guidance of Dr. Yu Haoyong from the Department of Biomedical Engineering at the National University of Singapore.
+Zhang Zhanhao's research interests lie in the design of rehabilitation tasks and reinforcement learning algorithms for wrist rehabilitation robotics, under the guidance of Dr. Yu Haoyong from the Department of Biomedical Engineering at the National University of Singapore.
