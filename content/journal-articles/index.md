@@ -12,19 +12,29 @@ sections:
 
     3. Weihao Zhao, Junbei Liao, Wei Qian, Haoyong Yu, and Zhao Guo, "A novel design of series elastic actuator using tensile springs array",in *Mechanism and Machine Theory*, pp. 105541, February 2024. DOI: [10.1016/j.mechmachtheory.2023.105541](https://doi.org/10.1016/j.mechmachtheory.2023.105541)
 
-    4. Qingtian Wu, Yu Zhang, Liming Zhang and Haoyong Yu, "Parallel Self-Attention and Spatial-Attention Fusion for Human Pose Estimation and Running Movement Recognition," in *IEEE Transactions on Cognitive and Developmental Systems*, vol. 16, no. 1, pp. 358-368, February 2024, DOI: [10.1109/TCDS.2023.3275652](https://doi.org/10.1109/tcds.2023.3275652).
+    4. Qingtian Wu, Yu Zhang, Liming Zhang and Haoyong Yu, "Parallel Self-Attention and Spatial-Attention Fusion for Human Pose Estimation and Running Movement Recognition," in *IEEE Transactions on Cognitive and Developmental Systems*, vol. 16, no. 1, pp. 358--368, February 2024, DOI: [10.1109/TCDS.2023.3275652](https://doi.org/10.1109/tcds.2023.3275652).
 
-    5. Yuepeng Qian, Chuheng Chen, Jingfeng Xiong, Yining Wang, Yuquan Leng, Haoyong Yu, and Chenglong Fu, "Terrain-Adaptive Exoskeleton Control With Predictive Gait Mode Recognition: A Pilot Study During Level Walking and Stair Ascent," in *IEEE Transactions on Medical Robotics and Bionics*, vol. 6, no. 1, pp. 281-291, February 2024, DOI: [10.1109/TMRB.2024.3349624](https://doi.org/10.1109/TMRB.2024.3349624)
+    5. Yuepeng Qian, Chuheng Chen, Jingfeng Xiong, Yining Wang, Yuquan Leng, Haoyong Yu, and Chenglong Fu, "Terrain-Adaptive Exoskeleton Control With Predictive Gait Mode Recognition: A Pilot Study During Level Walking and Stair Ascent," in *IEEE Transactions on Medical Robotics and Bionics*, vol. 6, no. 1, pp. 281--291, February 2024, DOI: [10.1109/TMRB.2024.3349624](https://doi.org/10.1109/TMRB.2024.3349624)
 
     6. Xinyu Jia, Jun Yang, Tian Shi, Wenxin Wang, Yongping Pan, Haoyong Yu, "Robust Precision Motion Control based on Enhanced Unknown System Dynamics Estimator for High-DoF Robot Manipulators," in *IEEE/ASME Transactions on Mechatronics*, 2024, DOI: [10.1109/TMECH.2024.3385785](https://doi.org/10.1109/TMECH.2024.3385785)
 
     7. Jun Yang, Edward Harsono, and Haoyong Yu, "Dynamic modeling and validation of a hybrid-driven continuum robot with antagonistic mechanisms", in *Mechanism and Machine Theory*, April 2024. DOI: [10.1016/j.mechmachtheory.2024.105635](https://doi.org/10.1016/j.mechmachtheory.2024.105635)
 
-    8. Wujing Cao, Changyu Li, Lijun Yang, Meng Yin, Chunjie Chen, Worawarit Kobsiriphat, Thanak Utakapan, Yizhuang Yang, Haoyong Yu, Xinyu Wu, "A Fusion Network with Stacked Denoise Autoencoder and Meta Learning for Lateral Walking Gait Phase Recognition and Multi-Step-Ahead Prediction", in *IEEE Journal of Biomedical and Health Informatics*, pp. 1-13, March 2024. DOI: [10.1109/JBHI.2024.3380099](https://doi.org/10.1109/JBHI.2024.3380099) 
+    8. Wujing Cao, Changyu Li, Lijun Yang, Meng Yin, Chunjie Chen, Worawarit Kobsiriphat, Thanak Utakapan, Yizhuang Yang, Haoyong Yu, Xinyu Wu, "A Fusion Network with Stacked Denoise Autoencoder and Meta Learning for Lateral Walking Gait Phase Recognition and Multi-Step-Ahead Prediction", in *IEEE Journal of Biomedical and Health Informatics*, pp. 1--13, March 2024. DOI: [10.1109/JBHI.2024.3380099](https://doi.org/10.1109/JBHI.2024.3380099) 
 
     9. Yixin Li, Zhenfeng Wu, Yufeng Chen, Shuai Xian, Zicun Hong, Qixin Wang, Pei Jiang, Haoyong Yu, Yong Zhong, "Multi-material embedded 3D printing for one-step manufacturing of multifunctional components in soft robotics", in *Additive Manufacturing*, vol 85, pp. 104178, April 2024. DOI: [10.1016/j.addma.2024.104178](https://doi.org/10.1016/j.addma.2024.104178)
 
-    10. Tao Yu, Junjie Luo, Yuanqing Gong, Hao Wang, Weichao Guo, Haoyong Yu, Genliang Chen, "A Compact Gesture Sensing Glove for Digital Twin of Hand Motion and Robot Teleoperation," in *IEEE Transactions on Industrial Electronics*, pp. 1 - 10, DOI: [10.1109/TIE.2024.3417980](https://doi.org/10.1109/TIE.2024.3417980).
+    10. Tao Yu, Junjie Luo, Yuanqing Gong, Hao Wang, Weichao Guo, Haoyong Yu, Genliang Chen, "A Compact Gesture Sensing Glove for Digital Twin of Hand Motion and Robot Teleoperation," in *IEEE Transactions on Industrial Electronics*, pp. 1--10, DOI: [10.1109/TIE.2024.3417980](https://doi.org/10.1109/TIE.2024.3417980).
+
+    11. Shuo Ding, Ashwin Narayan, Francisco Anaya Reyes, Shuaishuai Han, Haoyong Yu, "Design and Control of a Novel Active Shoulder Exoskeleton for Overhead Work Assistance," in *IEEE/ASME Transactions on Mechatronics (Early Access)*, pp. 1--10, May 2024. DOI: [10.1109/TMECH.2024.3388095](https://doi.org/10.1109/TMECH.2024.3388095).
+
+    12. Thomas M Kwok and Haoyong Yu, "A Novel Bilateral Underactuated Upper Limb Exoskeleton for Post-stroke Bimanual ADL Training", in *IEEE Transactions on Neural Systems and Rehabilitation Engineering*, pp. 3299--3309, May 2024. DOI: [10.1109/TNSRE.2024.3407653](https://doi.org/10.1109/TNSRE.2024.3407653)
+
+    13. Chengqian Zhou, Xinming Wang, Jun Yang, Haoyong Yu, Shihua Li, "Robust Safe Motion Control for Compliantly Actuated Robots via Disturbance Observers", in *IEEE/ASME Transactions on Mechatronics*, pp. 2794--2802, June 2024. DOI: [10.1109/TMECH.2024.3399842](https://doi.org/10.1109/TMECH.2024.3399842)
+
+    14. Jun Yang, Edward Harsono, Haoyong Yu, "Dynamic modeling and validation of a hybrid-driven continuum robot with antagonistic mechanisms“， in *Mechanism and Machine Theory*, pp. 105635, July 2024. DOI: [10.1016/j.mechmachtheory.2024.105635](https://doi.org/10.1016/j.mechmachtheory.2024.105635)
+
+    15. Ke Shi, Jun Yang, Zhimin Hou, Haoyong Yu, "Design and evaluation of a four-DoF upper limb exoskeleton with gravity compensation", in *Mechanism and Machine Theory*, pp. 105746, October 2024. DOI: [10.1016/j.mechmachtheory.2024.105746](https://doi.org/10.1016/j.mechmachtheory.2024.105746)
 
     '
     title: '2024'
