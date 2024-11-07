@@ -8,7 +8,14 @@ sections:
   content:
     text: '1. Xinyu Jia, Jun Yang, Kaixin Lu, Yongping Pan, Haoyong Yu, "Enhanced     
       Robust Motion Control based on Unknown System Dynamics Estimator for Robot 
-      Manipulators",in *2024 IEEE International Conference on Robotics and  Automation (ICRA)*.
+      Manipulators",in *2024 IEEE International Conference on Robotics and  Automation (ICRA)*, pp. 3514--3519, May 2024. DOI: [10.1109/ICRA57147.2024.10611460](https://doi.org/10.1109/ICRA57147.2024.10611460)
+
+      2. Tian Shi, Weibing Li, Haoyong Yu, Yongping Pan, "Efficient Composite Learning Robot Control Under Partial Interval Excitation", in *2024 IEEE International Conference on Robotics and  Automation (ICRA)*, pp. 21--26, May 2024. DOI: [10.1109/ICRA57147.2024.10610877](https://doi.org/10.1109/ICRA57147.2024.10610877).
+
+      3. Yongping Pan, Zhigang Zou, Weibing Li, Chenguang Yang, Haoyong Yu, "Gaussian Process Inverse Dynamics Learning for Variable Stiffness Actuator Control",in *2024 IEEE International Conference on Advanced Intelligent Mechatronics (AIM)*, July 2024. DOI: [10.1109/AIM55361.2024.10637165](https://doi.org/10.1109/AIM55361.2024.10637165)
+
+      4. Tian Lyu, Yiang Yu, Ashwin Narayan, Haoyong Yu,"A Non-collocated Wearable Framework for Back Support Exoskeleton Payload Estimation",in *UbiComp 24: Companion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing*, pp. 877--880, October 2024. DOI: [10.1145/3675094.3678999](https://doi.org/10.1145/3675094.3678999)
+
       '
     title: '2024'
   design:
@@ -31,16 +38,14 @@ sections:
 
       4. Rui Huang, Shuaishuai Han, Ling Jin, Jianhua Zhou, Xiaoxiao Chen, Shichen Ruan and Haoyong Yu, "The Feasibility, Safety and Efficacy of Robot-Assisted Gait Training Based on a Wearable Ankle Robot in Stroke Rehabilitation",in *2023 International Conference on Intelligent Robotics and Applications (ICIRA)*, pp. 584--594, October 2023. DOI: [10.1007/978-981-99-6489-5_48](https://doi.org/10.1007/978-981-99-6489-5_48)
 
-      5. Zhimin Hou, Cunjun Yu, David Hsu, and Haoyong Yu, "TeachingBot: Robot Teacher for Human Handwriting",in *arXiv*, 2023. DOI: [10.48550/arXiv.2309.11848](https://doi.org/10.48550/arXiv.2309.11848)
+      5. Qian Wang, Seyram Ofori, Qiulei Liu, Haoyong Yu, Shuo Ding, and Haitao Yang, "Morphology Design of Soft Strain Sensors with Superior Stability for Wearable Rehabilitation Robots",in *2023 International Conference on Intelligent Robotics and Applications (ICIRA)*, pp. 576--583, October 2023. DOI: [10.1007/978-981-99-6489-5_47](https://doi.org/10.1007/978-981-99-6489-5_47)
 
-      6. Qian Wang, Seyram Ofori, Qiulei Liu, Haoyong Yu, Shuo Ding, and Haitao Yang, "Morphology Design of Soft Strain Sensors with Superior Stability for Wearable Rehabilitation Robots",in *2023 International Conference on Intelligent Robotics and Applications (ICIRA)*, pp. 576--583, October 2023. DOI: [10.1007/978-981-99-6489-5_47](https://doi.org/10.1007/978-981-99-6489-5_47)
-
-      7. Beycan Emre, Ofori Seyram, L.W.R. Joshua, Weihao Zhao, and Haoyong Yu, "Investigating the Effect of Novel Gamified Stepper on Lower Limb Biomechanics in Seated Healthy Subjects",in *2023 International Conference on Rehabilitation Robotics (ICORR)*,
+      6. Beycan Emre, Ofori Seyram, L.W.R. Joshua, Weihao Zhao, and Haoyong Yu, "Investigating the Effect of Novel Gamified Stepper on Lower Limb Biomechanics in Seated Healthy Subjects",in *2023 International Conference on Rehabilitation Robotics (ICORR)*,
       September 2023. DOI: [10.1109/ICORR58425.2023.10304715](https://doi.org/10.1109/ICORR58425.2023.10304715)
 
-      8. Jun Yang, Xinyu Jia, Zhimin Hou, Yongping Pan, Haoyong Yu, "Robust Reference Tracking of Linear Uncertain Systems via Uncertainty Estimation and Composite Control",in *2023 62nd IEEE Conference on Decision and Control (CDC)*, pp. 6507--6512, December 2023. DOI: [10.1109/CDC49753.2023.10383641](https://doi.org/10.1109/CDC49753.2023.10383641)
+      7. Jun Yang, Xinyu Jia, Zhimin Hou, Yongping Pan, Haoyong Yu, "Robust Reference Tracking of Linear Uncertain Systems via Uncertainty Estimation and Composite Control",in *2023 62nd IEEE Conference on Decision and Control (CDC)*, pp. 6507--6512, December 2023. DOI: [10.1109/CDC49753.2023.10383641](https://doi.org/10.1109/CDC49753.2023.10383641)
 
-      9. Kaixin Lu, Shuaishuai Han, Xinyu Jia, Haoyong Yu, "Inverse Optimal Adaptive Prescribed Performance Control With Application to Compliant Actuator-Driven Robot Manipulators",in *
+      8. Kaixin Lu, Shuaishuai Han, Xinyu Jia, Haoyong Yu, "Inverse Optimal Adaptive Prescribed Performance Control With Application to Compliant Actuator-Driven Robot Manipulators",in *
 2023 62nd IEEE Conference on Decision and Control (CDC)*, pp. 3612--3617, December 2023. DOI: [10.1109/CDC49753.2023.10384179](https://doi.org/10.1109/CDC49753.2023.10384179)
 
       '
