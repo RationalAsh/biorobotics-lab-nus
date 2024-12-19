@@ -33,7 +33,7 @@ education:
    courses:
    - course: Ph.D. in Biomedical Engineering
      institution: National University of Singapore
-     year: 2023
+     year: 2024
    - course: Diploma in Computer Science Engineering (Diplôme d’Ingénieur contrôlé par l’État)
      institution: Grande École - École Nationale Supérieure d’Ingénieurs de Sud-Alsace (Groupe Institut National des Sciences Appliquées), Mulhouse, France
      year: 2016
@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Engineers
+- Research Fellows
 ---
 
 David Carmona completed his Classes Préparatoires aux Grandes Écoles at the Centre International de Valbonne in 2013 to prepare the concours aux 

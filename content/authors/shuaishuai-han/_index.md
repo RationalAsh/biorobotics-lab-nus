@@ -65,9 +65,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Fellows
+- Alumni
 ---
 
-HAN Shuaishuai received the Ph.D. degree in control science and engineering from the Nanjing University of Science and Technology, Nanjing, China, in 2021. He is currently a Postdoctoral Researcher in the Biorobotics Lab. He is working on system design and control of robots for rehabilitation. 
+HAN Shuaishuai received the Ph.D. degree in control science and engineering from the Nanjing University of Science and Technology, Nanjing, China, in 2021. He was a Postdoctoral Researcher in the Biorobotics Lab. He was working on system design and control of robots for rehabilitation. 
 
-His current research interests include rehabilitation strategy design, exoskeleton control, human-robot interaction control, and disturbance observer-based control.
+His research interests includes rehabilitation strategy design, exoskeleton control, human-robot interaction control, and disturbance observer-based control.

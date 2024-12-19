@@ -60,9 +60,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Engineers
+  - Alumni
 ---
 
 Shounak is a Research Engineer at the National University of Singapore (NUS), Singapore. He is affiliated with the BioRobotics Lab in the Biomedical Engineering Department at NUS. Shounak completed his masters in Mechanical Engineering at IISc, with a thesis titled "Design, analysis, simulation, and experimentation of a flexible spine quadruped."
 
-Shounak's contribution to the lab involves the design and development of back exo-skeletons, knee exo-skeletons, ankle exo-skeletons, and Linear Series actuator design. Apart from this, quadruped robots, dual arm systems, and a stroke rehabilitation platform are also part of Shounak's contribution.
+Shounak's contribution to the lab involved the design and development of back exo-skeletons, knee exo-skeletons, ankle exo-skeletons, and Linear Series actuator design. Apart from this, quadruped robots, dual arm systems, and a stroke rehabilitation platform were also part of Shounak's contribution.
