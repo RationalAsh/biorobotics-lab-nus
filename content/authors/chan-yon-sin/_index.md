@@ -70,8 +70,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Fellows
+- Alumni
 ---
-Dr. Yon Sin Chan received the Ph.D. degree in Mechanical Engineering from Monash University Malaysia in 2023. He is currently a Research Fellow in the Biorobotics Laboratory. He is working on the adoption of wearable devices to investigate various human movements such as gait, lifting and oil palm harvesting. 
+Dr. Yon Sin Chan received the Ph.D. degree in Mechanical Engineering from Monash University Malaysia in 2023. He was a Research Fellow in the Biorobotics Laboratory. He was working on the adoption of wearable devices to investigate various human movements such as gait, lifting and oil palm harvesting. 
 
 
