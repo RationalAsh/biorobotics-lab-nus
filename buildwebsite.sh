@@ -29,4 +29,4 @@ hugo --gc -b "https://cde.nus.edu.sg/bme/bioroboticslab" -d $OUTPUTDIR --minify
 zip -r $OUTPUTDIR.zip $OUTPUTDIR
 
 # Copy the folder to the Downloads folder
-cp $OUTPUTDIR.zip ~/Downloads
+cp $OUTPUTDIR.zip ~/Downloads 
