@@ -6,8 +6,19 @@ sections:
     title: Journal Articles
 - block: markdown
   content:
-    text: '
-    1. Teng Ma, Shucong Yin, Zhimin Hou, Haoyong Yu, and Chenglong Fu, "Real-World Terrain-Dependent Variable Admittance Model for Amputee-Prosthesis System and Environment Interaction,in *IEEE/ASME Transactions on Mechatronics*, January 2025. DOI: [10.1109/TMECH.2024.3523321](https://doi.org/10.1109/TMECH.2024.3523321)
+    text: '1. Teng Ma, Shucong Yin, Zhimin Hou, Haoyong Yu, and Chenglong Fu, "Real-World Terrain-Dependent Variable Admittance Model for Amputee-Prosthesis System and Environment Interaction",in *IEEE/ASME Transactions on Mechatronics*, January 2025. DOI: [10.1109/TMECH.2024.3523321](https://doi.org/10.1109/TMECH.2024.3523321)
+    
+    2. Guanbao Zeng, Lijian Wu, Yu Haoyong, Dianhe Zhao, "Quadruped Robot Calf Joint Actuator Molding and Design Based on Dynamic Similarity Hypothesis", in *IEEE Transactions on Industry Applications( Early Access )*, January 2025. DOI: [10.1109/TIA.2025.3532577](https://doi.org/10.1109/TIA.2025.3532577)
+    
+    3. Dong-Dong Zheng, Yangkun Zhang, Jie Ling, Xuemei Ren, Haoyong Yu, "Composite Learning-Based Adaptive Terminal Sliding Mode Control for Nonlinear Systems With Experimental Validation", in *IEEE Transactions on Industrial Electronics( Early Access )*, January 2025. DOI: [10.1109/TIE.2024.3440511](https://doi.org/10.1109/TIE.2024.3440511)
+    
+    4. Guanbao Zeng, Yu Haoyong, Lijian Wu, Xiangyu Yang, Kaixin Lu, Dianhe Zhao, “Full Operating Condition Thigh Joint Motor Design Method for Quadruped Robot Under Trot Gait”, in *IEEE/ASME Transactions on Mechatronics( Early Access )*, January 2025. DOI: [10.1109/TMECH.2024.3524510]( https://doi.org/10.1109/TMECH.2024.3524510)
+    
+    5. Zhimin Hou, Teng Ma, Wenxin Wang, Haoyong Yu, “Contextual Policy Search for Task-Level Adaptation in Physical Human–Robot Interaction”, in *IEEE/ASME Transactions on Mechatronics( Early Access )*, January 2025. DOI: [10.1109/TMECH.2025.3529908](https://doi.org/10.1109/TMECH.2025.3529908)
+    
+    6. Zhimin Hou, Yao Tong, Ke Shi, Haoyong Yu, “A bilateral wrist robotic system with compliant actuation for rehabilitation training”, in *Mechanism and Machine Theory*, vol. 207, pp. 105937, May 2025. DOI: [10.1016/j.mechmachtheory.2025.105937](https://doi.org/10.1016/j.mechmachtheory.2025.105937)
+    
+    7. Jun Yang, Haoyong Yu, “Robust motion control synthesis with essential dynamics for hybrid-driven continuum robots”, in *Mechanism and Machine Theory*, vol. 209, pp. 105937, Jul 2025. DOI: [10.1016/j.mechmachtheory.2025.105973]( https://doi.org/10.1016/j.mechmachtheory.2025.105973)
     '    
     title: '2025'
   design:
