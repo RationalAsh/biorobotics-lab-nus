@@ -69,8 +69,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Fellows
+- Alumni
 ---
-Dr. Huang Darong received the Ph.D. degree in Control Science and Engineering from South China University of Technology in 2022. He used to conduct Research & Development (R&D) on robotics at the University of Sussex, Huawei and KUKA. He is currently a research fellow with the Biorobotics Lab, working on intelligent control and application of robot teleoperation and dual-arm manipulation.
+Dr. Huang Darong received the Ph.D. degree in Control Science and Engineering from South China University of Technology in 2022. He used to conduct research & development (R&D) on robotics at the University of Sussex, Huawei and KUKA. He was a research fellow with the Biorobotics Lab, working on intelligent control and application of robot teleoperation and dual-arm manipulation.
 
 

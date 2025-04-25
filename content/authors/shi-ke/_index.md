@@ -61,9 +61,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Fellows
+- Alumni
 ---
 
 Shi Ke received the B.S. degree and Ph.D. degree both in Instrument Science and Engineering from Southeast University, Nanjing, China, in 2016 and 2022, respectively.
 
-He is currently a research fellow at the Biorobotics Lab of the National University of Singapore, Singapore. His current research interests include rehabilitation robotics and human-robot interaction.
+He was a research fellow at the Biorobotics Lab of the National University of Singapore, Singapore. His research interests include rehabilitation robotics and human-robot interaction.
