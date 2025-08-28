@@ -70,9 +70,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Alumni
 ---
 
 Hou Zhimin received the B.E. degree in Mechanical Engineering from Tongji University, Shanghai, China, in 2016. He was a visiting scholar in Department of Computing Science, University of Alberta, Edmonton, Canada, in 2018, advised by Prof. Richard S.Sutton. He earned his M.Sc. degree in Mechanical Engineering from Tsinghua University, Beijing, China, in 2019.  
 
-Currently, he is a Ph.D. candidate in Department of Biomedical Engineering, advised by Dr. Yu Haoyong. His research interests include physical human-robot-interaction (pHRI), robotic compliant control, and reinforcement learning based intelligent control.  
+He was a Ph.D. candidate in Department of Biomedical Engineering, advised by Dr. Yu Haoyong. His research interests included physical human-robot-interaction (pHRI), robotic compliant control, and reinforcement learning based intelligent control.  

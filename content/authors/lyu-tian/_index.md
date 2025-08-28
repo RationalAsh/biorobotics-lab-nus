@@ -13,7 +13,7 @@ last_name: "Lyu"
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Masters Student
+role: Masters Student (2023)
 
 # Organizations/Affiliations
 organizations:
@@ -58,9 +58,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Masters Students
+- Alumni
 ---
 
 Lyu Tian received his Bachelor’s degree in Mechatronics Engineering at Beijing Institute of Technology, China, in 2022. He had previous research experiences in prosthetic arm design, brain-computer interface, deep-learning, and robotic micro-manipulation.
 
-His current research is on adaptive control of the low-back exoskeleton based on payload weight estimation. He is now a Master student at the Biorobotics Lab of the National University of Singapore.
+His current research was on adaptive control of the low-back exoskeleton based on payload weight estimation. He is now a Master student at the Biorobotics Lab of the National University of Singapore.

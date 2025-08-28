@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: PhD Candidate (2025)
 
 # Organizations/Affiliations
 organizations:
@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Alumni
 ---
 
 Huang Rui received the Bachelor degree from Shanghai Jiao Tong University, Shanghai, China, in 2019. Her previous studies focused on assessing the effectiveness of hybrid upper limb rehabilitation robot in patients after stroke, in vitro simulation experiment for an integrated intelligent device for endotracheal intubation, clinical study in chronic diseases, cellular and animal models for investigating bacterial virulence. 

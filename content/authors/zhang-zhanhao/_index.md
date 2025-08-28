@@ -13,7 +13,7 @@ last_name: "Zhang"
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Masters Students
+role: Masters Students (2025)
 
 # Organizations/Affiliations
 organizations:
@@ -58,9 +58,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Masters Students
+- Alumni
 ---
 
 Zhang Zhanhao received his Bachelor's degree in Intelligent Medical Engineering from Shandong University. He has experience in the analysis of physiological signals using deep learning, as well as in the design of robotic tasks and algorithms. 
 
-Zhang Zhanhao's research interests lie in the design of rehabilitation tasks and reinforcement learning algorithms for wrist rehabilitation robotics, under the guidance of Dr. Yu Haoyong from the Department of Biomedical Engineering at the National University of Singapore.
+Zhang Zhanhao's research interests lied in the design of rehabilitation tasks and reinforcement learning algorithms for wrist rehabilitation robotics, under the guidance of Dr. Yu Haoyong from the Department of Biomedical Engineering at the National University of Singapore.

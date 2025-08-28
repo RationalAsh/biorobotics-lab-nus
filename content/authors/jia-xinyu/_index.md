@@ -13,7 +13,7 @@ last_name: "Jia"
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: PhD Candidate (2025)
 
 # Organizations/Affiliations
 organizations:
@@ -68,13 +68,13 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Alumni
 
 # to create link to the project pages [Quadruped Mobile Manipulator](../../project-pages/quadruped-mobile-manipulator/)
 ---
 Jia Xinyu received the B.E. degree in Vehicle Engineering from Jilin University, Changchun, China, in 2018. He worked as a Mechanical Engineer in Shenzhen DJI Technology Co., Ltd. from 2018 to 2020.
 
-He is currently a Ph.D. student in the Department of Biomedical Engineering at National University of Singapore.
+He was a Ph.D. student in the Department of Biomedical Engineering at National University of Singapore.
 
 Main projects:
 1. Quadruped Mobile Manipulator

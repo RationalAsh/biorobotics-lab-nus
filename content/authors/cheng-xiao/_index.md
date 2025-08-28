@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Masters Student
+role: Masters Student (2024)
 
 # Organizations/Affiliations
 organizations:
@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Masters Students
+- Alumni
 ---
 
 Cheng Xiao did her bachelor’s degree in Biomedical Engineering at Southern University of Science and Technology in 2022. She had previous research experience regarding EEG signal analysis, proprioceptive feedback training, and game development skill using Unity.

@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Fellow
+role: Research Fellow (2024)
 
 # Organizations/Affiliations
 organizations:

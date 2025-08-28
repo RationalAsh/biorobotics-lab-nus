@@ -70,4 +70,4 @@ user_groups:
 
 HAN Shuaishuai received the Ph.D. degree in control science and engineering from the Nanjing University of Science and Technology, Nanjing, China, in 2021. He was a Postdoctoral Researcher in the Biorobotics Lab. He was working on system design and control of robots for rehabilitation. 
 
-His research interests includes rehabilitation strategy design, exoskeleton control, human-robot interaction control, and disturbance observer-based control.
+His research interests included rehabilitation strategy design, exoskeleton control, human-robot interaction control, and disturbance observer-based control.

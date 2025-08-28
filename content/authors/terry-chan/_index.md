@@ -13,7 +13,7 @@ last_name: "Chan"
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Masters Student
+role: Masters Student (2023)
 
 # Organizations/Affiliations
 organizations:
@@ -62,4 +62,4 @@ user_groups:
 - Alumni
 ---
 
-Terry was a Masters student at the NUS Biorobotics Lab specializing in mechanical design with a wide range of interests in the biomedical field. He has helped to develop the hardware of several robotic platforms at the lab including manipulator arms and a bimanual manipulator. He is currently working on the mechanical design of a quadrupedal mobile manipulator as a research platform for control-based experiments.
+Terry was a Masters student at the NUS Biorobotics Lab specializing in mechanical design with a wide range of interests in the biomedical field. He has helped to develop the hardware of several robotic platforms at the lab including manipulator arms and a bimanual manipulator. He was working on the mechanical design of a quadrupedal mobile manipulator as a research platform for control-based experiments.

@@ -13,7 +13,7 @@ last_name: "Kwok"
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: PhD Candidate (2023)
 
 # Organizations/Affiliations
 organizations:

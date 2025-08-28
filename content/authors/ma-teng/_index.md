@@ -13,7 +13,7 @@ last_name: "Ma"
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: PhD Candidate (2024)
 
 # Organizations/Affiliations
 organizations:
@@ -70,9 +70,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Alumni
 ---
 
 Ma Teng received the B.E. degree in Navigation guidance and control from Beihang University, Beijing, China, in 2017 and MS degree in Navigation Guidance and Control from Beihang University in 2020.
 
-Currently, he is a Ph.D. candidate in Department of Biomedical Engineering, advised by Dr. Yu Haoyong. My research interest is bio-inspired control of a powered transfemoral prosthesis.
+He was a Ph.D. candidate in Department of Biomedical Engineering, advised by Dr. Yu Haoyong. My research interest is bio-inspired control of a powered transfemoral prosthesis.

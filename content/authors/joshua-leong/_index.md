@@ -13,7 +13,7 @@ last_name: Leong
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Masters Student
+role: Masters Student (2025)
 
 # Organizations/Affiliations
 organizations:
@@ -57,9 +57,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Masters Students
+- Alumni
 ---
 
 Joshua completed his bachelor’s degree in Bioengineering at Nanyang Technological University in 2021. 
 
-He is currently a Master student in the Department of Biomedical Engineering at National University Singapore. His research focus is on the biomechanics impacts of wearable robotics.
+He was a Master student in the Department of Biomedical Engineering at National University Singapore. His research focus is on the biomechanics impacts of wearable robotics.

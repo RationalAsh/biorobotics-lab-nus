@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:dixiao29@u.nus.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:yuxiang.m@u.nus.edu'  # For a direct email link, use "mailto:test@example.org".
 # - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/in/dixiao-niu-889910313/

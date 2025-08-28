@@ -13,7 +13,7 @@ last_name: "Gao"
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Masters Student
+role: Masters Student (2025)
 
 # Organizations/Affiliations
 organizations:
@@ -59,9 +59,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Masters Students
+- Alumni
 ---
 
 Gao Yingchen obtained her Bachelor's degree in Biomedical Engineering in Beijing Insititute of Technology, Beijing, China. She had previous research experiences in deep-learning.
 
-She is also a Chinese PU 3+1+1 Program student in the Department of Biomedical Engineering of the National University of Singapore, under the supervision of Dr. Yu Haoyong.
+She was a Chinese PU 3+1+1 Program student in the Department of Biomedical Engineering of the National University of Singapore, under the supervision of Dr. Yu Haoyong.

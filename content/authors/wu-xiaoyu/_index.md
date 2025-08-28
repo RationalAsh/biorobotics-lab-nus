@@ -13,7 +13,7 @@ last_name: "Wu"
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: PhD Candidate (2025)
 
 # Organizations/Affiliations
 organizations:
@@ -67,9 +67,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Alumni
 ---
 
 Wu Xiaoyu received the M.E. degree in Control Engineering with the Department of Automation, School of Information Science and Technology, University of Science and Technology of China, Hefei, China in 2020.
 
-She is currently pursuing the Ph.D. degree in Department of Biomedical Engineering, advised by Dr. Yu Haoyong. She is currently working on the bilateral interaction control methods on upper-limb exoskeletons.
+She was pursuing the Ph.D. degree in Department of Biomedical Engineering, advised by Dr. Yu Haoyong. She was working on the bilateral interaction control methods on upper-limb exoskeletons.
