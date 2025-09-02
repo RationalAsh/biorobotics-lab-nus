@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Exoskeleton Featured in RoboSG! @ Punggol Digital District Discovery Hub"
+title: "Exoskeleton Featured in RoboSG! 2025 @ Punggol Digital District Discovery Hub"
 subtitle: ""
 summary: ""
 authors: []

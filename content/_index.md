@@ -58,6 +58,26 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+      - title: "RoboSG! 2025"
+        content: '@ Punggol Digital District Discovery Hub'
+        align: center
+        background:
+          image:
+            filename: robosg_2025.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'   
+      - title: "JIOSH+W 2025"
+        content: '@ Osaka'
+        align: left
+        background:
+          image:
+            filename: jiosh+w_2025.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'              
         # link:
         #   icon: graduation-cap
         #   icon_pack: fas
