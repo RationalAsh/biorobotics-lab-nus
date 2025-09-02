@@ -11,7 +11,7 @@ sections:
       2. Beycan Emre, Ofori Seyram, LWR Joshua, Narayan Ashwin and Haoyong Yu, "Enhancing Seated Lower Limb Training: Evaluating an Exergame-Integrated Stepper for Weight-Shift and Muscle Activation”, in *2025 International Conference on Rehabilitation Robotics (ICORR)*, pp. 790--795, May 2025. DOI: [10.1109/ICORR66766.2025.11063139](https://doi.org/10.1109/ICORR66766.2025.11063139)
 
           '
-    title: '2024'
+    title: '2025'
   design:
     columns: '2'
 - block: markdown
