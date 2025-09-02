@@ -6,6 +6,16 @@ sections:
     title: Conference Papers
 - block: markdown
   content:
+    text: '1. Xinyu Jia, Wenxin Wang, Jun Yang, Yongping Pan, and Haoyong Yu, "Multi-layered Safety of Redundant Robot Manipulators via Task-oriented Planning and Control", in *Proceedings IEEE International Conference on Robotics and Automation (ICRA)*, 2025. DOI: [10.48550/arXiv.2410.17742](https://doi.org/10.48550/arXiv.2410.17742)
+      
+      2. Beycan Emre, Ofori Seyram, LWR Joshua, Narayan Ashwin and Haoyong Yu, "Enhancing Seated Lower Limb Training: Evaluating an Exergame-Integrated Stepper for Weight-Shift and Muscle Activation”, in *2025 International Conference on Rehabilitation Robotics (ICORR)*, pp. 790--795, May 2025. DOI: [10.1109/ICORR66766.2025.11063139](https://doi.org/10.1109/ICORR66766.2025.11063139)
+
+          '
+    title: '2024'
+  design:
+    columns: '2'
+- block: markdown
+  content:
     text: '1. Xinyu Jia, Jun Yang, Kaixin Lu, Yongping Pan, Haoyong Yu, "Enhanced     
       Robust Motion Control based on Unknown System Dynamics Estimator for Robot 
       Manipulators",in *2024 IEEE International Conference on Robotics and  Automation (ICRA)*, pp. 3514--3519, May 2024. DOI: [10.1109/ICRA57147.2024.10611460](https://doi.org/10.1109/ICRA57147.2024.10611460)
@@ -45,8 +55,7 @@ sections:
 
       7. Jun Yang, Xinyu Jia, Zhimin Hou, Yongping Pan, Haoyong Yu, "Robust Reference Tracking of Linear Uncertain Systems via Uncertainty Estimation and Composite Control",in *2023 62nd IEEE Conference on Decision and Control (CDC)*, pp. 6507--6512, December 2023. DOI: [10.1109/CDC49753.2023.10383641](https://doi.org/10.1109/CDC49753.2023.10383641)
 
-      8. Kaixin Lu, Shuaishuai Han, Xinyu Jia, Haoyong Yu, "Inverse Optimal Adaptive Prescribed Performance Control With Application to Compliant Actuator-Driven Robot Manipulators",in *
-2023 62nd IEEE Conference on Decision and Control (CDC)*, pp. 3612--3617, December 2023. DOI: [10.1109/CDC49753.2023.10384179](https://doi.org/10.1109/CDC49753.2023.10384179)
+      8. Kaixin Lu, Shuaishuai Han, Xinyu Jia, Haoyong Yu, "Inverse Optimal Adaptive Prescribed Performance Control With Application to Compliant Actuator-Driven Robot Manipulators",in *2023 62nd IEEE Conference on Decision and Control (CDC)*, pp. 3612--3617, December 2023. DOI: [10.1109/CDC49753.2023.10384179](https://doi.org/10.1109/CDC49753.2023.10384179)
 
       '
     title: '2023'
