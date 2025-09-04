@@ -73,7 +73,7 @@ sections:
         align: left
         background:
           image:
-            filename: jiosh+w_2025.jpg
+            filename: jiosh_w_2025.jpg
             filters:
               brightness: 0.7
           position: center
