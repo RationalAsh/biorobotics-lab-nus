@@ -66,6 +66,11 @@ echo Starting website build...
 echo Workspace: %CD%
 echo.
 
+REM Convert line endings from Windows (CRLF) to Unix (LF) before running
+echo Converting script line endings to Unix format...
+docker run --rm -v "%CD%":/workspace -w /workspace %IMAGE% bash -c "dos2unix %SCRIPT% 2>/dev/null || sed -i 's/\r$//' %SCRIPT%"
+echo.
+
 REM Run Docker command
 docker run --rm -v "%CD%":/workspace -w /workspace %IMAGE% bash ./%SCRIPT%
 
