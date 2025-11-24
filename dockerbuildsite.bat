@@ -25,8 +25,44 @@ set WORKSPACE=%WORKSPACE:\=/%
 set WORKSPACE=%WORKSPACE::=%
 set WORKSPACE=/%WORKSPACE%
 
-echo Starting Docker build...
+echo Checking for Docker image...
 echo Using image: %IMAGE%
+echo.
+
+REM Check if Docker image exists locally
+docker image inspect %IMAGE% >nul 2>&1
+if %ERRORLEVEL% neq 0 (
+    echo Image not found locally. Building from Dockerfile...
+    echo.
+    
+    REM Check if Dockerfile exists
+    if not exist "Dockerfile" (
+        echo ERROR: Dockerfile not found!
+        echo.
+        pause
+        exit /b 1
+    )
+    
+    REM Build the Docker image
+    docker build -t %IMAGE% .
+    
+    if %ERRORLEVEL% neq 0 (
+        echo.
+        echo ERROR: Docker image build failed!
+        echo.
+        pause
+        exit /b %ERRORLEVEL%
+    )
+    
+    echo.
+    echo Docker image built successfully!
+    echo.
+) else (
+    echo Docker image found locally.
+    echo.
+)
+
+echo Starting website build...
 echo Workspace: %CD%
 echo.
 
