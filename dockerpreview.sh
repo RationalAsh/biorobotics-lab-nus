@@ -2,7 +2,7 @@
 set -e
 
 # 🔧 Adjust these if you ever retag your image:
-IMAGE="my-netlify-hugo:0.116.1"
+IMAGE="ashwinnarayan1994/netlify-hugo:0.116.1"
 PORT="${1:-1313}"
 
 echo "🚀 Starting Hugo preview server on http://localhost:$PORT"

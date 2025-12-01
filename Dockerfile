@@ -18,8 +18,27 @@ RUN tar -C /usr/local -xzf go1.19.3.linux-amd64.tar.gz
 # Add the go binary to the path
 ENV PATH="/usr/local/go/bin:${PATH}"
 
-# 4. Switch back to the buildbot user for all subsequent commands
+# 4. Bake in Hugo modules to avoid downloading on every build
+WORKDIR /tmp/hugo-modules
+
+# Copy files needed for module resolution
+COPY go.mod go.sum ./
+COPY config/ ./config/
+COPY theme.toml ./
+
+# Set Hugo cache to a persistent location and download modules
+# Using 'hugo mod graph' to trigger module download without needing full site content
+ENV HUGO_CACHEDIR=/hugo-cache
+ENV GOPATH=/go
+RUN mkdir -p /hugo-cache /go && \
+    hugo mod graph && \
+    chmod -R 777 /hugo-cache /go
+
+# Reset working directory
+WORKDIR /workspace
+
+# 5. Switch back to the buildbot user for all subsequent commands
 USER buildbot
 
-# 5. (Optional) sanity‑check
+# 6. (Optional) sanity‑check
 RUN hugo version
