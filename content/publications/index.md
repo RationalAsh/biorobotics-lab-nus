@@ -22,6 +22,8 @@ sections:
 
          See our full list of conference publications [here](/conference-papers/).
 
+         See our full list of book publications [here](/book/).
+
          Alternatively you may see a full searchable list of our publications [here](/publication/)
     design:
       columns: "2"
