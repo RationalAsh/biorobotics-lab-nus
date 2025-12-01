@@ -6,7 +6,7 @@ echo ====================================
 echo.
 
 REM Set the Docker image name
-set IMAGE=ashwinnarayan1994/netlify-hugo:0.116.1
+set IMAGE=my-netlify-hugo:0.116.1
 
 REM Default port
 set PORT=1313
