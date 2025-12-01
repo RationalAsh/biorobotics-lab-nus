@@ -23,3 +23,6 @@ The website is built using the command
 ```bash
 hugo --gc -b "https://cde.nus.edu.sg/bme/bioroboticslab"
 ```
+
+### Website Preview
+To preview the website on browser, right click "dockerpreview.bat", then select "Reveal in File Explorer". Double click "dockerpreview" and let it load until it shows "Web Server is available at http://localhost:1313/ (bind address 0.0.0.0) Press Ctrl+C to stop"
