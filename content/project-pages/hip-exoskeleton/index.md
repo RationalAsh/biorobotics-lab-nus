@@ -61,9 +61,12 @@ sections:
       title: |
         Award
       text: |
-        <img src="competition-groupphoto.jpg" alt="an image of competition" title="Competition" width="75%">
-        <img src="dr-yu-prize.jpg" alt="an image of Dr Yu with medal" title="We won!" width="75%">
-        <p class="justified-text"> We won the first prize in the Champion Product of the 2025 Exoskeleton Innovation Challenge​ with this hip exoskeleton on November 28, 2025. </p>
+        <div style="text-align: center;">
+          <img src="competition-groupphoto.jpg" alt="an image of competition" title="Competition" width="75%">
+        </div>     <img src="dr-yu-prize.jpg" alt="an image of Dr Yu with medal" title="We won!" width="75%">
+        <p class="justified-text"> The 2025 Exoskeleton Robotics Makers Challenge finals were held on November 28 in Guangzhou, attracting university, research institute, and industry teams nationwide and supported by several national and regional organizations. The participants presented innovations in hip, knee, waist/back, and modular omnidirectional walking exoskeletons—many featuring lightweight design, intelligent control, human–machine interaction, and some with pending national patents. We won the first prize with our novel hip exoskeleton. Organizers said the competition showcased advances across eldercare, rehabilitation, and sports applications, will keep expanding as an innovation incubator, and aims to accelerate real-world adoption of exoskeleton technology to support disability services and healthcare. </p>
+      external_link: |
+        "https://mp.weixin.qq.com/s/MVkwstipY08vb3cv6oHX6g"
 
 ---
 
