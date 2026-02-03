@@ -20,10 +20,6 @@ sections:
     columns: '2'  
 - block: markdown
   content:
-    text: ''
-    title: Journal Articles
-- block: markdown
-  content:
     text: '1. Teng Ma, Shucong Yin, Zhimin Hou, Haoyong Yu, and Chenglong Fu, "Real-World Terrain-Dependent Variable Admittance Model for Amputee-Prosthesis System and Environment   Interaction", in *IEEE/ASME Transactions on Mechatronics*, January 2025. DOI: [10.1109/TMECH.2024.3523321](https://doi.org/10.1109/TMECH.2024.3523321)
     
      2. Guanbao Zeng, Lijian Wu, Yu Haoyong, and Dianhe Zhao, "Quadruped Robot Calf Joint Actuator Molding and Design Based on Dynamic Similarity Hypothesis", in *IEEE Transactions on Industry Applications(Early Access)*, January 2025. DOI: [10.1109/TIA.2025.3532577](https://doi.org/10.1109/TIA.2025.3532577)
