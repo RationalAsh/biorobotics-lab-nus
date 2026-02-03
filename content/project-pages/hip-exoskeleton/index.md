@@ -41,15 +41,18 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 sections:
-  - block: markdown
+  - block: hero
     content:
       title: |
-        Hip Exoskeleton
-      subtitle: A novel hip exoskeleton that provides precise and smart assistance across a wide range of scenarios, e.g. uphill cycling, stairs ascending and descending and walking on diverse irregular terrain. 
+        NUS
+        Biorobotics Lab
+      image:
+        filename: hip-exo-pose.jpg
       text: |
-        <img src="hip-exo-pose.jpg" alt="an image of a person wearing a hip exoskeleton" title="Hip Exoskeleton" width="35%">
         <br>
-        <p class="justified-text"> Demand for locomotion assistance is widespread and affects two main groups. For the elderly and people with mobility issues, aging makes everyday tasks harder: gait becomes slower, endurance declines, metabolic cost of movement increases, and overall daily activity is reduced. For outdoor and recreational users, these limitations lead to higher energy expenditure, quicker onset of fatigue, and decreased performance. To address these needs, we designed a hip exoskeleton that provides active locomotion support across a wide range of scenarios. Using a uniquely designed differential cable transmission, the exoskeleton delivers synchronized, balanced power assistance of up to 40 Nm to both hips while relying on a single actuator, resulting in a lightweight and compact device. Lab tests show it reduces peak muscle activation by up to 20% during various locomotion tasks. For users with weak mobility who walk slowly with short strides, we added an innovative FMG sensor band to detect motion intent; this enables timely, sufficiently strong assistance even when small movements would not reliably trigger traditional kinematics-based control strategies. </p>
+        A novel hip exoskeleton that provides precise and smart assistance across a wide range of scenarios, e.g. uphill cycling, stairs ascending and descending and walking on diverse irregular terrain.
+        <br>
+        Demand for locomotion assistance is widespread and affects two main groups. For the elderly and people with mobility issues, aging makes everyday tasks harder: gait becomes slower, endurance declines, metabolic cost of movement increases, and overall daily activity is reduced. For outdoor and recreational users, these limitations lead to higher energy expenditure, quicker onset of fatigue, and decreased performance. To address these needs, we designed a hip exoskeleton that provides active locomotion support across a wide range of scenarios. Using a uniquely designed differential cable transmission, the exoskeleton delivers synchronized, balanced power assistance of up to 40 Nm to both hips while relying on a single actuator, resulting in a lightweight and compact device. Lab tests show it reduces peak muscle activation by up to 20% during various locomotion tasks. For users with weak mobility who walk slowly with short strides, we added an innovative FMG sensor band to detect motion intent; this enables timely, sufficiently strong assistance even when small movements would not reliably trigger traditional kinematics-based control strategies.
   - block: markdown
     content:
       title: |
@@ -61,12 +64,14 @@ sections:
       title: |
         Award
       text: |
-        <div style="text-align: center;">
-          <img src="competition-groupphoto.jpg" alt="an image of competition" title="Competition" width="75%">
-        </div>     <img src="dr-yu-prize.jpg" alt="an image of Dr Yu with medal" title="We won!" width="75%">
-        <p class="justified-text"> The 2025 Exoskeleton Robotics Makers Challenge finals were held on November 28 in Guangzhou, attracting university, research institute, and industry teams nationwide and supported by several national and regional organizations. The participants presented innovations in hip, knee, waist/back, and modular omnidirectional walking exoskeletons—many featuring lightweight design, intelligent control, human–machine interaction, and some with pending national patents. We won the first prize with our novel hip exoskeleton. Organizers said the competition showcased advances across eldercare, rehabilitation, and sports applications, will keep expanding as an innovation incubator, and aims to accelerate real-world adoption of exoskeleton technology to support disability services and healthcare. </p>
-      external_link: |
-        "https://mp.weixin.qq.com/s/MVkwstipY08vb3cv6oHX6g"
+        <img src="competition-groupphoto.jpg" alt="A group of participants celebrating at a robotics competition, showcasing their innovative projects. The atmosphere is filled with excitement and camaraderie as they pose together, highlighting teamwork and achievement." title="Competition">    
+        <br> 
+        <img src="dr-yu-prize.jpg" alt="Dr. Yu proudly holding a medal, celebrating the achievement of winning a prize. The background features a festive atmosphere with people clapping and cheering, highlighting the joy of success." title="We won!">     
+        <br>
+        <p class="justified-text"> The 2025 Exoskeleton Robotics Makers Challenge finals were held on November 28 in Guangzhou, attracting university, research institute, and industry teams nationwide and supported by several national and regional organizations. The participants presented innovations in hip, knee, waist/back, and modular omnidirectional walking exoskeletons—many featuring lightweight design, intelligent control, human–machine interaction, and some with pending national patents. **We won the first prize with our novel hip exoskeleton.** Organizers said the competition showcased advances across eldercare, rehabilitation, and sports applications, will keep expanding as an innovation incubator, and aims to accelerate real-world adoption of exoskeleton technology to support disability services and healthcare. </p>
+        <br> 
+    
+        See link for more info: https://mp.weixin.qq.com/s/MVkwstipY08vb3cv6oHX6g
 
 ---
 
