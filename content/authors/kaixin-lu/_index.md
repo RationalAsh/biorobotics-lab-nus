@@ -64,8 +64,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Fellows
+- Alumni
 ---
-Kaixin Lu received the B.E. degree in automation and Ph.D. degree in control science and engineering from Guangdong University of Technology, Guangzhou, China, in 2017 and 2022, respectively. She is currently a Research Fellow with the Department of Biomedical Engineering, National University of Singapore.
+Kaixin Lu received the B.E. degree in automation and Ph.D. degree in control science and engineering from Guangdong University of Technology, Guangzhou, China, in 2017 and 2022, respectively. She was a Research Fellow with the Department of Biomedical Engineering, National University of Singapore until 2025.
 
-Her current research interests include actuator nonlinearities, adaptive fuzzy/neural control, fixed-time control, inverse optimal control, multi-agent systems and robotics.
+Her research interests included actuator nonlinearities, adaptive fuzzy/neural control, fixed-time control, inverse optimal control, multi-agent systems and robotics.
