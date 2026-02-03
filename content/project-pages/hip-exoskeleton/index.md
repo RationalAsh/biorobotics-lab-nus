@@ -44,8 +44,7 @@ sections:
   - block: hero
     content:
       title: |
-        NUS
-        Biorobotics Lab
+        Hip Exoskeleton
       image:
         filename: hip-exo-pose.jpg
       text: |
@@ -64,9 +63,17 @@ sections:
       title: |
         Award
       text: |
-        <img src="competition-groupphoto.jpg" alt="A group of participants celebrating at a robotics competition, showcasing their innovative projects. The atmosphere is filled with excitement and camaraderie as they pose together, highlighting teamwork and achievement." title="Competition">    
-        <br> 
-        <img src="dr-yu-prize.jpg" alt="Dr. Yu proudly holding a medal, celebrating the achievement of winning a prize. The background features a festive atmosphere with people clapping and cheering, highlighting the joy of success." title="We won!">     
+        <div style="display:flex; gap:12px; align-items:center;">
+        <img src="competition-groupphoto.jpg"
+            alt="A group of participants celebrating at a robotics competition"
+            title="Competition"
+            style="display:block; width:50%; height:auto;">
+        <img src="dr-yu-prize.jpg"
+            alt="Dr. Yu proudly holding a medal"
+            title="We won!"
+            style="display:block; width:50%; height:auto;">
+        </div>
+           
         <br>
         <p class="justified-text"> The 2025 Exoskeleton Robotics Makers Challenge finals were held on November 28 in Guangzhou, attracting university, research institute, and industry teams nationwide and supported by several national and regional organizations. The participants presented innovations in hip, knee, waist/back, and modular omnidirectional walking exoskeletons—many featuring lightweight design, intelligent control, human–machine interaction, and some with pending national patents. **We won the first prize with our novel hip exoskeleton.** Organizers said the competition showcased advances across eldercare, rehabilitation, and sports applications, will keep expanding as an innovation incubator, and aims to accelerate real-world adoption of exoskeleton technology to support disability services and healthcare. </p>
         <br> 
