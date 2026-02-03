@@ -47,7 +47,7 @@ sections:
         Hip Exoskeleton
       subtitle: A novel hip exoskeleton that provides precise and smart assistance across a wide range of scenarios, e.g. uphill cycling, stairs ascending and descending and walking on diverse irregular terrain. 
       text: |
-        <img src="hip-exo-pose.jpg" alt="an image of a person wearing a back exoskeleton" title="Back Exoskeleton" width="100%">
+        <img src="hip-exo-pose.jpg" alt="an image of a person wearing a hip exoskeleton" title="Hip Exoskeleton" width="35%">
         <br>
         <p class="justified-text"> Demand for locomotion assistance is widespread and affects two main groups. For the elderly and people with mobility issues, aging makes everyday tasks harder: gait becomes slower, endurance declines, metabolic cost of movement increases, and overall daily activity is reduced. For outdoor and recreational users, these limitations lead to higher energy expenditure, quicker onset of fatigue, and decreased performance. To address these needs, we designed a hip exoskeleton that provides active locomotion support across a wide range of scenarios. Using a uniquely designed differential cable transmission, the exoskeleton delivers synchronized, balanced power assistance of up to 40 Nm to both hips while relying on a single actuator, resulting in a lightweight and compact device. Lab tests show it reduces peak muscle activation by up to 20% during various locomotion tasks. For users with weak mobility who walk slowly with short strides, we added an innovative FMG sensor band to detect motion intent; this enables timely, sufficiently strong assistance even when small movements would not reliably trigger traditional kinematics-based control strategies. </p>
   - block: markdown
@@ -55,15 +55,16 @@ sections:
       title: |
         Video
       text: |
-        {{< youtube CuHjfLlwIzg>}}
+        {{< youtube 75zJ9tj3428>}}
   - block: markdown
     content:
       title: |
-        Publications
+        Award
       text: |
-        1. Shuo Ding, Francisco Anaya Reyes, Shounak Bhattacharya, Ashwin Narayan, Ofori Seyram and Haoyong Yu, "A Novel Back-support Exoskeleton with a Differential Series Elastic Actuator for Lifting Assistance.", _Transactions on Robotics (TRO)_, 2023.
-    design:
-      columns: "2"
+        <img src="competition-groupphoto.jpg" alt="an image of competition" title="Competition" width="75%">
+        <img src="dr-yu-prize.jpg" alt="an image of Dr Yu with medal" title="We won!" width="75%">
+        <p class="justified-text"> We won the first prize in the Champion Product of the 2025 Exoskeleton Innovation Challenge​ with this hip exoskeleton on November 28, 2025. </p>
+
 ---
 
 A novel hip exoskeleton that provides precise and smart assistance across a wide range of scenarios, e.g. uphill cycling, stairs ascending and descending and walking on diverse irregular terrain. 
