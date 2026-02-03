@@ -3,14 +3,15 @@
 
 title: "Soldiers don exoskeleton suits to prepare NDP packs"
 subtitle: ""
-summary: "Soldiers are utilizing exoskeleton suits to do all the heavy lifting while assembling 300,000 parade packs into boxes for Singapore's National Day.
+summary: "Soldiers are utilizing exoskeleton suits to do all the heavy lifting while assembling 300,000 parade packs into boxes for Singapore’s National Day.
 
 Credit: CNA"
+
 authors: []
 tags: []
 categories: []
-date: 2024-07-17T13:00:21+08:00
-lastmod: 2024-07-17T13:00:21+08:00
+date: 2024-08-08T13:00:21+08:00
+lastmod: 2024-00-08T13:00:21+08:00
 featured: true
 draft: false
 
@@ -20,7 +21,7 @@ external_link: "https://www.channelnewsasia.com/watch/soldiers-don-exoskeleton-s
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Credit: CNA"
+  caption: "Credit: NUS College of Design and Engineering"
   focal_point: ""
   preview_only: false
 
