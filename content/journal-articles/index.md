@@ -6,39 +6,59 @@ sections:
     title: Journal Articles
 - block: markdown
   content:
-    text: '1. Teng Ma, Shucong Yin, Zhimin Hou, Haoyong Yu, and Chenglong Fu, "Real-World Terrain-Dependent Variable Admittance Model for Amputee-Prosthesis System and Environment   Interaction", in *IEEE/ASME Transactions on Mechatronics*, January 2025. DOI: [10.1109/TMECH.2024.3523321](https://doi.org/10.1109/TMECH.2024.3523321).
+    text: '1. Hefeng Ji, Jing Xiao, Jimin Liu, Haoyong Yu, and Chao Chen, "WBDM-ECRF: A Bridge Diffusion Model with Efficient Conditional Random Field for Skin Lesion Segmentation", in * Expert Systems with Applications *, pp. 131000, January 2026. DOI: [10.1016/j.eswa.2025.131000](https://doi.org/10.1016/j.eswa.2025.131000)
+      
+      2. Zhimin Hou, Cunjun Yu, David Hsu, and Haoyong Yu, "Teachingbot: Robot teacher for human handwriting, in * IEEE Robotics and Automation Letters *, vol. 11(3), pp.  2610 - 2617, March 2026. DOI: [10.1109/LRA.2026.3653298](https://doi.org/10.1109/LRA.2026.3653298)
+      
+      3. Kaixin Lu, Ziliang Lyu, Yanfang Mo, Yiguang Hong, and Haoyong Yu, "Extremum Seeking Nonovershooting Control of Strict-Feedback Systems Under Unknown Control Direction", in *arXiv*, January 2026. DOI: [10.48550/arXiv.2601.09998](https://doi.org/10.48550/arXiv.2601.09998)
+      
+      4. Kaixin Lu, Ziliang Lyu, and Haoyong Yu, "Inverse optimal design of input-to-state stabilizing homogeneous controllers for nonlinear homogeneous systems", in * Automatica *, vol. 185, pp. 112770. DOI: [10.1016/j.automatica.2025.112770](https://doi.org/10.1016/j.automatica.2025.112770)
+      ' 
+        
+    title: '2026'
+  design:
+    columns: '2'  
+- block: markdown
+  content:
+    text: ''
+    title: Journal Articles
+- block: markdown
+  content:
+    text: '1. Teng Ma, Shucong Yin, Zhimin Hou, Haoyong Yu, and Chenglong Fu, "Real-World Terrain-Dependent Variable Admittance Model for Amputee-Prosthesis System and Environment   Interaction", in *IEEE/ASME Transactions on Mechatronics*, January 2025. DOI: [10.1109/TMECH.2024.3523321](https://doi.org/10.1109/TMECH.2024.3523321)
     
-     2. Guanbao Zeng, Lijian Wu, Yu Haoyong, and Dianhe Zhao, "Quadruped Robot Calf Joint Actuator Molding and Design Based on Dynamic Similarity Hypothesis", in *IEEE Transactions on Industry Applications(Early Access)*, January 2025. DOI: [10.1109/TIA.2025.3532577](https://doi.org/10.1109/TIA.2025.3532577).
+     2. Guanbao Zeng, Lijian Wu, Yu Haoyong, and Dianhe Zhao, "Quadruped Robot Calf Joint Actuator Molding and Design Based on Dynamic Similarity Hypothesis", in *IEEE Transactions on Industry Applications(Early Access)*, January 2025. DOI: [10.1109/TIA.2025.3532577](https://doi.org/10.1109/TIA.2025.3532577)
     
-      3. Dong-Dong Zheng, Yangkun Zhang, Jie Ling, Xuemei Ren, and Haoyong Yu, “Composite Learning-Based Adaptive Terminal Sliding Mode Control for Nonlinear Systems With Experimental Validation”, in *IEEE Transactions on Industrial Electronics(Early Access)*, January 2025. DOI: [10.1109/TIE.2024.3440511](https://doi.org/10.1109/TIE.2024.3440511).
+      3. Dong-Dong Zheng, Yangkun Zhang, Jie Ling, Xuemei Ren, and Haoyong Yu, “Composite Learning-Based Adaptive Terminal Sliding Mode Control for Nonlinear Systems With Experimental Validation”, in *IEEE Transactions on Industrial Electronics(Early Access)*, January 2025. DOI: [10.1109/TIE.2024.3440511](https://doi.org/10.1109/TIE.2024.3440511)
     
-     4. Guanbao Zeng, Yu Haoyong, Lijian Wu, Xiangyu Yang, Kaixin Lu, and Dianhe Zhao, “Full Operating Condition Thigh Joint Motor Design Method for Quadruped Robot Under Trot Gait”, in *IEEE/ASME Transactions on Mechatronics(Early Access)*, January 2025. DOI: [10.1109/TMECH.2024.3524510]( https://doi.org/10.1109/TMECH.2024.3524510).
+     4. Guanbao Zeng, Yu Haoyong, Lijian Wu, Xiangyu Yang, Kaixin Lu, and Dianhe Zhao, “Full Operating Condition Thigh Joint Motor Design Method for Quadruped Robot Under Trot Gait”, in *IEEE/ASME Transactions on Mechatronics(Early Access)*, January 2025. DOI: [10.1109/TMECH.2024.3524510]( https://doi.org/10.1109/TMECH.2024.3524510)
     
-      5. Zhimin Hou, Teng Ma, Wenxin Wang, and Haoyong Yu, “Contextual Policy Search for Task-Level Adaptation in Physical Human–Robot Interaction”, in *IEEE/ASME Transactions on Mechatronics(Early Access)*, January 2025. DOI: [10.1109/TMECH.2025.3529908](https://doi.org/10.1109/TMECH.2025.3529908).
+      5. Zhimin Hou, Teng Ma, Wenxin Wang, and Haoyong Yu, “Contextual Policy Search for Task-Level Adaptation in Physical Human–Robot Interaction”, in *IEEE/ASME Transactions on Mechatronics(Early Access)*, January 2025. DOI: [10.1109/TMECH.2025.3529908](https://doi.org/10.1109/TMECH.2025.3529908)
     
-      6. Jiale Liang, Xiaoyu Wu, Shuaishuai Han, and Haoyong Yu, “Toward Accurate and Robust Unloading Force Rendering Via a Series Elastic Actuator-Driven Body Weight Support System”, in *IEEE Robotics and Automation Letters*, vol. 10, pp. 5058—5065, January 2025. DOI: [10.1109/LRA.2025.3536881](https://doi.org/10.1109/LRA.2025.3536881).
+      6. Jiale Liang, Xiaoyu Wu, Shuaishuai Han, and Haoyong Yu, “Toward Accurate and Robust Unloading Force Rendering Via a Series Elastic Actuator-Driven Body Weight Support System”, in *IEEE Robotics and Automation Letters*, vol. 10, pp. 5058—5065, January 2025. DOI: [10.1109/LRA.2025.3536881](https://doi.org/10.1109/LRA.2025.3536881)
     
-      7. Yuepeng Qian, Jingfeng Xiong, and Haoyong Yu, Chenglong Fu, “Assist-as-needed Hip Exoskeleton Control for Gait Asymmetry Correction via Human-in-the-loop Optimization”, in *arXiv*, March 2025. DOI: [10.48550/arXiv.2503.18051](https://doi.org/10.48550/arXiv.2503.18051).
+      7. Yuepeng Qian, Jingfeng Xiong, and Haoyong Yu, Chenglong Fu, “Assist-as-needed Hip Exoskeleton Control for Gait Asymmetry Correction via Human-in-the-loop Optimization”, in *arXiv*, March 2025. DOI: [10.48550/arXiv.2503.18051](https://doi.org/10.48550/arXiv.2503.18051)
     
-      8. Beycan Emre, Narayan Ashwin, Ofori Seyram, LWR Joshua, Zhao Weihao, and Haoyong Yu, “Development and Validation of the Novel Exergame-Integrated Robotic Stepper Device for Seated Lower Limb Rehabilitation”, in *IEEE Transactions on Neural Systems and Rehabilitation Engineering*, vol. 33, pp. 1643--1652, April 2025. DOI: [10.1109/TNSRE.2025.3563191](https://doi.org/10.1109/TNSRE.2025.3563191).
+      8. Beycan Emre, Narayan Ashwin, Ofori Seyram, LWR Joshua, Zhao Weihao, and Haoyong Yu, “Development and Validation of the Novel Exergame-Integrated Robotic Stepper Device for Seated Lower Limb Rehabilitation”, in *IEEE Transactions on Neural Systems and Rehabilitation Engineering*, vol. 33, pp. 1643--1652, April 2025. DOI: [10.1109/TNSRE.2025.3563191](https://doi.org/10.1109/TNSRE.2025.3563191)
     
-      9. Zhimin Hou, Yao Tong, Ke Shi, and Haoyong Yu, “A bilateral wrist robotic system with compliant actuation for rehabilitation training”, in *Mechanism and Machine Theory*, vol. 207, pp. 105937, May 2025. DOI: [10.1016/j.mechmachtheory.2025.105937](https://doi.org/10.1016/j.mechmachtheory.2025.105937).
+      9. Zhimin Hou, Yao Tong, Ke Shi, and Haoyong Yu, “A bilateral wrist robotic system with compliant actuation for rehabilitation training”, in *Mechanism and Machine Theory*, vol. 207, pp. 105937, May 2025. DOI: [10.1016/j.mechmachtheory.2025.105937](https://doi.org/10.1016/j.mechmachtheory.2025.105937)
     
-      10. David Carmona, and Haoyong Yu, “BiCap: A novel bi-modal dataset of daily living dual-arm manipulation actions”, in *The International Journal of Robotics Research*, vol. 44, pp. 891—907, May 2025. DOI: [10.1177/02783649241290836](https://doi.org/10.1177/02783649241290836).
+      10. David Carmona, and Haoyong Yu, “BiCap: A novel bi-modal dataset of daily living dual-arm manipulation actions”, in *The International Journal of Robotics Research*, vol. 44, pp. 891—907, May 2025. DOI: [10.1177/02783649241290836](https://doi.org/10.1177/02783649241290836)
     
-      11. Xiaoyu Wu, Jun Yang, and Haoyong Yu, "Adaptive Tracking Control with Disturbance Rejection for Cable-Driven Exoskeleton Robot with Compliant Actuators", in *IEEE Transactions on Automation Science and Engineering*, vol. 22, pp. 16462--16475, May 2025. DOI: [10.1109/TASE.2025.3573762](https://doi.org/10.1109/TASE.2025.3573762).
+      11. Xiaoyu Wu, Jun Yang, and Haoyong Yu, "Adaptive Tracking Control with Disturbance Rejection for Cable-Driven Exoskeleton Robot with Compliant Actuators", in *IEEE Transactions on Automation Science and Engineering*, vol. 22, pp. 16462--16475, May 2025. DOI: [10.1109/TASE.2025.3573762](https://doi.org/10.1109/TASE.2025.3573762)
     
-      12. Jun Yang, and Haoyong Yu, “Robust motion control synthesis with essential dynamics for hybrid-driven continuum robots”, in *Mechanism and Machine Theory*, vol. 209, pp. 105937, July 2025. DOI: [10.1016/j.mechmachtheory.2025.105973](https://doi.org/10.1016/j.mechmachtheory.2025.105973).
+      12. Jun Yang, and Haoyong Yu, “Robust motion control synthesis with essential dynamics for hybrid-driven continuum robots”, in *Mechanism and Machine Theory*, vol. 209, pp. 105937, July 2025. DOI: [10.1016/j.mechmachtheory.2025.105973](https://doi.org/10.1016/j.mechmachtheory.2025.105973)
     
-      13. Xinyu Jia, Wenxin Wang, Jun Yang, Yongping Pan, and Haoyong Yu, “ToMPC: Task-Oriented Model Predictive Control Via ADMM for Safe Robotic Manipulation”, in *IEEE Robotics and Automation Letters*, vol.10, pp. 7939—7946, August 2025. DOI: [10.1109/LRA.2025.3579205](https://doi.org/10.1109/LRA.2025.3579205).
+      13. Xinyu Jia, Wenxin Wang, Jun Yang, Yongping Pan, and Haoyong Yu, “ToMPC: Task-Oriented Model Predictive Control Via ADMM for Safe Robotic Manipulation”, in *IEEE Robotics and Automation Letters*, vol.10, pp. 7939—7946, August 2025. DOI: [10.1109/LRA.2025.3579205](https://doi.org/10.1109/LRA.2025.3579205)
     
-      14. Hilary HY Cheng, and Haoyong Yu, "Intentional Target Reaching with an Underactuated Exoskeleton in a Cluttered Environment", in *IEEE Transactions on Neural Systems & Rehabilitation Engineering (TNSRE) (Early Access)*, June 2025. DOI: [10.1109/TNSRE.2025.3582916](https://doi.org/10.1109/TNSRE.2025.3582916).
+      14. Hilary HY Cheng, and Haoyong Yu, "Intentional Target Reaching with an Underactuated Exoskeleton in a Cluttered Environment", in *IEEE Transactions on Neural Systems & Rehabilitation Engineering (TNSRE) (Early Access)*, June 2025. DOI: [10.1109/TNSRE.2025.3582916](https://doi.org/10.1109/TNSRE.2025.3582916)
     
-      15. Andrea Dal Prete, Seyram Ofori, Chan Yon Sin, Ashwin Narayan, Francesco Braghin, Marta Gandolla, and Haoyong Yu, "Computer Vision-based Adaptive Control for Back Exoskeleton Performance Optimization", in *arXiv*, August 2025. DOI: [10.48550/arXiv.2508.06207](https://doi.org/10.48550/arXiv.2508.06207).
+      15. Andrea Dal Prete, Seyram Ofori, Chan Yon Sin, Ashwin Narayan, Francesco Braghin, Marta Gandolla, and Haoyong Yu, "Computer Vision-based Adaptive Control for Back Exoskeleton Performance Optimization", in *arXiv*, August 2025. DOI: [10.48550/arXiv.2508.06207](https://doi.org/10.48550/arXiv.2508.06207)
 
-      16. Yongping Pan, Zhiwen Li, Tian Shi, and Haoyong Yu, "Composite Learning Tracking Control of High-DoF Compliant-Joint Industrial Robots", in *IEEE/ASME Transactions on Mechatronics*, September 2025. DOI: [10.1109/TMECH.2025.3599003](https://doi.org/10.1109/TMECH.2025.3599003).
+      16. Yongping Pan, Zhiwen Li, Tian Shi, and Haoyong Yu, "Composite Learning Tracking Control of High-DoF Compliant-Joint Industrial Robots", in *IEEE/ASME Transactions on Mechatronics*, September 2025. DOI: [10.1109/TMECH.2025.3599003](https://doi.org/10.1109/TMECH.2025.3599003)
     
-      17. Tianzuo Chang, Bai Chen, Yiang Yu, Jiafeng Yao, Kai Liu, Liping Ding, Shengli Chen, Wei Yang, Haoyong Yu, and Shuo Ding, "A novel underactuated mechanism to assist ankle joints in walking with a single series elastic actuator", in * Mechanism and Machine Theory *, vol. 215, pp. 106165, November 2025. DOI: [10.1016/j.mechmachtheory.2025.106165](https://doi.org/10.1016/j.mechmachtheory.2025.106165).'
+      17. Tianzuo Chang, Bai Chen, Yiang Yu, Jiafeng Yao, Kai Liu, Liping Ding, Shengli Chen, Wei Yang, Haoyong Yu, and Shuo Ding, "A novel underactuated mechanism to assist ankle joints in walking with a single series elastic actuator", in * Mechanism and Machine Theory *, vol. 215, pp. 106165, November 2025. DOI: [10.1016/j.mechmachtheory.2025.106165](https://doi.org/10.1016/j.mechmachtheory.2025.106165)
+      
+      18. Qin Gao, Xiaoyong Wu, Jun Ding, Haoyong Yu, and Shaoping Bai, "An Improved Path Planning Algorithm for Precise Fracture Reduction of an Orthopedic Robot", in * IEEE Robotics and Automation Letters *, vol. 11, pp. 634-641, November 2025. DOI: [10.1109/LRA.2025.3632107](https://doi.org/10.1109/LRA.2025.3632107)'
         
     title: '2025'
   design:
@@ -51,7 +71,7 @@ sections:
 
       3. Weihao Zhao, Junbei Liao, Wei Qian, Haoyong Yu, Zhao Guo, "A novel design of series elastic actuator using tensile springs array",in *Mechanism and Machine Theory*, pp. 105541, February 2024. DOI: [10.1016/j.mechmachtheory.2023.105541](https://doi.org/10.1016/j.mechmachtheory.2023.105541)
 
-      4. Qingtian Wu, Yu Zhang, Liming Zhang, Haoyong Yu, "Parallel Self-Attention and Spatial-Attention Fusion for Human Pose Estimation and Running Movement Recognition," in *IEEE Transactions on Cognitive and Developmental Systems*, pp. 358--368, February 2024, DOI: [10.1109/TCDS.2023.3275652](https://doi.org/10.1109/tcds.2023.3275652).
+      4. Qingtian Wu, Yu Zhang, Liming Zhang, Haoyong Yu, "Parallel Self-Attention and Spatial-Attention Fusion for Human Pose Estimation and Running Movement Recognition," in *IEEE Transactions on Cognitive and Developmental Systems*, pp. 358--368, February 2024, DOI: [10.1109/TCDS.2023.3275652](https://doi.org/10.1109/tcds.2023.3275652)
 
       5. Yuepeng Qian, Chuheng Chen, Jingfeng Xiong, Yining Wang, Yuquan Leng, Haoyong Yu, Chenglong Fu, "Terrain-Adaptive Exoskeleton Control With Predictive Gait Mode Recognition: A Pilot Study During Level Walking and Stair Ascent," in *IEEE Transactions on Medical Robotics and Bionics*, pp. 281--291, February 2024, DOI: [10.1109/TMRB.2024.3349624](https://doi.org/10.1109/TMRB.2024.3349624)
 
