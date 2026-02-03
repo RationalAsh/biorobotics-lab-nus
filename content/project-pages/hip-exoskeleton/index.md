@@ -3,11 +3,12 @@
 
 title: "Hip Exoskeleton"
 summary: ""
-# authors: ["zhao-weihao","shounak-b"]
+# authors: ["zhao-weihao"]
 tags: []
-categories: ["rehabilitation-robotics"]
+categories: ["assistive-robotics"]
 date: 2023-08-20T16:31:17+08:00
-draft: true
+type: landing
+weight: 1
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,6 +40,30 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+sections:
+  - block: markdown
+    content:
+      title: |
+        Hip Exoskeleton
+      subtitle: A novel hip exoskeleton that provides precise and smart assistance across a wide range of scenarios, e.g. uphill cycling, stairs ascending and descending and walking on diverse irregular terrain. 
+      text: |
+        <img src="back-exo-banner.jpg" alt="an image of a person wearing a back exoskeleton" title="Back Exoskeleton" width="100%">
+        <br>
+        <p class="justified-text"> Demand for locomotion assistance is widespread and affects two main groups. For the elderly and people with mobility issues, aging makes everyday tasks harder: gait becomes slower, endurance declines, metabolic cost of movement increases, and overall daily activity is reduced. For outdoor and recreational users, these limitations lead to higher energy expenditure, quicker onset of fatigue, and decreased performance. To address these needs, we designed a hip exoskeleton that provides active locomotion support across a wide range of scenarios. Using a uniquely designed differential cable transmission, the exoskeleton delivers synchronized, balanced power assistance of up to 40 Nm to both hips while relying on a single actuator, resulting in a lightweight (4 kg), compact device. Lab tests show it reduces peak muscle activation by up to 20% during various locomotion tasks. For users with weak mobility who walk slowly with short strides, we added an innovative FMG sensor band to detect motion intent; this enables timely, sufficiently strong assistance even when small movements would not reliably trigger traditional kinematics-based control strategies. </p>
+  - block: markdown
+    content:
+      title: |
+        Video
+      text: |
+        {{< youtube CuHjfLlwIzg>}}
+  - block: markdown
+    content:
+      title: |
+        Publications
+      text: |
+        1. Shuo Ding, Francisco Anaya Reyes, Shounak Bhattacharya, Ashwin Narayan, Ofori Seyram and Haoyong Yu, "A Novel Back-support Exoskeleton with a Differential Series Elastic Actuator for Lifting Assistance.", _Transactions on Robotics (TRO)_, 2023.
+    design:
+      columns: "2"
 ---
 
-A novel hip exoskeleton with a single rotary actuator for walking assistance. The device contains only one rotary actuator to drive the two hip joints. A differential cable-driven system, which contains a novel rotary differential mechanism, cable guides, and tensioning mechanism, is applied to achieve this. Hence, the device is lightweight and able to provide balance but inverse assistance to the two hips while allowing independent hip movement. Considering safety, compliance, and the requirement of detecting and regulating interactive torque, we adopt a rotary series elastic actuator (SEA) as the driving unit. The springs array of the SEA can absorb impact and its deflection, which is sensible, indicates the interaction force facilitating accurate torque control. Experience results show good torque control performance and enough response speed to catch up with the walking rhythm.
+A novel hip exoskeleton that provides precise and smart assistance across a wide range of scenarios, e.g. uphill cycling, stairs ascending and descending and walking on diverse irregular terrain. 
