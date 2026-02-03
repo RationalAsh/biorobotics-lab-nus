@@ -10,9 +10,9 @@ sections:
     id: assistive-robotics
     content:
       title: Assistive Robotics
-      subtitle: 'Occupational Exoskeletons for Industrial Workers'
+      subtitle: 'Wearable Exoskeletons'
       text:  |
-        > In modern industrial workplaces, safety and shifting demographics are major challenges. Back injuries comprise 41.7% of workplace injuries and are 2.6 times as likely as other injuries. Shoulder injuries are the next most common. These injuries lead to significant expenses, with healthcare and productivity costs reaching up to 20.59 billion USD due to over-exertion and repetitive tasks. This is further compounded by the aging global population, with projections stating that over 22% will be above the age of 60 by 2050. The labor market, already impacted by COVID-related shortages, sees a leaner workforce that is, on average, older. With people working longer and retiring later, there's a growing need for occupational exoskeletons. Such devices could improve workplace safety, boost productivity, and assist companies in maintaining their experienced workforce.
+        > Making headway in wearable technology, our lightweight, battery-operated exoskeletons—alongside lightweight passive exoskeleton options—provide precise joint assistance for elderly care, outdoor activities, and industrial workers. They combine advanced sensors and adaptive algorithms with core technologies developed in-house to deliver on-demand support that feels natural and unobtrusive. Beyond mobility support, the platform integrates intelligent mobility aids and health-monitoring devices to track user status and optimise interventions. Together with intelligent robots, these solutions aim to improve quality of life and enhance productivity across healthcare, logistics, and industrial settings.
         
         <br>
       # Choose how many pages you would like to display (0 = all pages)
