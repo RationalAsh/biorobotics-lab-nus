@@ -18,7 +18,7 @@ echo Press Ctrl+C to stop
 echo.
 
 REM Run Docker command with interactive terminal
-docker run --rm -it -v "%CD%":/workspace -w /workspace -p %PORT%:1313 %IMAGE% hugo server --bind 0.0.0.0 --port 1313 --baseURL "http://localhost:%PORT%/" --disableFastRender --navigateToChanged
+docker run --rm -it -v "%CD%":/workspace -w /workspace -p %PORT%:1313 %IMAGE% hugo server --bind 0.0.0.0 --port 1313 --baseURL "http://localhost:%PORT%/" --disableFastRender --navigateToChanged --poll 700ms
 
 REM Check if Docker command succeeded
 if %ERRORLEVEL% neq 0 (
