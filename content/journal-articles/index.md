@@ -6,13 +6,13 @@ sections:
     title: Journal Articles
 - block: markdown
   content:
-    text: '1. Hefeng Ji, Jing Xiao, Jimin Liu, Haoyong Yu, and Chao Chen, "WBDM-ECRF: A Bridge Diffusion Model with Efficient Conditional Random Field for Skin Lesion Segmentation", in * Expert Systems with Applications *, pp. 131000, January 2026. DOI: [10.1016/j.eswa.2025.131000](https://doi.org/10.1016/j.eswa.2025.131000)
+    text: '1. Hefeng Ji, Jing Xiao, Jimin Liu, Haoyong Yu, and Chao Chen, "WBDM-ECRF: A Bridge Diffusion Model with Efficient Conditional Random Field for Skin Lesion Segmentation", in *Expert Systems with Applications*, pp. 131000, January 2026. DOI: [10.1016/j.eswa.2025.131000](https://doi.org/10.1016/j.eswa.2025.131000)
       
-      2. Zhimin Hou, Cunjun Yu, David Hsu, and Haoyong Yu, "Teachingbot: Robot teacher for human handwriting, in * IEEE Robotics and Automation Letters *, vol. 11(3), pp.  2610 - 2617, March 2026. DOI: [10.1109/LRA.2026.3653298](https://doi.org/10.1109/LRA.2026.3653298)
+      2. Zhimin Hou, Cunjun Yu, David Hsu, and Haoyong Yu, "Teachingbot: Robot teacher for human handwriting, in *IEEE Robotics and Automation Letters*, vol. 11(3), pp.  2610 - 2617, March 2026. DOI: [10.1109/LRA.2026.3653298](https://doi.org/10.1109/LRA.2026.3653298)
       
       3. Kaixin Lu, Ziliang Lyu, Yanfang Mo, Yiguang Hong, and Haoyong Yu, "Extremum Seeking Nonovershooting Control of Strict-Feedback Systems Under Unknown Control Direction", in *arXiv*, January 2026. DOI: [10.48550/arXiv.2601.09998](https://doi.org/10.48550/arXiv.2601.09998)
       
-      4. Kaixin Lu, Ziliang Lyu, and Haoyong Yu, "Inverse optimal design of input-to-state stabilizing homogeneous controllers for nonlinear homogeneous systems", in * Automatica *, vol. 185, pp. 112770. DOI: [10.1016/j.automatica.2025.112770](https://doi.org/10.1016/j.automatica.2025.112770)
+      4. Kaixin Lu, Ziliang Lyu, and Haoyong Yu, "Inverse optimal design of input-to-state stabilizing homogeneous controllers for nonlinear homogeneous systems", in *Automatica*, vol. 185, pp. 112770. DOI: [10.1016/j.automatica.2025.112770](https://doi.org/10.1016/j.automatica.2025.112770)
       ' 
         
     title: '2026'
@@ -52,9 +52,9 @@ sections:
 
       16. Yongping Pan, Zhiwen Li, Tian Shi, and Haoyong Yu, "Composite Learning Tracking Control of High-DoF Compliant-Joint Industrial Robots", in *IEEE/ASME Transactions on Mechatronics*, September 2025. DOI: [10.1109/TMECH.2025.3599003](https://doi.org/10.1109/TMECH.2025.3599003)
     
-      17. Tianzuo Chang, Bai Chen, Yiang Yu, Jiafeng Yao, Kai Liu, Liping Ding, Shengli Chen, Wei Yang, Haoyong Yu, and Shuo Ding, "A novel underactuated mechanism to assist ankle joints in walking with a single series elastic actuator", in * Mechanism and Machine Theory *, vol. 215, pp. 106165, November 2025. DOI: [10.1016/j.mechmachtheory.2025.106165](https://doi.org/10.1016/j.mechmachtheory.2025.106165)
+      17. Tianzuo Chang, Bai Chen, Yiang Yu, Jiafeng Yao, Kai Liu, Liping Ding, Shengli Chen, Wei Yang, Haoyong Yu, and Shuo Ding, "A novel underactuated mechanism to assist ankle joints in walking with a single series elastic actuator", in *Mechanism and Machine Theory*, vol. 215, pp. 106165, November 2025. DOI: [10.1016/j.mechmachtheory.2025.106165](https://doi.org/10.1016/j.mechmachtheory.2025.106165)
       
-      18. Qin Gao, Xiaoyong Wu, Jun Ding, Haoyong Yu, and Shaoping Bai, "An Improved Path Planning Algorithm for Precise Fracture Reduction of an Orthopedic Robot", in * IEEE Robotics and Automation Letters *, vol. 11, pp. 634-641, November 2025. DOI: [10.1109/LRA.2025.3632107](https://doi.org/10.1109/LRA.2025.3632107)'
+      18. Qin Gao, Xiaoyong Wu, Jun Ding, Haoyong Yu, and Shaoping Bai, "An Improved Path Planning Algorithm for Precise Fracture Reduction of an Orthopedic Robot", in *IEEE Robotics and Automation Letters*, vol. 11, pp. 634-641, November 2025. DOI: [10.1109/LRA.2025.3632107](https://doi.org/10.1109/LRA.2025.3632107)'
         
     title: '2025'
   design:
