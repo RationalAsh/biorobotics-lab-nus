@@ -12,7 +12,13 @@ sections:
       
       3. Kaixin Lu, Ziliang Lyu, Yanfang Mo, Yiguang Hong, and Haoyong Yu, "Extremum Seeking Nonovershooting Control of Strict-Feedback Systems Under Unknown Control Direction", in *arXiv*, January 2026. DOI: [10.48550/arXiv.2601.09998](https://doi.org/10.48550/arXiv.2601.09998)
       
-      4. Kaixin Lu, Ziliang Lyu, and Haoyong Yu, "Inverse optimal design of input-to-state stabilizing homogeneous controllers for nonlinear homogeneous systems", in *Automatica*, vol. 185, pp. 112770. DOI: [10.1016/j.automatica.2025.112770](https://doi.org/10.1016/j.automatica.2025.112770)
+      4. Jun Yang, Yongping Pan, and Haoyong Yu, "Composite Estimation and Control for Servo Mechanisms Subject to Uncertainties and Disturbances", in *IEEE Transactions on Industrial Electronics*, pp. 1 - 11, January 2026. DOI: [10.1109/TIE.2025.3647864](https://doi.org/10.1109/TIE.2025.3647864)
+
+      5. Yuepeng Qian, Jingfeng Xiong, Haoyong Yu, and Chenglong Fu, "Assist-as-needed hip exoskeleton control for gait asymmetry correction via human-in-the-loop optimization", *IEEE Transactions on Biomedical Engineering*, pp. 1 - 12, February 2026. DOI: [10.1109/TBME.2026.3660874](https://doi.org/10.1109/TBME.2026.3660874)
+
+      6. Kaixin Lu, Ziliang Lyu, and Haoyong Yu, "Inverse optimal design of input-to-state stabilizing homogeneous controllers for nonlinear homogeneous systems", in *Automatica*, vol. 185, pp. 112770. DOI: [10.1016/j.automatica.2025.112770](https://doi.org/10.1016/j.automatica.2025.112770)
+
+      7. Bin Chen, Jingxian Cai, Mengyuan Wang, Lu Xiao, Ya Wang, Shuo Ding, Shuaishuai Han, Haoyong Yu, and Wenxin Niu, "Neuromechanical Effects of a Soft Shoulder Exoskeleton in Overhead Industrial Tasks: Evidence from Multimodal Physiological Evaluation", in *Soft Robotics*, pp. 1 - 12 . DOI: [10.1177/21695172261432103](https://doi.org/10.1177/21695172261432103)
       ' 
         
     title: '2026'
