@@ -6,9 +6,11 @@ sections:
     title: Conference Papers
 - block: markdown
   content:
-    text: '1. Xinyu Jia, Wenxin Wang, Jun Yang, Yongping Pan, and Haoyong Yu, "Multi-layered Safety of Redundant Robot Manipulators via Task-oriented Planning and Control", in *Proceedings IEEE International Conference on Robotics and Automation (ICRA)*, 2025. DOI: [10.48550/arXiv.2410.17742](https://doi.org/10.48550/arXiv.2410.17742)
+    text: '1. Xinyu Jia, Wenxin Wang, Jun Yang, Yongping Pan, and Haoyong Yu, "Multi-layered Safety of Redundant Robot Manipulators via Task-oriented Planning and Control",in *Proceedings IEEE International Conference on Robotics and Automation (ICRA)*, 2025. DOI: [10.48550/arXiv.2410.17742](https://doi.org/10.48550/arXiv.2410.17742)
       
-      2. Beycan Emre, Ofori Seyram, LWR Joshua, Narayan Ashwin and Haoyong Yu, "Enhancing Seated Lower Limb Training: Evaluating an Exergame-Integrated Stepper for Weight-Shift and Muscle Activation”, in *2025 International Conference on Rehabilitation Robotics (ICORR)*, pp. 790--795, May 2025. DOI: [10.1109/ICORR66766.2025.11063139](https://doi.org/10.1109/ICORR66766.2025.11063139)
+      2. Beycan Emre, Ofori Seyram, LWR Joshua, Narayan Ashwin and Haoyong Yu, "Enhancing Seated Lower Limb Training: Evaluating an Exergame-Integrated Stepper for Weight-Shift and Muscle Activation”,in *2025 International Conference on Rehabilitation Robotics (ICORR)*, pp. 790--795, May 2025. DOI: [10.1109/ICORR66766.2025.11063139](https://doi.org/10.1109/ICORR66766.2025.11063139)
+
+      3. Myo Thant Sin Aung, Ryo Kikuuwe, Soe Lin Paing, Jun Yang, and Haoyong Yu, "A New Variable-Gain Sliding Mode Filter and Its Application to Velocity Filtering",in *2025 IEEE International Conference on Robotics and Automation (ICRA)*, pp. 5601--5607, May 2025. DOI: [10.1109/ICRA55743.2025.11127675](https://doi.org/10.1109/ICRA55743.2025.11127675)
 
           '
     title: '2025'
