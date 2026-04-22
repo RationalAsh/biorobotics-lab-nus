@@ -77,7 +77,17 @@ sections:
             filters:
               brightness: 0.7
           position: center
-          color: '#555'              
+          color: '#555'  
+      - title: "The Champion of the 2025 Exoskeletal Robot Maker Challenge"
+        content: '@ Guangzhou'
+        align: center
+        background:
+          image:
+            filename: hipexo_champion_2025.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'             
         # link:
         #   icon: graduation-cap
         #   icon_pack: fas
