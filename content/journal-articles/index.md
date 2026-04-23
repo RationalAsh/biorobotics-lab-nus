@@ -14,7 +14,7 @@ sections:
       
       4. Jun Yang, Yongping Pan, and Haoyong Yu, "Composite Estimation and Control for Servo Mechanisms Subject to Uncertainties and Disturbances", in *IEEE Transactions on Industrial Electronics*, pp. 1 - 11, January 2026. DOI: [10.1109/TIE.2025.3647864](https://doi.org/10.1109/TIE.2025.3647864)
 
-      5. Yuepeng Qian, Jingfeng Xiong, Haoyong Yu, and Chenglong Fu, "Assist-as-needed hip exoskeleton control for gait asymmetry correction via human-in-the-loop optimization", *IEEE Transactions on Biomedical Engineering*, pp. 1 - 12, February 2026. DOI: [10.1109/TBME.2026.3660874](https://doi.org/10.1109/TBME.2026.3660874)
+      5. Yuepeng Qian, Jingfeng Xiong, Haoyong Yu, and Chenglong Fu, "Assist-as-needed hip exoskeleton control for gait asymmetry correction via human-in-the-loop optimization", in *IEEE Transactions on Biomedical Engineering*, pp. 1 - 12, February 2026. DOI: [10.1109/TBME.2026.3660874](https://doi.org/10.1109/TBME.2026.3660874)
 
       6. Kaixin Lu, Ziliang Lyu, and Haoyong Yu, "Inverse optimal design of input-to-state stabilizing homogeneous controllers for nonlinear homogeneous systems", in *Automatica*, vol. 185, pp. 112770. DOI: [10.1016/j.automatica.2025.112770](https://doi.org/10.1016/j.automatica.2025.112770)
 
