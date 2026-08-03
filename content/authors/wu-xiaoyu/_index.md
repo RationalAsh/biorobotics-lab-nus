@@ -13,7 +13,7 @@ last_name: "Wu"
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate (2025)
+role: PhD Candidate (2024)
 
 # Organizations/Affiliations
 organizations:

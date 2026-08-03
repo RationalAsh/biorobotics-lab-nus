@@ -13,7 +13,7 @@ last_name: "Yu"
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: PhD Candidate (2026)
 
 # Organizations/Affiliations
 organizations:
@@ -67,8 +67,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Alumni
 ---
 
 Yu Yiang received his bachelor's degree in International Economics and Trade at Nankai University in 2022. He had previous research experience in the Brain Science field, including computational neurobiological modeling of the brain and research on the functional lateralization of the hippocampus.
-He is currently a Ph.D. student in the Department of Biomedical Engineering of the National University of Singapore, under the supervision of Dr. Yu Haoyong.
+He was a Ph.D. student in the Department of Biomedical Engineering of the National University of Singapore, under the supervision of Dr. Yu Haoyong.

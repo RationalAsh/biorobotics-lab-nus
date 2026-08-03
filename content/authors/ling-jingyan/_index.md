@@ -13,7 +13,7 @@ last_name: "Ling"
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: PhD Candidate (2025)
 
 # Organizations/Affiliations
 organizations:
@@ -72,8 +72,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Alumni
 ---
 Jingyan did his bachelor's degree in Mechanical Engineering at Purdue University in 2015 and received two master's degrees (Project Management and Robotics) at Northwestern University in 2017 and 2019, respectively. He had previous research experience in the HRI field, including haptic feedback, visual feedback, brain-computer interface, and human-centered design.
 
-Jingyan has his research interest in the human-robot interaction field regarding the novel communication between humans and agents. He is currently working with Dr. Yu Haoyong in the Department of Biomedical Engineering at the National University of Singapore on haptic feedback for immersive feelings.
+Jingyan has his research interest in the human-robot interaction field regarding the novel communication between humans and agents. He was working with Dr. Yu Haoyong in the Department of Biomedical Engineering at the National University of Singapore on haptic feedback for immersive feelings.

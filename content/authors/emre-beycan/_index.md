@@ -13,7 +13,7 @@ last_name: "Beycan"
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: PhD Candidate (2025)
 
 # Organizations/Affiliations
 organizations:
@@ -67,8 +67,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Alumni
 ---
 Emre Beycan received the Bachelor degree in Department of Physiotherapy and Rehabilitation at Marmara University, Istanbul, Turkey in 2018. He did an internship via Erasmus+ Program at the neurology clinic in Milan/Italy in 2018. His background mainly focused on clinical trials for neurologic especially stroke patients.
 
-He is currently pursuing the Ph.D. degree in Department of Biomedical Engineering, advised by Dr. Yu Haoyong. He is currently working on development and validation of the lower-limb rehabilitation robot with exercise-specific-games (exerGame) for post-stroke patients.
+He was pursuing the Ph.D. degree in Department of Biomedical Engineering, advised by Dr. Yu Haoyong. He worked on development and validation of the lower-limb rehabilitation robot with exercise-specific-games (exerGame) for post-stroke patients.

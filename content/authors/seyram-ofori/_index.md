@@ -13,7 +13,7 @@ last_name: Ofori
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: PhD Candidate (2026)
 
 # Organizations/Affiliations
 organizations:
@@ -66,9 +66,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Alumni
 ---
 
 Seyram Ofori completed his BSc degree in Biomedical Engineering at the University of Ghana in 2018. He served as a Teaching Assistant for one year and as a Research Assistant for another year in the biomechanics laboratory at the University of Ghana.
  
-He is currently a PhD student at NUS Department of Biomedical Engineering under the supervision of Dr. Yu Haoyong. His research focus is on the biomechanics impacts of wearable robotics.
+He was a PhD student at NUS Department of Biomedical Engineering under the supervision of Dr. Yu Haoyong. His research focus was on the biomechanics impacts of wearable robotics.

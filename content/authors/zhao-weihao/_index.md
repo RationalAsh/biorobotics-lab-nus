@@ -13,7 +13,7 @@ last_name: "Zhao"
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: PhD Candidate (2026)
 
 # Organizations/Affiliations
 organizations:
@@ -69,10 +69,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Alumni
 ---
 
 Weihao did his Bachelor’s degree in Mechanical Design, Manufacturing and Automation in Wuhan University in 2020 and received Master of Science Degree in Mechanical Engineering in Nanyang Technological University in 2022. He had previous experience in robotics field including compliant upper limb rehabilitation exoskeleton design and serial elastic actuator design.
  
-Weihao has his research interest in wearable bio-robotics. He is currently working with Dr. Yu Haoyong in the Department of Biomedical Engineering at the National University of Singapore on hip exoskeleton.
+Weihao has his research interest in wearable bio-robotics. He was working with Dr. Yu Haoyong in the Department of Biomedical Engineering at the National University of Singapore on hip exoskeleton.
 

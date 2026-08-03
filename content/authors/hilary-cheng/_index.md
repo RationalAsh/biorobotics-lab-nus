@@ -13,7 +13,7 @@ last_name: "Cheng"
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: PhD Candidate (2025)
 
 # Organizations/Affiliations
 organizations:
@@ -74,11 +74,11 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Alumni
 ---
 
 Hilary received her B.Eng. in Biomedical Engineering (BME) from The Chinese University of Hong Kong (CUHK) in 2017. Afterward, she joined the Mechanical and Automation Engineering Department (MAE), CUHK as a Research Assistant and then an M.Phil. student. Hilary received her M.Phil. in MAE from CUHK in 2020. During her time in the two Engineering departments, she worked on EMG-driven prosthetic finger, shoulder rehabilitation device for stroke, and human shoulder workspace analysis through an anthropomorphic robot model.
 
 With Hilary’s strong interest in medical-related researches, in 2020, she joined the Department of Orthopaedics & Traumatology (ORT), CUHK as a Research Assistant to gain her clinical experiences at Prince of Wales Hospital, Hong Kong. She worked on various elderly and sports rehabilitation projects when she worked in ORT.
 
-Hilary is currently a Ph.D. student in the Department of Biomedical Engineering, NUS under the supervision of Dr. Yu Haoyong. Her research focuses on stroke rehabilitation with robotic devices.
+Hilary was currently a Ph.D. student in the Department of Biomedical Engineering, NUS under the supervision of Dr. Yu Haoyong. Her research focuses on stroke rehabilitation with robotic devices.
