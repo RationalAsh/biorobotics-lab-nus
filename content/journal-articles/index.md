@@ -19,6 +19,8 @@ sections:
       6. Kaixin Lu, Ziliang Lyu, and Haoyong Yu, "Inverse optimal design of input-to-state stabilizing homogeneous controllers for nonlinear homogeneous systems", in *Automatica*, vol. 185, pp. 112770. DOI: [10.1016/j.automatica.2025.112770](https://doi.org/10.1016/j.automatica.2025.112770)
 
       7. Bin Chen, Jingxian Cai, Mengyuan Wang, Lu Xiao, Ya Wang, Shuo Ding, Shuaishuai Han, Haoyong Yu, and Wenxin Niu, "Neuromechanical Effects of a Soft Shoulder Exoskeleton in Overhead Industrial Tasks: Evidence from Multimodal Physiological Evaluation", in *Soft Robotics*, pp. 1 - 12 . DOI: [10.1177/21695172261432103](https://doi.org/10.1177/21695172261432103)
+
+      8. Xiaoyong Wu, Caiyi Tang, Kai Xu, Myo Thant Sin Aung, Guodong Tan, Haoyong Yu, and Shaoping Bai, "Enhancing motion accuracy in planar parallel mechanisms via model-based two-stage approach", in *Mechanism and Machine Theory*, vol. 226, pp. 106475, September 2026. DOI: [10.1016/j.mechmachtheory.2026.106475](https://doi.org/10.1016/j.mechmachtheory.2026.106475)
       ' 
         
     title: '2026'
