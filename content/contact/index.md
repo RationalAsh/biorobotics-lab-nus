@@ -38,7 +38,7 @@ sections:
       columns: '2'
   - block: contact
     content:
-      title: Lab Address 1
+      title: Lab Address
       text: ""
       # email: bieyhy@nus.edu.sg
       # phone: 888 888 88 88
